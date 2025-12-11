@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 import json
 import os
 import re
-from news_config import IMPORTANCE_RULES, EXCLUDE_KEYWORDS, MIN_IMPORTANCE_SCORE, RSS_SOURCES
+from news_config import IMPORTANCE_RULES, EXCLUDE_KEYWORDS, MIN_IMPORTANCE_SCORE, RSS_SOURCES, SIMILARITY_THRESHOLD
 
 
 def parse_all_feeds():
@@ -105,23 +105,43 @@ def calculate_importance(news_item):
     return round(score), matched_categories
 
 
+def titles_are_similar(title1, title2):
+    """Проверяем схожесть заголовков по перекрытию слов (Jaccard similarity)"""
+    # Извлекаем слова
+    words1 = set(re.sub(r'[^\w\s]', '', title1.lower()).split())
+    words2 = set(re.sub(r'[^\w\s]', '', title2.lower()).split())
+    
+    # Убираем короткие и стоп-слова
+    stop_words = {'the', 'a', 'an', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 'for', 'of', 'with', 'by', 'as', 'is'}
+    words1 = {w for w in words1 if len(w) > 2 and w not in stop_words}
+    words2 = {w for w in words2 if len(w) > 2 and w not in stop_words}
+    
+    if not words1 or not words2:
+        return False
+    
+    # Считаем перекрытие (Jaccard similarity)
+    intersection = len(words1 & words2)
+    union = len(words1 | words2)
+    similarity = intersection / union if union > 0 else 0
+    
+    return similarity >= SIMILARITY_THRESHOLD
+
+
 def filter_duplicates(news_items):
     """Убираем дубликаты по схожести заголовков"""
     unique_news = []
-    seen_titles = set()
     
     for item in news_items:
-        # Нормализуем заголовок для сравнения
-        normalized = re.sub(r'[^\w\s]', '', item['title'].lower())
-        normalized = ' '.join(normalized.split()[:8])  # Первые 8 слов
+        is_duplicate = False
         
-        # Пропускаем если нормализация дала пустую строку
-        if not normalized or len(normalized) < 3:
-            # Используем оригинальный заголовок как fallback
-            normalized = item['title'].lower()[:50]
+        # Сравниваем с уже добавленными новостями
+        for existing in unique_news:
+            if titles_are_similar(item['title'], existing['title']):
+                print(f"  ⚠ Duplicate detected: {item['title'][:50]}...")
+                is_duplicate = True
+                break
         
-        if normalized not in seen_titles:
-            seen_titles.add(normalized)
+        if not is_duplicate:
             unique_news.append(item)
     
     return unique_news
@@ -180,12 +200,12 @@ def format_telegram_message(news_item):
     safe_title = html.escape(news_item['title'])
     
     # Обрезаем длинный заголовок если нужно (Telegram лимит 4096 символов)
-    if len(safe_title) > 300:
-        safe_title = safe_title[:297] + '...'
+    if len(safe_title) > 250:
+        safe_title = safe_title[:247] + '...'
     
-    message = f"{emoji} <b>{safe_title}</b>\n\n"
+    # Делаем заголовок кликабельным (ссылка спрятана, но preview работает)
+    message = f"{emoji} <a href=\"{news_item['link']}\">{safe_title}</a>\n\n"
     message += f"📊 Score: {news_item['score']} | 🏷 {', '.join(news_item['categories'])}\n"
-    message += f"🔗 {news_item['link']}\n"
     message += f"📅 {news_item['source'].upper()}"
     
     # Финальная проверка длины (на всякий случай)
