@@ -70,10 +70,19 @@ def parse_all_feeds():
                     
                     # Извлекаем summary (первый абзац)
                     summary = ''
-                    if hasattr(entry, 'summary'):
+                    
+                    # Пробуем разные источники summary
+                    if hasattr(entry, 'summary') and entry.summary:
                         summary = entry.summary
-                    elif hasattr(entry, 'description'):
+                    elif hasattr(entry, 'description') and entry.description:
                         summary = entry.description
+                    elif hasattr(entry, 'content') and entry.content:
+                        # Пробуем извлечь из content
+                        if isinstance(entry.content, list) and entry.content:
+                            if isinstance(entry.content[0], dict):
+                                summary = entry.content[0].get('value', '')
+                    elif hasattr(entry, 'subtitle') and entry.subtitle:
+                        summary = entry.subtitle
                     
                     # Очищаем HTML теги из summary
                     if summary:
@@ -90,8 +99,8 @@ def parse_all_feeds():
                         summary = re.sub(r'\n+', ' ', summary)
                         summary = re.sub(r'\s+', ' ', summary)
                         
-                        # Обрезаем до первого абзаца или первых предложений
-                        if '. ' in summary and len(summary) > 150:
+                        # Обрезаем до первых предложений (убрали минимум 150 символов)
+                        if '. ' in summary:
                             # Берем первые 2 предложения
                             sentences = summary.split('. ')
                             if len(sentences) >= 2:
@@ -104,6 +113,10 @@ def parse_all_feeds():
                         # Ограничиваем длину
                         if len(summary) > 300:
                             summary = summary[:297] + '...'
+                        
+                        # Если summary слишком короткий (< 20 символов) - игнорируем
+                        if len(summary) < 20:
+                            summary = ''
                     
                     # Извлекаем URL картинки
                     image_url = None
@@ -487,7 +500,9 @@ def main():
     if top_news:
         print(f"\n📢 Publishing top {len(top_news)} news items:")
         for i, item in enumerate(top_news, 1):
+            summary_preview = item.get('summary', '')[:50] if item.get('summary') else 'NO SUMMARY'
             print(f"{i}. [{item['score']}] {item['title']}")
+            print(f"   Summary: {summary_preview}{'...' if len(item.get('summary', '')) > 50 else ''}")
         
         # 8. Публикуем
         published_links = send_to_telegram(top_news)
