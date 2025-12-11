@@ -64,6 +64,14 @@ MIN_IMPORTANCE_SCORE = 25
 # Уменьши если слишком агрессивная фильтрация
 SIMILARITY_THRESHOLD = 0.6
 
+# Приоритет источников (1 = highest)
+# При дубликатах выбирается источник с меньшим номером
+SOURCE_PRIORITY = {
+    'theblock': 1,    # Highest - has summary
+    'coindesk': 2,
+    'decrypt': 3
+}
+
 # Источники RSS
 RSS_SOURCES = {
     'coindesk': {
