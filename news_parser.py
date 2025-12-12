@@ -357,6 +357,36 @@ def format_telegram_message(news_item):
     return message
 
 
+def format_twitter_message(news_item):
+    """Форматируем сообщение для Twitter (280 char limit)"""
+    
+    # Динамические headers
+    header_map = {
+        'CRITICAL': '🚨 BREAKING',
+        'HIGH': '🔥 ALERT',
+        'MARKET_MOVE': '📈 MARKET',
+        'MEDIUM': '📰 NEWS'
+    }
+    
+    main_category = news_item['categories'][0] if news_item['categories'] else 'MEDIUM'
+    header = header_map.get(main_category, '📰 NEWS')
+    
+    title = news_item['title']
+    link = news_item['link']
+    
+    # Twitter limit: 280 chars
+    # Reserve ~23 chars for link (Twitter auto-shortens to t.co)
+    available = 280 - 23 - len(header) - 5  # -5 for spacing/newlines
+    
+    if len(title) > available:
+        title = title[:available-3] + '...'
+    
+    # Format: Header\n\nTitle\n\nLink
+    tweet = f"{header}\n\n{title}\n\n{link}"
+    
+    return tweet
+
+
 def send_to_telegram(news_items):
     """Публикуем в Telegram"""
     import time
@@ -460,6 +490,101 @@ def send_to_telegram(news_items):
     return published_links
 
 
+def send_to_twitter(news_items):
+    """Публикуем в Twitter"""
+    import time
+    from news_config import TWITTER_ENABLED
+    
+    if not TWITTER_ENABLED:
+        print("ℹ️ Twitter disabled")
+        return []
+    
+    # Получаем credentials
+    api_key = os.getenv('TWITTER_API_KEY')
+    api_secret = os.getenv('TWITTER_API_SECRET')
+    access_token = os.getenv('TWITTER_ACCESS_TOKEN')
+    access_token_secret = os.getenv('TWITTER_ACCESS_TOKEN_SECRET')
+    
+    if not all([api_key, api_secret, access_token, access_token_secret]):
+        print("❌ Twitter credentials not found")
+        return []
+    
+    try:
+        import tweepy
+        
+        # Authenticate
+        auth = tweepy.OAuth1UserHandler(
+            api_key, api_secret,
+            access_token, access_token_secret
+        )
+        api = tweepy.API(auth)
+        client = tweepy.Client(
+            consumer_key=api_key,
+            consumer_secret=api_secret,
+            access_token=access_token,
+            access_token_secret=access_token_secret
+        )
+        
+    except ImportError:
+        print("❌ Tweepy not installed")
+        return []
+    except Exception as e:
+        print(f"❌ Twitter auth failed: {e}")
+        return []
+    
+    published_links = []
+    
+    for i, item in enumerate(news_items):
+        # Rate limiting
+        if i > 0:
+            time.sleep(2)
+        
+        tweet_text = format_twitter_message(item)
+        image_url = item.get('image_url')
+        
+        try:
+            media_id = None
+            
+            # Upload image if available
+            if image_url:
+                try:
+                    # Download image
+                    img_response = requests.get(image_url, timeout=10)
+                    if img_response.status_code == 200:
+                        # Upload to Twitter
+                        import tempfile
+                        with tempfile.NamedTemporaryFile(delete=False, suffix='.jpg') as tmp:
+                            tmp.write(img_response.content)
+                            tmp_path = tmp.name
+                        
+                        media = api.media_upload(tmp_path)
+                        media_id = media.media_id
+                        
+                        # Cleanup
+                        os.unlink(tmp_path)
+                except Exception as e:
+                    print(f"⚠ Twitter image upload failed: {e}")
+            
+            # Post tweet
+            if media_id:
+                response = client.create_tweet(text=tweet_text, media_ids=[media_id])
+            else:
+                response = client.create_tweet(text=tweet_text)
+            
+            if response.data:
+                published_links.append(item['link'])
+                print(f"✓ Tweeted: {item['title'][:50]}...")
+            else:
+                print(f"✗ Twitter post failed")
+                
+        except tweepy.TweepyException as e:
+            print(f"✗ Twitter error: {e}")
+        except Exception as e:
+            print(f"✗ Unexpected Twitter error: {e}")
+    
+    return published_links
+
+
 def main():
     print("=" * 60)
     print("🤖 Crypto News Bot - Starting...")
@@ -517,15 +642,19 @@ def main():
             print(f"{i}. [{item['score']}] {item['title']}")
             print(f"   Summary: {summary_preview}{'...' if len(item.get('summary', '')) > 50 else ''}")
         
-        # 8. Публикуем
-        published_links = send_to_telegram(top_news)
+        # 8. Публикуем в Telegram и Twitter
+        telegram_links = send_to_telegram(top_news)
+        twitter_links = send_to_twitter(top_news)
+        
+        # Объединяем успешно опубликованные ссылки
+        published_links = list(set(telegram_links + twitter_links))
         
         # 9. Сохраняем опубликованные ТОЛЬКО если что-то успешно опубликовалось
         if published_links:
             for link in published_links:
                 published[link] = datetime.now().isoformat()
             save_published(published)
-            print(f"\n✅ Successfully published {len(published_links)} news items")
+            print(f"\n✅ Published: {len(telegram_links)} to Telegram, {len(twitter_links)} to Twitter")
         else:
             print(f"\n⚠ No news items were successfully published")
     else:
