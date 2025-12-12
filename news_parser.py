@@ -8,7 +8,7 @@ import os
 import re
 import html
 from html.parser import HTMLParser
-from news_config import IMPORTANCE_RULES, EXCLUDE_KEYWORDS, MIN_IMPORTANCE_SCORE, RSS_SOURCES, SIMILARITY_THRESHOLD, SOURCE_PRIORITY
+from news_config import IMPORTANCE_RULES, EXCLUDE_KEYWORDS, MIN_IMPORTANCE_SCORE, RSS_SOURCES, SIMILARITY_THRESHOLD, SOURCE_PRIORITY, STOCK_MARKET_THRESHOLD
 
 
 # HTML Stripper для очистки summary от тегов
@@ -276,8 +276,38 @@ def filter_duplicates(news_items):
     return unique_news
 
 
+def filter_already_published(news_items, published):
+    """Фильтруем новости похожие на уже опубликованные (по заголовкам)"""
+    filtered_news = []
+    
+    # Извлекаем заголовки опубликованных новостей
+    published_titles = []
+    for link, data in published.items():
+        if isinstance(data, dict) and data.get('title'):
+            published_titles.append(data['title'])
+    
+    for item in news_items:
+        # Проверяем по ссылке (быстро)
+        if item['link'] in published:
+            print(f"  ⚠ Already published (link): {item['title'][:50]}...")
+            continue
+        
+        # Проверяем по заголовку (медленнее, но ловит разные источники)
+        is_duplicate = False
+        for pub_title in published_titles:
+            if titles_are_similar(item['title'], pub_title):
+                print(f"  ⚠ Already published (similar title): {item['title'][:50]}...")
+                is_duplicate = True
+                break
+        
+        if not is_duplicate:
+            filtered_news.append(item)
+    
+    return filtered_news
+
+
 def load_published():
-    """Загружаем уже опубликованные новости"""
+    """Загружаем уже опубликованные новости с заголовками"""
     try:
         if os.path.exists('published_news.json'):
             with open('published_news.json', 'r', encoding='utf-8') as f:
@@ -287,13 +317,22 @@ def load_published():
                 cleaned_data = {}
                 for k, v in data.items():
                     try:
-                        # Парсим ISO формат
-                        published_date = datetime.fromisoformat(v.replace('Z', '+00:00'))
-                        if published_date > week_ago:
-                            cleaned_data[k] = v
+                        # Новый формат: {link: {timestamp, title}}
+                        if isinstance(v, dict):
+                            published_date = datetime.fromisoformat(v.get('timestamp', '').replace('Z', '+00:00'))
+                            if published_date > week_ago:
+                                cleaned_data[k] = v
+                        # Старый формат: {link: timestamp} - конвертируем
+                        else:
+                            published_date = datetime.fromisoformat(v.replace('Z', '+00:00'))
+                            if published_date > week_ago:
+                                cleaned_data[k] = {'timestamp': v, 'title': ''}
                     except (ValueError, AttributeError):
-                        # Если не можем распарсить, оставляем (лучше дубликат чем потеря)
-                        cleaned_data[k] = v
+                        # Если не можем распарсить, оставляем
+                        if isinstance(v, dict):
+                            cleaned_data[k] = v
+                        else:
+                            cleaned_data[k] = {'timestamp': v, 'title': ''}
                 return cleaned_data
     except (FileNotFoundError, json.JSONDecodeError) as e:
         print(f"⚠ Warning loading published news: {e}")
@@ -609,21 +648,29 @@ def main():
     published = load_published()
     print(f"Already published (last 7 days): {len(published)}")
     
-    # 3. Фильтруем уже опубликованные
-    new_news = [item for item in all_news if item['link'] not in published]
+    # 3. Фильтруем уже опубликованные (по ссылке И по заголовку)
+    new_news = filter_already_published(all_news, published)
     print(f"New news items: {len(new_news)}")
     
     # 4. Рассчитываем важность
     print("\n🎯 Calculating importance scores...")
     scored_news = []
+    stock_sources = ['marketwatch', 'bloomberg', 'reuters']
+    
     for item in new_news:
         score, categories = calculate_importance(item)
-        if score >= MIN_IMPORTANCE_SCORE:
+        
+        # Применяем разные пороги для разных источников
+        threshold = MIN_IMPORTANCE_SCORE
+        if item['source'] in stock_sources:
+            threshold = STOCK_MARKET_THRESHOLD  # Выше порог для stock news
+        
+        if score >= threshold:
             item['score'] = score
             item['categories'] = categories
             scored_news.append(item)
     
-    print(f"News above threshold ({MIN_IMPORTANCE_SCORE}): {len(scored_news)}")
+    print(f"News above threshold: {len(scored_news)}")
     
     # 5. Убираем дубликаты
     unique_news = filter_duplicates(scored_news)
@@ -652,7 +699,12 @@ def main():
         # 9. Сохраняем опубликованные ТОЛЬКО если что-то успешно опубликовалось
         if published_links:
             for link in published_links:
-                published[link] = datetime.now().isoformat()
+                # Находим соответствующую новость для получения заголовка
+                news_item = next((item for item in top_news if item['link'] == link), None)
+                published[link] = {
+                    'timestamp': datetime.now().isoformat(),
+                    'title': news_item['title'] if news_item else ''
+                }
             save_published(published)
             print(f"\n✅ Published: {len(telegram_links)} to Telegram, {len(twitter_links)} to Twitter")
         else:
