@@ -7,8 +7,17 @@ import json
 import os
 import re
 import html
+import io
 from html.parser import HTMLParser
 from news_config import IMPORTANCE_RULES, EXCLUDE_KEYWORDS, MIN_IMPORTANCE_SCORE, RSS_SOURCES, SOURCE_PRIORITY, STOCK_MARKET_THRESHOLD, PUBLISHED_SIMILARITY_THRESHOLD, BATCH_SIMILARITY_THRESHOLD
+
+# OpenAI Integration
+try:
+    from openai import OpenAI
+    OPENAI_AVAILABLE = True
+except ImportError:
+    OPENAI_AVAILABLE = False
+    print("⚠️ OpenAI not available - Alpha Take will be skipped")
 
 
 # HTML Stripper для очистки summary от тегов
@@ -361,6 +370,133 @@ def save_published(published):
         print(f"✗ Error saving published news: {e}")
 
 
+def process_image_for_telegram(image_url, source):
+    """Обрабатывает картинку: обрезает watermark для CoinDesk"""
+    
+    # Только для CoinDesk обрезаем watermark
+    if source.lower() != 'coindesk':
+        return image_url  # Возвращаем URL как есть
+    
+    try:
+        from PIL import Image
+        
+        # Скачиваем картинку
+        response = requests.get(image_url, timeout=10)
+        if response.status_code != 200:
+            print(f"  ⚠️ Failed to download image for cropping")
+            return image_url
+        
+        # Открываем картинку
+        img = Image.open(io.BytesIO(response.content))
+        width, height = img.size
+        
+        # Обрезаем 50px снизу (watermark)
+        crop_pixels = 50
+        if height > crop_pixels:
+            img_cropped = img.crop((0, 0, width, height - crop_pixels))
+            
+            # Сохраняем в BytesIO
+            output = io.BytesIO()
+            img_cropped.save(output, format='JPEG', quality=95)
+            output.seek(0)
+            
+            print(f"  ✓ Cropped CoinDesk watermark (removed {crop_pixels}px)")
+            return output  # Возвращаем файл объект
+        else:
+            print(f"  ⚠️ Image too small to crop")
+            return image_url
+            
+    except ImportError:
+        print(f"  ⚠️ Pillow not installed - skipping watermark removal")
+        return image_url
+    except Exception as e:
+        print(f"  ⚠️ Error processing image: {e}")
+        return image_url
+
+
+def get_alpha_take(news_item):
+    """Получаем Alpha Take от OpenAI для новости"""
+    
+    if not OPENAI_AVAILABLE:
+        return None
+    
+    api_key = os.getenv('OPENAI_API_KEY')
+    if not api_key:
+        print("  ⚠️ OPENAI_API_KEY not found - skipping Alpha Take")
+        return None
+    
+    try:
+        client = OpenAI(api_key=api_key)
+        
+        # Определяем Impact Label
+        score = news_item.get('score', 0)
+        if score >= 80:
+            impact = "HIGH"
+        elif score >= 60:
+            impact = "MEDIUM"
+        else:
+            impact = "LOW"
+        
+        # Формируем промпт
+        categories = ', '.join(news_item.get('categories', []))
+        summary = news_item.get('summary', '')
+        
+        system_prompt = """🔥 MASTER PROMPT — MARKET ALERT (Breaking / Urgent News)
+
+ROLE
+You are a real-time crypto market alert system for professional investors.
+Your task is to surface time-sensitive events that may impact positioning, volatility, or narratives.
+You prioritize speed, clarity, and relevance, not depth.
+No opinions, no hype, no speculation.
+Audience: US-based, market-literate crypto participants.
+
+ALPHA TAKE — ALERT EDITION
+Rules:
+- 1–2 sentences max
+- No predictions
+- No bullish/bearish language
+- Focus on why this matters now
+- No emojis
+- No hashtags
+- Factual only
+
+Return ONLY the Alpha Take text, nothing else."""
+
+        user_prompt = f"""News Title: {news_item['title']}
+
+Summary: {summary if summary else 'No summary available'}
+
+Score: {score} | Impact: {impact}
+Categories: {categories}
+Source: {news_item['source'].upper()}
+
+Generate a concise Alpha Take (1-2 sentences) explaining why this matters now for crypto traders."""
+
+        response = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_prompt}
+            ],
+            max_tokens=100,
+            temperature=0.3,
+            timeout=10.0  # 10 second timeout
+        )
+        
+        alpha_take = response.choices[0].message.content.strip()
+        
+        if alpha_take and len(alpha_take) > 10:
+            print(f"  ✓ Generated Alpha Take: {alpha_take[:50]}...")
+            return alpha_take
+        else:
+            print(f"  ⚠️ Empty Alpha Take received")
+            return None
+            
+    except Exception as e:
+        print(f"  ⚠️ OpenAI error: {e}")
+        return None
+
+
 def format_telegram_message(news_item):
     """Форматируем сообщение для Telegram"""
     
@@ -395,7 +531,20 @@ def format_telegram_message(news_item):
     message += f"📊 Score: {news_item['score']} | 🏷 {', '.join(news_item['categories'])}\n"
     message += f"📅 {news_item['source'].upper()}"
     
+    # Добавляем Alpha Take только если есть место
+    alpha_take = news_item.get('alpha_take')
+    if alpha_take:
+        alpha_section = f"\n\n💡 <b>Alpha Take:</b>\n{html.escape(alpha_take)}"
+        
+        # Проверяем что Alpha Take полностью поместится
+        if len(message) + len(alpha_section) <= 1024:
+            message += alpha_section
+        else:
+            # Не хватает места - пропускаем Alpha Take
+            print(f"  ⚠️ Alpha Take too long for Telegram (message would be {len(message) + len(alpha_section)} chars)")
+    
     # Финальная проверка длины (для caption лимит 1024 символа)
+    # Это на случай если summary слишком длинный
     if len(message) > 1024:
         # Обрезаем по последнему пробелу чтобы не резать слово
         message = message[:1020]
@@ -423,17 +572,32 @@ def format_twitter_message(news_item):
     header = header_map.get(main_category, '📰 NEWS')
     
     title = news_item['title']
-    link = news_item['link']
+    alpha_take = news_item.get('alpha_take')
     
-    # Twitter limit: 280 chars
-    # Reserve ~23 chars for link (Twitter auto-shortens to t.co)
-    available = 280 - 23 - len(header) - 5  # -5 for spacing/newlines
+    # Twitter limit: 280 chars (NO link in text, only image)
+    base_length = len(header) + 5  # header + spacing
     
-    if len(title) > available:
-        title = title[:available-3] + '...'
-    
-    # Format: Header\n\nTitle\n\nLink
-    tweet = f"{header}\n\n{title}\n\n{link}"
+    # Try to fit: Header + Title + Alpha Take (NO link)
+    if alpha_take:
+        alpha_text = f"\n\n💡 {alpha_take}"
+        available_for_title = 280 - base_length - len(alpha_text)
+        
+        if available_for_title > 50:  # Enough space for meaningful title
+            if len(title) > available_for_title:
+                title = title[:available_for_title-3] + '...'
+            tweet = f"{header}\n\n{title}{alpha_text}"
+        else:
+            # Not enough space - skip Alpha Take
+            available_for_title = 280 - base_length
+            if len(title) > available_for_title:
+                title = title[:available_for_title-3] + '...'
+            tweet = f"{header}\n\n{title}"
+    else:
+        # No Alpha Take - just title
+        available_for_title = 280 - base_length
+        if len(title) > available_for_title:
+            title = title[:available_for_title-3] + '...'
+        tweet = f"{header}\n\n{title}"
     
     return tweet
 
@@ -466,16 +630,37 @@ def send_to_telegram(news_items):
             if not image_url or not (image_url.startswith('http://') or image_url.startswith('https://')):
                 image_url = None
         
+        # Обрабатываем картинку (обрезаем watermark для CoinDesk)
+        processed_image = None
+        if image_url:
+            processed_image = process_image_for_telegram(image_url, item['source'])
+        
         try:
+            # Определяем тип отправки
+            is_file = isinstance(processed_image, io.BytesIO)
+            
             # Если есть картинка - отправляем через sendPhoto
-            if image_url:
+            if processed_image:
                 url = f"https://api.telegram.org/bot{bot_token}/sendPhoto"
-                payload = {
-                    'chat_id': channel_id,
-                    'photo': image_url,
-                    'caption': caption,
-                    'parse_mode': 'HTML'
-                }
+                
+                if is_file:
+                    # Отправляем как файл (обрезанная картинка CoinDesk)
+                    files = {'photo': ('image.jpg', processed_image, 'image/jpeg')}
+                    data = {
+                        'chat_id': channel_id,
+                        'caption': caption,
+                        'parse_mode': 'HTML'
+                    }
+                    response = requests.post(url, data=data, files=files, timeout=30)
+                else:
+                    # Отправляем как URL (необработанная картинка)
+                    payload = {
+                        'chat_id': channel_id,
+                        'photo': processed_image,
+                        'caption': caption,
+                        'parse_mode': 'HTML'
+                    }
+                    response = requests.post(url, json=payload, timeout=10)
             else:
                 # Если нет картинки - обычное текстовое сообщение
                 url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
@@ -485,8 +670,7 @@ def send_to_telegram(news_items):
                     'parse_mode': 'HTML',
                     'disable_web_page_preview': True
                 }
-            
-            response = requests.post(url, json=payload, timeout=10)
+                response = requests.post(url, json=payload, timeout=10)
             
             if response.status_code == 200:
                 published_links.append(item['link'])
@@ -499,14 +683,22 @@ def send_to_telegram(news_items):
                     retry_after = 60  # Fallback если не можем распарсить
                 print(f"⚠ Rate limited, waiting {retry_after} seconds...")
                 time.sleep(retry_after)
-                # Повторная попытка
-                response = requests.post(url, json=payload, timeout=10)
+                
+                # Повторная попытка с правильным методом
+                if is_file:
+                    # Сбрасываем позицию в файле для повторной отправки
+                    processed_image.seek(0)
+                    files = {'photo': ('image.jpg', processed_image, 'image/jpeg')}
+                    response = requests.post(url, data=data, files=files, timeout=30)
+                else:
+                    response = requests.post(url, json=payload, timeout=10)
+                
                 if response.status_code == 200:
                     published_links.append(item['link'])
                     print(f"✓ Published (retry): {item['title'][:50]}...")
                 else:
                     print(f"✗ Failed after retry: {response.text}")
-            elif response.status_code == 400 and image_url:
+            elif response.status_code == 400 and processed_image:
                 # Проверяем что ошибка связана с картинкой
                 error_text = response.text.lower()
                 if any(word in error_text for word in ['photo', 'image', 'media', 'file']):
@@ -700,6 +892,13 @@ def main():
             summary_preview = item.get('summary', '')[:50] if item.get('summary') else 'NO SUMMARY'
             print(f"{i}. [{item['score']}] {item['title']}")
             print(f"   Summary: {summary_preview}{'...' if len(item.get('summary', '')) > 50 else ''}")
+        
+        # 7.5 Генерируем Alpha Take для каждой новости
+        print(f"\n🤖 Generating Alpha Takes with OpenAI...")
+        for item in top_news:
+            alpha_take = get_alpha_take(item)
+            if alpha_take:
+                item['alpha_take'] = alpha_take
         
         # 8. Публикуем в Telegram и Twitter
         telegram_links = send_to_telegram(top_news)
