@@ -390,8 +390,8 @@ def process_image_for_telegram(image_url, source):
         img = Image.open(io.BytesIO(response.content))
         width, height = img.size
         
-        # Обрезаем 50px снизу (watermark)
-        crop_pixels = 50
+        # Обрезаем 70px снизу (watermark + немного больше чтобы полностью скрыть логотип)
+        crop_pixels = 70
         if height > crop_pixels:
             img_cropped = img.crop((0, 0, width, height - crop_pixels))
             
@@ -522,19 +522,18 @@ def format_telegram_message(news_item):
     
     # Формируем сообщение
     message = f"{header}\n\n"
-    message += f"<b>{safe_title}</b>\n\n"
+    message += f"{safe_title}\n\n"
     
     # Добавляем summary если есть
     if safe_summary:
         message += f"{safe_summary}\n\n"
     
-    message += f"📊 Score: {news_item['score']} | 🏷 {', '.join(news_item['categories'])}\n"
-    message += f"📅 {news_item['source'].upper()}"
+    # Убрали Score и Source - это внутренняя информация
     
     # Добавляем Alpha Take только если есть место
     alpha_take = news_item.get('alpha_take')
     if alpha_take:
-        alpha_section = f"\n\n💡 <b>Alpha Take:</b>\n{html.escape(alpha_take)}"
+        alpha_section = f"💡 <b>Alpha Take:</b>\n{html.escape(alpha_take)}"
         
         # Проверяем что Alpha Take полностью поместится
         if len(message) + len(alpha_section) <= 1024:
@@ -859,7 +858,7 @@ def main():
     # 4. Рассчитываем важность
     print("\n🎯 Calculating importance scores...")
     scored_news = []
-    stock_sources = ['marketwatch', 'bloomberg', 'reuters']
+    stock_sources = ['marketwatch', 'yahoo_finance', 'reuters']
     
     for item in new_news:
         score, categories = calculate_importance(item)
