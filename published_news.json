@@ -1,20 +1,4 @@
 {
-  "https://www.coindesk.com/policy/2025/12/12/citadel-securities-and-defi-waging-war-of-words-through-sec-correspondence": {
-    "timestamp": "2025-12-13T06:13:58.671075",
-    "title": "Citadel Securities and DeFi Waging War of Words Through SEC Correspondence"
-  },
-  "https://decrypt.co/352201/vanguard-exec-calls-bitcoin-digital-labubu-firm-offers-crypto-etf-trading": {
-    "timestamp": "2025-12-13T06:13:58.671087",
-    "title": "Vanguard Exec Calls Bitcoin a 'Digital Labubu', Even as Firm Offers Crypto ETF Trading"
-  },
-  "https://www.theblock.co/post/382409/the-daily-ripple-circle-and-bitgo-win-conditional-approval-for-us-banking-charters-hex-trust-to-issue-and-custody-wrapped-xrp-and-more?utm_source=rss&utm_medium=rss": {
-    "timestamp": "2025-12-13T06:13:58.671089",
-    "title": "The Daily: Ripple, Circle and BitGo win conditional approval for US banking charters, Hex Trust to issue and custody wrapped XRP, and more"
-  },
-  "https://www.theblock.co/post/382421/defi-groups-fire-back-against-citadel-securities-call-for-flawed-sec-tokenization-rules?utm_source=rss&utm_medium=rss": {
-    "timestamp": "2025-12-13T06:48:45.131090",
-    "title": "DeFi groups fire back against Citadel Securities’ call for ‘flawed’ SEC tokenization rules"
-  },
   "https://www.coindesk.com/markets/2025/12/13/bank-of-japan-set-to-hike-rates-to-30-year-high-posing-another-threat-to-bitcoin": {
     "timestamp": "2025-12-13T14:08:04.285351",
     "title": "Bank of Japan Set to Hike Rates to 30-Year High, Posing Another Threat to Bitcoin"
@@ -242,5 +226,9 @@
   "https://www.theblock.co/post/383363/sec-seeks-multi-year-officer-director-bans-alameda-ceo-ellison-ftx-execs-wang-singh?utm_source=rss&utm_medium=rss": {
     "timestamp": "2025-12-19T18:49:02.971212",
     "title": "SEC seeks multi-year officer, director bans for former Alameda CEO Ellison and former FTX execs Wang and Singh"
+  },
+  "https://www.coindesk.com/markets/2025/12/20/blackrock-s-bitcoin-etf-rare-fund-with-massive-2025-inflows-despite-negative-performance": {
+    "timestamp": "2025-12-20T14:08:04.176877",
+    "title": "BlackRock's Bitcoin ETF a true rarity: massive inflows even with negative performance"
   }
 }
