@@ -1,10 +1,5 @@
 [
   {
-    "title": "Daily Spotlight: Unemployment Rate Drops to 4.4%",
-    "link": "https://finance.yahoo.com/research/reports/ARGUS_45808_MarketOutlook_1767969427000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-    "published_date": "2026-01-09T16:12:43.331503"
-  },
-  {
     "title": "The Daily: Cathie Wood says US government may soon start buying bitcoin, Ripple secures FCA authorization, and more",
     "link": "https://www.theblock.co/post/384974/the-daily-cathie-wood-says-us-government-may-soon-start-buying-bitcoin-ripple-secures-fca-authorization-and-more?utm_source=rss&utm_medium=rss",
     "published_date": "2026-01-09T18:52:09.103302"
@@ -238,5 +233,10 @@
     "title": "Riot inks AI hosting deal with AMD for $1B in total potential revenue",
     "link": "https://finance.yahoo.com/news/riot-inks-ai-hosting-deal-152415623.html",
     "published_date": "2026-01-16T15:50:19.178767"
+  },
+  {
+    "title": "Microsoft Corporation (MSFT) on Edge Over $500M-$1B Data Center Investment in Michigan",
+    "link": "https://finance.yahoo.com/news/microsoft-corporation-msft-edge-over-171222072.html",
+    "published_date": "2026-01-16T17:50:14.285010"
   }
 ]
