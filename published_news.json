@@ -1,15 +1,5 @@
 [
   {
-    "title": "Bitcoin ETF inflows reach $1.7 billion over three-day streak",
-    "link": "https://www.theblock.co/post/385715/bitcoin-etf-inflows-three-day-streak?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-01-15T06:40:29.791699"
-  },
-  {
-    "title": "NCAA urges CFTC to pause college sports prediction markets",
-    "link": "https://www.coindesk.com/policy/2026/01/15/ncaa-urges-cftc-to-pause-college-sports-prediction-markets",
-    "published_date": "2026-01-15T06:40:31.847500"
-  },
-  {
     "title": "Bitcoin ETFs take in $830 million amid positive inflows across ether, solana and XRP",
     "link": "https://www.coindesk.com/markets/2026/01/15/bitcoin-etfs-take-in-usd830-million-amid-positive-inflows-across-ether-solana-and-xrp",
     "published_date": "2026-01-15T07:48:06.393515"
@@ -238,5 +228,10 @@
     "title": "Saga pauses EVM chain following smart contract exploit",
     "link": "https://www.theblock.co/post/386638/sagaevm-suffers-exploit?utm_source=rss&utm_medium=rss",
     "published_date": "2026-01-22T04:54:51.037826"
+  },
+  {
+    "title": "Visa (V) Rated Outperform by Baird After $500M Escrow Financing Deal",
+    "link": "https://finance.yahoo.com/news/visa-v-rated-outperform-baird-195457785.html",
+    "published_date": "2026-01-22T06:41:40.614437"
   }
 ]
