@@ -1,15 +1,5 @@
 [
   {
-    "title": "Solana News: KAITO Plummets, ZORA Goes Cross-Chain, RWAs Top $1B, and More",
-    "link": "https://finance.yahoo.com/news/solana-news-kaito-plummets-zora-161500961.html",
-    "published_date": "2026-01-22T03:59:18.969975"
-  },
-  {
-    "title": "Saga pauses EVM chain following smart contract exploit",
-    "link": "https://www.theblock.co/post/386638/sagaevm-suffers-exploit?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-01-22T04:54:51.037826"
-  },
-  {
     "title": "Visa (V) Rated Outperform by Baird After $500M Escrow Financing Deal",
     "link": "https://finance.yahoo.com/news/visa-v-rated-outperform-baird-195457785.html",
     "published_date": "2026-01-22T06:41:40.614437"
@@ -328,5 +318,15 @@
     "title": "SEC clarifies rules for tokenized securities, placing asset class under federal securities laws",
     "link": "https://www.theblock.co/post/387534/sec-clarifies-rules-tokenized-securities?utm_source=rss&utm_medium=rss",
     "published_date": "2026-01-29T02:29:18.998271"
+  },
+  {
+    "title": "SEC clarifies rules for tokenized stocks, tightening scrutiny on synthetic equity",
+    "link": "https://www.coindesk.com/policy/2026/01/29/sec-clarifies-rules-for-tokenized-stocks-tightening-scrutiny-on-synthetic-equity",
+    "published_date": "2026-01-29T05:30:00.877121"
+  },
+  {
+    "title": "Russia to roll out crypto regulatory framework this July, allowing retail participation: report",
+    "link": "https://www.theblock.co/post/387540/russias-crypto-framework-coming-july?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-01-29T05:30:01.454525"
   }
 ]
