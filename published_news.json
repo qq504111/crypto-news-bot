@@ -1,10 +1,5 @@
 [
   {
-    "title": "Despite promises that AI will create more jobs, 1.2 million jobs were actually slashed last year—a grim throwback to losses from the 2008 financial crisis",
-    "link": "https://finance.yahoo.com/news/despite-promises-ai-create-more-162952337.html",
-    "published_date": "2026-01-23T23:45:14.824527"
-  },
-  {
     "title": "Ethereum Foundation makes post quantum security a top priority as new team forms",
     "link": "https://www.coindesk.com/tech/2026/01/24/ethereum-foundation-makes-post-quantum-security-a-top-priority-as-new-team-forms",
     "published_date": "2026-01-24T05:47:04.878178"
@@ -358,5 +353,15 @@
     "title": "Dollar Recovers on Hopes a Government Shutdown Can be Avoided",
     "link": "https://finance.yahoo.com/news/dollar-recovers-hopes-government-shutdown-160408953.html",
     "published_date": "2026-01-30T23:30:22.732436"
+  },
+  {
+    "title": "Dollar Pressured by US Government Shutdown Concerns",
+    "link": "https://finance.yahoo.com/news/dollar-pressured-us-government-shutdown-203656752.html",
+    "published_date": "2026-01-31T02:24:45.437939"
+  },
+  {
+    "title": "Polymarket, Kalshi contract limits demonstrated in latest U.S. government shutdown fight",
+    "link": "https://www.coindesk.com/policy/2026/01/30/polymarket-kalshi-contract-limits-demonstrated-in-latest-u-s-government-shutdown-fight",
+    "published_date": "2026-01-31T02:24:47.948622"
   }
 ]
