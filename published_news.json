@@ -1,25 +1,5 @@
 [
   {
-    "title": "Dow Jones Futures Loom: New Trump Tariff Threat, Government Shutdown, Earnings Wave In Focus",
-    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-100-canada-tariff-tesla-microsoft-meta-apple-earnings/?src=A00220&yptr=yahoo",
-    "published_date": "2026-01-25T16:31:36.016489"
-  },
-  {
-    "title": "Bitcoin slips below $88,000 amid government shutdown risk and ahead of Fed's first rate decision of the year",
-    "link": "https://www.coindesk.com/markets/2026/01/25/bitcoin-slips-below-usd88-000-ahead-of-fed-week-and-big-tech-earnings",
-    "published_date": "2026-01-25T18:36:06.874176"
-  },
-  {
-    "title": "US Government Shutdown Risk Reignites, Crashes Crypto Market Sentiment",
-    "link": "https://finance.yahoo.com/news/us-government-shutdown-risk-reignites-174752212.html",
-    "published_date": "2026-01-25T18:36:08.577568"
-  },
-  {
-    "title": "How a 'perpetual’ stock trick could solve Michael Saylor’s $8 billion debt problem",
-    "link": "https://www.coindesk.com/markets/2026/01/25/strive-s-preferred-equity-blueprint-for-strategy-s-usd8-billion-convertible-debt-overhang",
-    "published_date": "2026-01-25T21:42:46.338229"
-  },
-  {
     "title": "Japan to approve its first crypto ETFs in 2028: report",
     "link": "https://www.theblock.co/post/386955/japan-to-approve-its-first-crypto-etfs-in-2028-report?utm_source=rss&utm_medium=rss",
     "published_date": "2026-01-26T04:08:24.687336"
@@ -373,5 +353,10 @@
     "title": "Quantum threat gets real: Ethereum Foundation prioritizes security with leanVM and PQ signatures",
     "link": "https://www.coindesk.com/tech/2026/02/01/quantum-threat-gets-real-ethereum-foundation-prioritizes-security-with-leanvm-and-pq-signatures",
     "published_date": "2026-02-01T15:30:22.436559"
+  },
+  {
+    "title": "CrossCurve bridge exploited for approximately $3 million across multiple chains via spoofed messages",
+    "link": "https://www.theblock.co/post/387939/crosscurve-bridge-exploited-for-approximately-3-million-across-multiple-chains-via-spoofed-messages?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-02-01T21:49:19.935563"
   }
 ]
