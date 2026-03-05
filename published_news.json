@@ -1,15 +1,5 @@
 [
   {
-    "title": "Bitcoin briefly crashes below $48,000 on upstart exchange despite crypto rally",
-    "link": "https://www.coindesk.com/markets/2026/02/26/bitcoin-briefly-crashes-below-usd48-000-on-upstart-exchange-despite-crypto-rally",
-    "published_date": "2026-02-26T17:09:23.300010"
-  },
-  {
-    "title": "AI rout hits software stocks, but Grayscale says blockchains stand to benefit",
-    "link": "https://www.coindesk.com/tech/2026/02/26/ai-rout-hits-software-stocks-but-grayscale-says-blockchains-stand-to-benefit",
-    "published_date": "2026-02-26T19:25:27.389782"
-  },
-  {
     "title": "U.S. regulator's GENIUS pitch casts dark cloud over crypto sector's stablecoin model",
     "link": "https://www.coindesk.com/policy/2026/02/26/u-s-regulator-s-genius-pitch-puts-dark-cloud-over-crypto-sector-s-stablecoin-model",
     "published_date": "2026-02-26T22:41:17.245766"
@@ -298,5 +288,10 @@
     "title": "Bitcoin pulls back to near $71,000 even as software sector soars",
     "link": "https://www.coindesk.com/markets/2026/03/05/bitcoin-pulls-back-to-usd71-000-even-as-software-sector-soars",
     "published_date": "2026-03-05T16:11:48.936160"
+  },
+  {
+    "title": "Solv Protocol says exploit drained $2.7 million from Bitcoin yield vault",
+    "link": "https://www.theblock.co/post/392492/solv-protocol-says-exploit-drained-2-7-million-from-bitcoin-yield-vault?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-03-05T20:41:55.685379"
   }
 ]
