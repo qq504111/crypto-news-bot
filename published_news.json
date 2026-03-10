@@ -1,15 +1,5 @@
 [
   {
-    "title": "Stock market today: Dow plunges over 1,000 points, S&P 500 and Nasdaq sink as oil surges amid war worries",
-    "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-plunges-over-1000-points-sp-500-and-nasdaq-sink-as-oil-surges-amid-war-worries-150425791.html",
-    "published_date": "2026-03-03T15:26:05.594714"
-  },
-  {
-    "title": "‘Stay tuned’: CFTC signals rulemaking push on prediction markets",
-    "link": "https://www.theblock.co/post/392028/stay-tuned-cftc-signals-rulemaking-push-on-prediction-markets?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-03-03T15:26:06.319987"
-  },
-  {
     "title": "CFTC chief Selig to clear path for U.S. perpetual futures in coming weeks",
     "link": "https://www.coindesk.com/policy/2026/03/03/cftc-chief-selig-to-clear-path-for-u-s-perpetual-futures-in-coming-weeks",
     "published_date": "2026-03-03T16:08:18.439601"
@@ -298,5 +288,10 @@
     "title": "Babylon, Ledger partnership targets secure use of bitcoin as DeFi collateral",
     "link": "https://www.theblock.co/post/393000/babylon-ledger-partnership-targets-secure-use-of-bitcoin-as-defi-collateral?utm_source=rss&utm_medium=rss",
     "published_date": "2026-03-10T14:25:56.879578"
+  },
+  {
+    "title": "Bitcoin Rises as Trump Amplifies Iran Threats, Fed Rate Cut Chances Fall Near Zero",
+    "link": "https://decrypt.co/360556/bitcoin-rises-trump-iran-threats-fed-rate-cut-chances-near-zero",
+    "published_date": "2026-03-10T15:33:36.040599"
   }
 ]
