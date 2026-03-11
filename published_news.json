@@ -1,30 +1,5 @@
 [
   {
-    "title": "Over a billion flows into bitcoin ETFs, yet the price isn’t rising — an analyst explains why",
-    "link": "https://www.coindesk.com/markets/2026/03/04/over-a-billion-flows-into-bitcoin-etfs-yet-the-price-isn-t-rising-an-analyst-explains-why",
-    "published_date": "2026-03-04T06:55:51.250163"
-  },
-  {
-    "title": "Ayar Labs secures $500m funding to scale co-packaged optics",
-    "link": "https://finance.yahoo.com/news/ayar-labs-secures-500m-funding-101323199.html",
-    "published_date": "2026-03-04T10:41:46.348374"
-  },
-  {
-    "title": "Kraken becomes first crypto company to secure Fed master account access: WSJ",
-    "link": "https://www.coindesk.com/business/2026/03/04/kraken-becomes-first-crypto-company-to-secure-fed-master-account-access-wsj",
-    "published_date": "2026-03-04T11:34:47.898653"
-  },
-  {
-    "title": "Morgan Stanley taps Coinbase and BNY for custody in proposed Bitcoin ETF",
-    "link": "https://www.coindesk.com/markets/2026/03/04/morgan-stanley-taps-coinbase-and-bny-mellon-for-custody-in-proposed-bitcoin-etf",
-    "published_date": "2026-03-04T13:07:09.829165"
-  },
-  {
-    "title": "Market infrastructure firms warn tokenized securities face higher costs, split liquidity without interoperability",
-    "link": "https://www.coindesk.com/markets/2026/03/04/market-infrastructure-firms-warn-tokenized-securities-face-higher-costs-split-liquidity-without-interoperability",
-    "published_date": "2026-03-04T13:07:11.761152"
-  },
-  {
     "title": "Solana stablecoin volume hits record $650 billion in February as onchain payments draw demand, Grayscale says",
     "link": "https://www.theblock.co/post/392217/solana-stablecoin-volume-record-650-billion-february-onchain-payments-demand-grayscale?utm_source=rss&utm_medium=rss",
     "published_date": "2026-03-04T15:06:10.020397"
@@ -303,5 +278,10 @@
     "title": "Ripple to acquire BC Payments to secure Australian license",
     "link": "https://www.theblock.co/post/393127/ripple-bc-payments-australia-license?utm_source=rss&utm_medium=rss",
     "published_date": "2026-03-11T04:22:27.278872"
+  },
+  {
+    "title": "Ledger researchers expose Android flaw enabling wallet seed theft in seconds",
+    "link": "https://www.theblock.co/post/393154/ledger-researchers-expose-android-flaw-enabling-theft?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-03-11T13:17:20.022282"
   }
 ]
