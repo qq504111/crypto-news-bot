@@ -1,20 +1,5 @@
 [
   {
-    "title": "BlackRock debuts staked ether ETF as demand grows for yield in crypto funds",
-    "link": "https://www.coindesk.com/markets/2026/03/12/blackrock-debuts-staked-ether-etf-as-demand-grows-for-yield-in-crypto-funds",
-    "published_date": "2026-03-12T13:11:57.469162"
-  },
-  {
-    "title": "Grayscale debuts Avalanche staking ETF on Nasdaq under ticker GAVA",
-    "link": "https://www.theblock.co/post/393378/grayscale-debuts-avalanche-staking-etf-on-nasdaq-under-ticker-gava?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-03-12T13:11:57.941221"
-  },
-  {
-    "title": "New BlackRock Staked Ethereum Fund to Pay 82% of Rewards to Investors",
-    "link": "https://decrypt.co/360756/new-blackrock-staked-ethereum-fund",
-    "published_date": "2026-03-12T13:11:58.407497"
-  },
-  {
     "title": "Cathie Wood's Ark Invest says quantum computing is a long-term risk for bitcoin, not an imminent threat",
     "link": "https://www.coindesk.com/tech/2026/03/12/cathie-wood-s-ark-invest-says-quantum-computing-is-a-long-term-risk-for-bitcoin-not-an-imminent-threat",
     "published_date": "2026-03-12T15:32:19.732742"
@@ -293,5 +278,10 @@
     "title": "Venus’ XVS token plunges 9% as exploit leaves protocol with bad debt",
     "link": "https://www.coindesk.com/markets/2026/03/19/venus-xvs-token-plunges-9-as-exploit-leaves-protocol-with-bad-debt",
     "published_date": "2026-03-19T11:39:23.784973"
+  },
+  {
+    "title": "Crypto hacks average $25 million as largest exploits skew industry losses: Immunefi",
+    "link": "https://www.theblock.co/post/394147/crypto-hacks-average-25-million-largest-exploits-skew-industry-losses-immunefi?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-03-19T13:16:18.394259"
   }
 ]
