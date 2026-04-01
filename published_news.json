@@ -1,10 +1,5 @@
 [
   {
-    "title": "Lawmakers weigh tokenization push as SEC preps innovation exemption plan",
-    "link": "https://www.theblock.co/post/395159/lawmakers-weigh-tokenization-push-sec-preps-innovation-exemption-plan?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-03-25T19:25:26.700174"
-  },
-  {
     "title": "Small-Cap Stocks Just Entered Correction Territory. Why the Russell 2000 Is the Canary in the Coal Mine for a Stock Market Crash.",
     "link": "https://finance.yahoo.com/markets/stocks/articles/small-cap-stocks-just-entered-190506731.html",
     "published_date": "2026-03-26T06:45:43.852597"
@@ -268,5 +263,10 @@
     "title": "‘Not an April Fools joke’: Major Solana-based trading platform Drift exploited for at least $200 million",
     "link": "https://www.theblock.co/post/396107/solana-trading-platform-drift-exploited-at-least-200-million?utm_source=rss&utm_medium=rss",
     "published_date": "2026-04-01T19:09:18.374736"
+  },
+  {
+    "title": "Solana DeFi Exchange Drift Protocol Exploited, Upwards of $285 Million Stolen",
+    "link": "https://decrypt.co/363087/solana-drift-protocol-exploited-285-million",
+    "published_date": "2026-04-01T21:09:02.756372"
   }
 ]
