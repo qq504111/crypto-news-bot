@@ -1,30 +1,5 @@
 [
   {
-    "title": "Rivian gets another $1B from Volkswagen",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-gets-another-1b-volkswagen-154703822.html",
-    "published_date": "2026-03-27T17:02:55.426446"
-  },
-  {
-    "title": "ECB paper finds DeFi governance concentrated, warns results could affect ‘regulatory anchor points’",
-    "link": "https://www.theblock.co/post/395492/ecb-paper-defi-governance-concentrated-results-affect-regulatory-anchor-points?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-03-27T17:02:56.093199"
-  },
-  {
-    "title": "Trump promises TSA paychecks, even as House objections to Senate’s bill threaten to prolong government shutdown",
-    "link": "https://www.marketwatch.com/story/u-s-airport-chaos-nearing-end-as-senate-passes-bill-that-funds-tsa-but-not-ice-fd684c69?mod=mw_rss_topstories",
-    "published_date": "2026-03-27T19:22:57.930553"
-  },
-  {
-    "title": "Morgan Stanley enters bitcoin ETF race with market-leading low fee",
-    "link": "https://www.coindesk.com/markets/2026/03/27/morgan-stanley-enters-bitcoin-etf-race-with-market-leading-low-fee",
-    "published_date": "2026-03-27T20:51:52.312104"
-  },
-  {
-    "title": "Here's what next as Anthropic's most powerful AI model leaked via unsecured data cache",
-    "link": "https://www.coindesk.com/tech/2026/03/28/here-s-what-next-as-anthropic-s-most-powerful-ai-model-leaked-via-unsecured-data-cache",
-    "published_date": "2026-03-28T13:04:50.622123"
-  },
-  {
     "title": "Morgan Stanley sets spot bitcoin ETF fee at 0.14%, undercutting every rival on the market",
     "link": "https://www.theblock.co/post/395568/morgan-stanley-sets-spot-bitcoin-etf-fee-at-0-14-undercutting-every-rival-on-the-market?utm_source=rss&utm_medium=rss",
     "published_date": "2026-03-28T17:34:23.416413"
@@ -313,5 +288,10 @@
     "title": "'We Are Ready to Speak': Drift Beckons North Korea-Linked Hackers Following $285M Exploit",
     "link": "https://decrypt.co/363260/we-are-ready-to-speak-drift-beckons-north-korea-linked-hackers-following-285m-exploit",
     "published_date": "2026-04-03T16:47:56.818051"
+  },
+  {
+    "title": "Solana's quantum-threat readiness reveals harsh tradeoff: security vs speed",
+    "link": "https://www.coindesk.com/tech/2026/04/04/solana-s-quantum-threat-readiness-reveals-harsh-tradeoff-security-vs-speed",
+    "published_date": "2026-04-04T13:05:47.739731"
   }
 ]
