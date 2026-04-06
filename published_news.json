@@ -1,15 +1,5 @@
 [
   {
-    "title": "Hyperliquid traders in Tokyo get 200-millisecond edge, Glassnode research shows",
-    "link": "https://www.coindesk.com/markets/2026/03/30/hyperliquid-traders-in-tokyo-get-200-millisecond-edge-glassnode-research-shows",
-    "published_date": "2026-03-30T05:30:07.727476"
-  },
-  {
-    "title": "Bitcoin ETFs Bleed $290M as ‘Risk-Off’ Mood Deepens",
-    "link": "https://decrypt.co/362696/bitcoin-etfs-bleed-290m-as-risk-off-mood-deepens",
-    "published_date": "2026-03-30T07:08:33.685670"
-  },
-  {
     "title": "Trump Administration to Pay TotalEnergies $1B to Abandon Wind Farms",
     "link": "https://finance.yahoo.com/sectors/energy/articles/trump-administration-pay-totalenergies-1b-060815151.html",
     "published_date": "2026-03-30T10:21:44.713760"
@@ -298,5 +288,10 @@
     "title": "The Funding: Are crypto tokens trading at 90% discounts in secondary markets?",
     "link": "https://www.theblock.co/post/396371/crypto-tokens-discounts-secondary-markets?utm_source=rss&utm_medium=rss",
     "published_date": "2026-04-06T02:55:25.432206"
+  },
+  {
+    "title": "North Korean Hackers Spent Six Months Infiltrating Drift Before $285M Exploit",
+    "link": "https://decrypt.co/363364/north-korean-hackers-spent-six-months-infiltrating-drift-before-285m-exploit",
+    "published_date": "2026-04-06T10:13:37.012682"
   }
 ]
