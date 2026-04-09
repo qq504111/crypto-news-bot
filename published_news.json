@@ -1,10 +1,5 @@
 [
   {
-    "title": "Dow Surges 1,000 Points. Nasdaq Rallies 3.4%.",
-    "link": "https://www.barrons.com/livecoverage/stock-market-news-today-033126/card/dow-surges-1-000-points-nasdaq-rallies-3-4--S53QG6YqHeHIwq5pgVDp?siteid=yhoof2&yptr=yahoo",
-    "published_date": "2026-04-02T06:49:51.522920"
-  },
-  {
     "title": "Dow Surges 1,100 Points. Nasdaq Jumps 3.8%.",
     "link": "https://www.barrons.com/livecoverage/stock-market-news-today-033126/card/dow-surges-1-100-points-nasdaq-jumps-3-8--BlpwgfF6XICAudliu0TS?siteid=yhoof2&yptr=yahoo",
     "published_date": "2026-04-02T08:09:05.060643"
@@ -323,5 +318,10 @@
     "title": "Bitcoin Depot reveals $3.7 million stolen from company wallets in security breach",
     "link": "https://www.theblock.co/post/396804/bitcoin-depot-3-7-million-stolen?utm_source=rss&utm_medium=rss",
     "published_date": "2026-04-09T05:14:14.732402"
+  },
+  {
+    "title": "CFTC presses case that sports betting is finance, seeks to block Arizona enforcement",
+    "link": "https://www.coindesk.com/policy/2026/04/09/cftc-presses-case-that-sports-betting-is-finance-seeks-to-block-arizona-enforcement",
+    "published_date": "2026-04-09T06:56:39.031766"
   }
 ]
