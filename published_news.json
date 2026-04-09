@@ -1,15 +1,5 @@
 [
   {
-    "title": "ImmunityBio (IBRX) Rallies 15% as Firm Raises $100M For Global Expansion",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/immunitybio-ibrx-rallies-15-firm-064857699.html",
-    "published_date": "2026-04-02T18:09:39.188383"
-  },
-  {
-    "title": "CFTC sues Illinois, Arizona and Connecticut in escalating fight for jurisdiction over prediction markets",
-    "link": "https://www.theblock.co/post/396258/cftc-sues-illinois-gov-pritzker-escalating-fight-jurisdiction-prediction-markets?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-04-02T18:09:39.802295"
-  },
-  {
     "title": "Drift Protocol's $285 Million Exploit on Solana Raises Questions Over DeFi Security",
     "link": "https://decrypt.co/363176/drift-protocol-285-million-exploit-solana-defi-security",
     "published_date": "2026-04-02T19:29:41.417578"
@@ -313,5 +303,10 @@
     "title": "U.S. Treasury to loop in crypto sector on hacker warnings shared with traditional firms",
     "link": "https://www.coindesk.com/policy/2026/04/09/u-s-treasury-to-loop-in-crypto-sector-on-hacker-warnings-shared-with-traditional-firms",
     "published_date": "2026-04-09T17:38:14.409831"
+  },
+  {
+    "title": "US Secret Service freezes $12 million in crypto tied to global fraud in Operation Atlantic",
+    "link": "https://www.theblock.co/post/396911/us-secret-service-freezes-12-million-crypto-global-fraud-operation-atlantic?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-04-09T19:14:59.224722"
   }
 ]
