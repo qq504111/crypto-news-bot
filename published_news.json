@@ -1,15 +1,5 @@
 [
   {
-    "title": "Dow Surges 1,100 Points. Nasdaq Jumps 3.8%.",
-    "link": "https://www.barrons.com/livecoverage/stock-market-news-today-033126/card/dow-surges-1-100-points-nasdaq-jumps-3-8--BlpwgfF6XICAudliu0TS?siteid=yhoof2&yptr=yahoo",
-    "published_date": "2026-04-02T08:09:05.060643"
-  },
-  {
-    "title": "Drift says $280M exploit tied to ‘sophisticated’ admin takeover; ZachXBT criticizes Circle over USDC handling",
-    "link": "https://www.theblock.co/post/396183/drift-280m-exploit-zachxbt-circle?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-04-02T09:35:33.452860"
-  },
-  {
     "title": "Non-custodial wallet provider Safe unveils security network to turn SAFE tokens into economic good",
     "link": "https://www.theblock.co/post/396147/non-custodial-wallet-safe-security-safenet-tokens?utm_source=rss&utm_medium=rss",
     "published_date": "2026-04-02T10:56:11.628003"
@@ -323,5 +313,15 @@
     "title": "CFTC presses case that sports betting is finance, seeks to block Arizona enforcement",
     "link": "https://www.coindesk.com/policy/2026/04/09/cftc-presses-case-that-sports-betting-is-finance-seeks-to-block-arizona-enforcement",
     "published_date": "2026-04-09T06:56:39.031766"
+  },
+  {
+    "title": "Spot bitcoin ETFs post net outflows despite $31 million inflows into Morgan Stanley’s MSBT",
+    "link": "https://www.theblock.co/post/396823/spot-bitcoin-etfs-outflows-despite-morgan-stanley?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-04-09T09:50:43.348209"
+  },
+  {
+    "title": "Morgan Stanley Bitcoin ETF Draws In $31M on First Trading Day",
+    "link": "https://decrypt.co/363766/morgan-stanley-bitcoin-etf-draws-in-31m-on-first-trading-day",
+    "published_date": "2026-04-09T09:50:43.840080"
   }
 ]
