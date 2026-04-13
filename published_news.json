@@ -1,15 +1,5 @@
 [
   {
-    "title": "Solo bitcoin miner overcomes 1-in-28,000 odds to secure $210,000 block reward",
-    "link": "https://www.coindesk.com/tech/2026/04/06/solo-bitcoin-miner-overcomes-1-in-28-000-odds-to-secure-usd210-000-block-reward",
-    "published_date": "2026-04-06T14:53:51.968544"
-  },
-  {
-    "title": "DeFi vs. Wall Street: Blockchain Association challenges Citadel over SEC’s innovation exemption",
-    "link": "https://www.theblock.co/post/396421/defi-vs-wall-street-blockchain-association-challenges-citadel-sec-innovation-exemption?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-04-06T14:53:52.642167"
-  },
-  {
     "title": "SEC crypto safe harbor heads to White House review, proposal due ‘shortly’ says Atkins",
     "link": "https://www.theblock.co/post/396472/sec-crypto-safe-harbor-white-house-review-proposal-due-shortly-atkins?utm_source=rss&utm_medium=rss",
     "published_date": "2026-04-06T22:01:02.594544"
@@ -303,5 +293,15 @@
     "title": "Strategy’s Bitcoin Stockpile Nears BlackRock's ETF Holdings After $1 Billion BTC Buy",
     "link": "https://decrypt.co/364114/strategy-bitcoin-stockpile-nears-blackrocks-etf-holdings-1-billion-buy",
     "published_date": "2026-04-13T13:50:13.115904"
+  },
+  {
+    "title": "SEC carves out path for some crypto interfaces to bypass broker registration",
+    "link": "https://www.theblock.co/post/397237/sec-carves-out-path-for-some-crypto-interfaces-to-bypass-broker-registration?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-04-13T15:18:43.225990"
+  },
+  {
+    "title": "ClearBank secures MiCA approval, targets Circle euro, dollar stablecoins for institutional clients",
+    "link": "https://www.coindesk.com/business/2026/04/13/clearbank-secures-mica-approval-targets-circle-euro-dollar-stablecoins-for-institutional-clients",
+    "published_date": "2026-04-13T15:18:45.387159"
   }
 ]
