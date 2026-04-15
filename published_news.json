@@ -1,30 +1,5 @@
 [
   {
-    "title": "OpenAI Publishes Child Safety Blueprint to Address AI-Enabled Exploitation",
-    "link": "https://decrypt.co/363681/openai-child-safety-blueprint-ai-exploitation",
-    "published_date": "2026-04-08T19:46:46.346581"
-  },
-  {
-    "title": "Michael Saylor says bitcoin has likely bottomed, quantum risk overblown",
-    "link": "https://www.coindesk.com/markets/2026/04/08/michael-saylor-says-bitcoin-has-likely-bottomed-quantum-risk-overblown",
-    "published_date": "2026-04-08T19:46:48.069289"
-  },
-  {
-    "title": "SEC appoints David Woodcock as new enforcement director amid concerns over previous lead, agency’s crypto cases",
-    "link": "https://www.theblock.co/post/396770/sec-appoints-david-woodcock-new-enforcement-director-amid-concerns-over-previous-lead-crypto-cases?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-04-08T19:46:48.549224"
-  },
-  {
-    "title": "Morgan Stanley’s bitcoin ETF draws $34 million on day one",
-    "link": "https://www.coindesk.com/markets/2026/04/08/morgan-stanley-s-bitcoin-etf-draws-usd34-million-on-day-one",
-    "published_date": "2026-04-08T21:49:06.953826"
-  },
-  {
-    "title": "Canary Capital files spot PEPE ETF application with SEC",
-    "link": "https://www.theblock.co/post/396794/canary-capital-files-spot-pepe-etf-application-with-sec?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-04-08T22:46:24.401959"
-  },
-  {
     "title": "Morgan Stanley’s MSBT bitcoin ETF logs $34 million in first-day volume",
     "link": "https://www.theblock.co/post/396785/morgan-stanley-msbt-bitcoin-etf-volume?utm_source=rss&utm_medium=rss",
     "published_date": "2026-04-09T02:44:39.736644"
@@ -293,5 +268,10 @@
     "title": "Wall Street won’t buy ‘trustless’ security promises",
     "link": "https://www.coindesk.com/opinion/2026/04/15/wall-street-won-t-buy-trustless-security-promises",
     "published_date": "2026-04-15T17:10:43.647825"
+  },
+  {
+    "title": "Bitcoin capped at $75,000 as Nasdaq and S&P 500 fly to new record highs",
+    "link": "https://www.coindesk.com/markets/2026/04/15/bitcoin-capped-at-usd75-000-as-nasdaq-and-s-and-p-500-fly-to-new-record-highs",
+    "published_date": "2026-04-15T23:11:31.118406"
   }
 ]
