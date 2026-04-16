@@ -1,15 +1,5 @@
 [
   {
-    "title": "Telegram’s Pavel Durov touts TON’s upgraded ‘one second’ transaction speed",
-    "link": "https://www.theblock.co/post/396889/telegrams-pavel-durov-touts-tons-upgraded-one-second-transaction-speed?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-04-09T16:02:21.657840"
-  },
-  {
-    "title": "Former SEC, JPMorgan exec Brett Redfearn joins Securitize as president",
-    "link": "https://www.theblock.co/post/396875/former-sec-jpmorgan-exec-brett-redfearn-joins-securitize?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-04-09T16:02:22.146962"
-  },
-  {
     "title": "Securitize names ex-SEC official Brett Redfearn as president ahead of public listing",
     "link": "https://www.coindesk.com/business/2026/04/09/securitize-names-ex-sec-official-president-ahead-of-public-listing",
     "published_date": "2026-04-09T17:38:12.068000"
@@ -268,5 +258,25 @@
     "title": "Drift secures up to $127 million from Tether for user recovery, pivots from Circle’s USDC to USDT after $280 million exploit",
     "link": "https://www.theblock.co/post/397735/drift-127-million-tether-recovery-pivots-circle-usdc-usdt-280-million-exploit?utm_source=rss&utm_medium=rss",
     "published_date": "2026-04-16T14:59:02.762958"
+  },
+  {
+    "title": "Cardano's Charles Hoskinson says Bitcoin's quantum fix is a hard fork that can't save Satoshi's coins",
+    "link": "https://www.coindesk.com/tech/2026/04/16/cardano-s-hoskinson-says-bitcoin-s-quantum-fix-is-a-hard-fork-that-can-t-save-satoshi-s-coins",
+    "published_date": "2026-04-16T16:44:31.237791"
+  },
+  {
+    "title": "Polkadot-based Hyperbridge revises exploit losses to $2.5 million, ten times initial estimate",
+    "link": "https://www.theblock.co/post/397773/polkadot-hyperbridge-exploit-losses-2-5-million-ten-times-initial-estimate?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-04-16T16:44:31.852595"
+  },
+  {
+    "title": "Drift Taps Tether for $148 Million Recovery Plan, Ditches Circle's USDC Following DeFi Exploit",
+    "link": "https://decrypt.co/364589/drift-tether-148-million-recovery-plan-ditches-circle-usdc",
+    "published_date": "2026-04-16T16:44:32.364366"
+  },
+  {
+    "title": "Elon Musk’s X Money stands to disrupt payments and pressure PayPal, but crypto plans may hit regulatory hurdles: Mizuho",
+    "link": "https://www.theblock.co/post/397771/elon-musk-x-money-disrupt-payments-pressure-paypal-crypto-regulatory-hurdles-mizuho?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-04-16T16:44:32.875280"
   }
 ]
