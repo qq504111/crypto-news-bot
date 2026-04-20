@@ -1,15 +1,5 @@
 [
   {
-    "title": "Bank of Korea calls for ‘circuit breaker’ in local crypto market, citing Bithumb incident",
-    "link": "https://www.theblock.co/post/397162/bank-of-korea-circuit-breaker?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-04-13T08:29:12.421587"
-  },
-  {
-    "title": "Attacker exploits Polkadot-based Hyperbridge to mint 1 billion bridged DOT, nets $237K",
-    "link": "https://www.theblock.co/post/397167/bridged-dot-hyperbridge-exploit?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-04-13T08:29:13.087246"
-  },
-  {
     "title": "The one metric investors are overlooking in Michael Saylor’s Strategy",
     "link": "https://www.coindesk.com/markets/2026/04/13/the-one-metric-investors-are-overlooking-in-michael-saylor-s-strategy",
     "published_date": "2026-04-13T10:17:51.193263"
@@ -328,5 +318,15 @@
     "title": "LayerZero blames Kelp's setup for $290 million exploit, attributes it to North Korea's Lazarus",
     "link": "https://www.coindesk.com/tech/2026/04/20/layerzero-blames-kelp-s-setup-for-usd290-million-exploit-attributes-it-to-north-korea-s-lazarus",
     "published_date": "2026-04-20T06:24:22.416139"
+  },
+  {
+    "title": "LayerZero says North Korea’s Lazarus likely behind Kelp DAO exploit; blames single-point setup",
+    "link": "https://www.theblock.co/post/398028/layerzero-kelp-dao-lazarus?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-04-20T08:33:56.990382"
+  },
+  {
+    "title": "Spot bitcoin ETFs log nearly $1 billion in weekly inflows, highest since mid-January",
+    "link": "https://www.theblock.co/post/398044/spot-bitcoin-etfs-1-billion-weekly-inflows?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-04-20T08:33:57.497376"
   }
 ]
