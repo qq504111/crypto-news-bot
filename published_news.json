@@ -1,40 +1,5 @@
 [
   {
-    "title": "Cardano's Charles Hoskinson says Bitcoin's quantum fix is a hard fork that can't save Satoshi's coins",
-    "link": "https://www.coindesk.com/tech/2026/04/16/cardano-s-hoskinson-says-bitcoin-s-quantum-fix-is-a-hard-fork-that-can-t-save-satoshi-s-coins",
-    "published_date": "2026-04-16T16:44:31.237791"
-  },
-  {
-    "title": "Polkadot-based Hyperbridge revises exploit losses to $2.5 million, ten times initial estimate",
-    "link": "https://www.theblock.co/post/397773/polkadot-hyperbridge-exploit-losses-2-5-million-ten-times-initial-estimate?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-04-16T16:44:31.852595"
-  },
-  {
-    "title": "Drift Taps Tether for $148 Million Recovery Plan, Ditches Circle's USDC Following DeFi Exploit",
-    "link": "https://decrypt.co/364589/drift-tether-148-million-recovery-plan-ditches-circle-usdc",
-    "published_date": "2026-04-16T16:44:32.364366"
-  },
-  {
-    "title": "Elon Musk’s X Money stands to disrupt payments and pressure PayPal, but crypto plans may hit regulatory hurdles: Mizuho",
-    "link": "https://www.theblock.co/post/397771/elon-musk-x-money-disrupt-payments-pressure-paypal-crypto-regulatory-hurdles-mizuho?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-04-16T16:44:32.875280"
-  },
-  {
-    "title": "Canadian Copper secures $70m funding for Bathurst development",
-    "link": "https://finance.yahoo.com/markets/commodities/articles/canadian-copper-secures-70m-funding-080136160.html",
-    "published_date": "2026-04-16T18:10:03.746400"
-  },
-  {
-    "title": "U.S. CFTC's Selig says AI has helped make up for staffing cuts at key crypto watchdog",
-    "link": "https://www.coindesk.com/policy/2026/04/16/u-s-cftc-s-selig-says-ai-has-helped-make-up-for-staffing-cuts-at-key-crypto-watchdog",
-    "published_date": "2026-04-16T18:10:06.088935"
-  },
-  {
-    "title": "‘This is nuts’: CFTC chair Selig grilled by lawmakers on prediction markets,  Hyperliquid, and staffing",
-    "link": "https://www.theblock.co/post/397800/this-is-nuts-cftc-chair-selig-grilled-by-lawmakers-on-prediction-markets-hyperliquid-and-staffing?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-04-16T18:10:06.790584"
-  },
-  {
     "title": "Russian Crypto Exchange Grinex Halts Trading, Alleging $13M Exploit by 'Western Special Services'",
     "link": "https://decrypt.co/364656/russian-crypto-exchange-grinex-halts-trading-13m-exploit",
     "published_date": "2026-04-16T20:54:35.449910"
@@ -308,5 +273,15 @@
     "title": "JPMorgan says persistent security flaws curb DeFi’s institutional appeal",
     "link": "https://www.coindesk.com/tech/2026/04/23/jpmorgan-says-persistent-security-flaws-curb-defi-s-institutional-appeal",
     "published_date": "2026-04-23T15:58:45.699238"
+  },
+  {
+    "title": "Lido proposes allocating up to $5.8 million in staked ETH to back Kelp exploit shortfall",
+    "link": "https://www.theblock.co/post/398691/lido-proposes-5-8-million-staked-eth-back-kelp-exploit-shortfall?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-04-23T20:31:48.659631"
+  },
+  {
+    "title": "Bitcoin ETF ‘flows turned positive for the year’: BNY’s global head of ETFs",
+    "link": "https://www.theblock.co/post/398699/bitcoin-etf-flows-turned-positive-year-bny-global-head-etfs?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-04-23T20:31:49.353468"
   }
 ]
