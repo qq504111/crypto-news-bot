@@ -1,20 +1,5 @@
 [
   {
-    "title": "Bitcoin ETFs add $186M as Morgan Stanley’s MSBT inflows top $100M in first six trading days",
-    "link": "https://www.theblock.co/post/397730/bitcoin-etfs-add-186m-as-morgan-stanleys-msbt-inflows-top-100m-in-first-six-trading-days?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-04-16T14:59:00.551503"
-  },
-  {
-    "title": "Drift gets $148 million funding from Tether and partners as it replaces Circle stablecoin with USDT after massive exploit",
-    "link": "https://www.coindesk.com/business/2026/04/16/drift-gets-usd148-million-funding-from-tether-and-partners-as-it-replaces-circle-stablecoin-with-usdt-after-massive-exploit",
-    "published_date": "2026-04-16T14:59:02.296514"
-  },
-  {
-    "title": "Drift secures up to $127 million from Tether for user recovery, pivots from Circle’s USDC to USDT after $280 million exploit",
-    "link": "https://www.theblock.co/post/397735/drift-127-million-tether-recovery-pivots-circle-usdc-usdt-280-million-exploit?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-04-16T14:59:02.762958"
-  },
-  {
     "title": "Cardano's Charles Hoskinson says Bitcoin's quantum fix is a hard fork that can't save Satoshi's coins",
     "link": "https://www.coindesk.com/tech/2026/04/16/cardano-s-hoskinson-says-bitcoin-s-quantum-fix-is-a-hard-fork-that-can-t-save-satoshi-s-coins",
     "published_date": "2026-04-16T16:44:31.237791"
@@ -313,5 +298,15 @@
     "title": "The $145 billion math: Why bitcoin’s quantum threat is manageable, not existential",
     "link": "https://www.coindesk.com/markets/2026/04/23/the-usd145-billion-math-why-bitcoin-s-quantum-threat-is-manageable-not-existential",
     "published_date": "2026-04-23T13:56:06.969027"
+  },
+  {
+    "title": "JPMorgan says DeFi exploits and stagnant TVL continue to limit institutional appeal",
+    "link": "https://www.theblock.co/post/398611/jpmorgan-defi-exploits-stagnant-tvl-limit-institutional-appeal?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-04-23T15:58:43.909388"
+  },
+  {
+    "title": "JPMorgan says persistent security flaws curb DeFi’s institutional appeal",
+    "link": "https://www.coindesk.com/tech/2026/04/23/jpmorgan-says-persistent-security-flaws-curb-defi-s-institutional-appeal",
+    "published_date": "2026-04-23T15:58:45.699238"
   }
 ]
