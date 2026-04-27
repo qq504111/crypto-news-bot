@@ -1,30 +1,5 @@
 [
   {
-    "title": "Kelp DAO Exploit Sparks Aave Liquidity Crunch, $6.2 Billion Withdrawal Panic",
-    "link": "https://decrypt.co/364849/kelp-dao-exploit-aave-liquidity-crunch-6-2-billion-withdrawal-panic",
-    "published_date": "2026-04-19T19:23:58.129367"
-  },
-  {
-    "title": "The $292 million Kelp exploit: how it happened, and what it means for DeFi",
-    "link": "https://www.coindesk.com/business/2026/04/19/the-usd292-million-kelp-exploit-how-it-happened-and-what-it-means-for-defi",
-    "published_date": "2026-04-19T23:04:56.760248"
-  },
-  {
-    "title": "LayerZero blames Kelp's setup for $290 million exploit, attributes it to North Korea's Lazarus",
-    "link": "https://www.coindesk.com/tech/2026/04/20/layerzero-blames-kelp-s-setup-for-usd290-million-exploit-attributes-it-to-north-korea-s-lazarus",
-    "published_date": "2026-04-20T06:24:22.416139"
-  },
-  {
-    "title": "LayerZero says North Korea’s Lazarus likely behind Kelp DAO exploit; blames single-point setup",
-    "link": "https://www.theblock.co/post/398028/layerzero-kelp-dao-lazarus?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-04-20T08:33:56.990382"
-  },
-  {
-    "title": "Spot bitcoin ETFs log nearly $1 billion in weekly inflows, highest since mid-January",
-    "link": "https://www.theblock.co/post/398044/spot-bitcoin-etfs-1-billion-weekly-inflows?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-04-20T08:33:57.497376"
-  },
-  {
     "title": "A $300 million borrowing spike on Aave signals liquidity crunch after exploit",
     "link": "https://www.coindesk.com/markets/2026/04/20/a-usd300m-borrowing-spike-on-aave-signals-liquidity-crunch-after-exploit",
     "published_date": "2026-04-20T10:52:55.505749"
@@ -308,5 +283,10 @@
     "title": "Why DeFi isn't dead despite massive exploits and $13 billion investor exodus",
     "link": "https://www.coindesk.com/business/2026/04/26/why-defi-isn-t-dead-despite-massive-exploits-and-usd13-billion-investor-exodus",
     "published_date": "2026-04-26T16:51:37.662660"
+  },
+  {
+    "title": "French prosecutors charge 88 individuals linked to crypto wrench attacks",
+    "link": "https://www.theblock.co/post/398939/french-charge-88-crypto-wrench-attacks?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-04-27T09:38:38.610614"
   }
 ]
