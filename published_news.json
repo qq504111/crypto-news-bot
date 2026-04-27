@@ -1,10 +1,5 @@
 [
   {
-    "title": "A year under Paul Atkins: SEC crypto embrace grows as prediction markets draw scrutiny",
-    "link": "https://www.theblock.co/post/398117/a-year-under-paul-atkins-sec-crypto-embrace-grows-as-prediction-markets-draw-scrutiny?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-04-20T17:09:41.842864"
-  },
-  {
     "title": "DeFi losses top $600 million in weeks as Kelp DAO exploit drags TVL to one-year low",
     "link": "https://www.theblock.co/post/398154/defi-losses-1-billion-weeks-kelp-dao-exploit-drags-tvl-one-year-low?utm_source=rss&utm_medium=rss",
     "published_date": "2026-04-20T20:00:47.602117"
@@ -293,5 +288,10 @@
     "title": "Fidelity Digital Assets says bitcoin is leading crypto market stabilization",
     "link": "https://www.coindesk.com/markets/2026/04/27/fidelity-digital-assets-says-bitcoin-is-leading-crypto-market-stabilization",
     "published_date": "2026-04-27T16:08:46.726350"
+  },
+  {
+    "title": "Litecoin Rewrites Transaction History After Exploit, Apologizes for Social Posts",
+    "link": "https://decrypt.co/365648/litecoin-rewrites-transaction-history-exploit-apologizes-social-posts",
+    "published_date": "2026-04-27T17:49:08.703277"
   }
 ]
