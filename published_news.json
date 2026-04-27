@@ -1,15 +1,5 @@
 [
   {
-    "title": "DeFi losses top $600 million in weeks as Kelp DAO exploit drags TVL to one-year low",
-    "link": "https://www.theblock.co/post/398154/defi-losses-1-billion-weeks-kelp-dao-exploit-drags-tvl-one-year-low?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-04-20T20:00:47.602117"
-  },
-  {
-    "title": "Grayscale’s amended Hyperliquid ETF filing drops Coinbase as custodian, names Anchorage",
-    "link": "https://www.theblock.co/post/398161/grayscales-amended-hyperliquid-etf-filing-drops-coinbase-custodian-anchorage?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-04-20T20:00:48.106725"
-  },
-  {
     "title": "Aave could face up to $230 million in losses after Kelp DAO bridge exploit triggers DeFi chaos",
     "link": "https://www.coindesk.com/tech/2026/04/20/aave-could-face-up-to-usd230-million-in-losses-after-kelp-dao-bridge-exploit-triggers-defi-chaos",
     "published_date": "2026-04-20T21:12:08.129367"
@@ -303,5 +293,15 @@
     "title": "MARA Foundation to foster long-term adoption of Bitcoin, including resilience against quantum and security budget risks",
     "link": "https://www.theblock.co/post/399069/mara-foundation-adoption-bitcoin-resilience-quantum-security-budget-risks?utm_source=rss&utm_medium=rss",
     "published_date": "2026-04-27T19:39:38.466503"
+  },
+  {
+    "title": "Aave-Led 'DeFi United' Relief Effort Raises $300 Million to Cover Kelp DAO Exploit Losses",
+    "link": "https://decrypt.co/365724/aave-led-defi-united-relief-effort-raises-300m-kelp-dao-losses",
+    "published_date": "2026-04-27T21:07:20.819702"
+  },
+  {
+    "title": "Bitcoin Developer Plans to 'Reassign' Coins Linked to Satoshi Nakamoto in Hard Fork",
+    "link": "https://decrypt.co/365712/bitcoin-developer-reassign-coins-linked-satoshi-nakamoto-hard-fork",
+    "published_date": "2026-04-27T21:07:21.325547"
   }
 ]
