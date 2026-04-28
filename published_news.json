@@ -1,20 +1,5 @@
 [
   {
-    "title": "Aave could face up to $230 million in losses after Kelp DAO bridge exploit triggers DeFi chaos",
-    "link": "https://www.coindesk.com/tech/2026/04/20/aave-could-face-up-to-usd230-million-in-losses-after-kelp-dao-bridge-exploit-triggers-defi-chaos",
-    "published_date": "2026-04-20T21:12:08.129367"
-  },
-  {
-    "title": "Kelp DAO shifts blame to LayerZero for $292 million exploit; Aave examines bad debt scenarios",
-    "link": "https://www.theblock.co/post/398204/kelp-dao-shifts-blame-layerzero?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-04-21T03:52:07.346892"
-  },
-  {
-    "title": "Arbitrum freezes $71 million worth of ETH stolen in Kelp DAO exploit",
-    "link": "https://www.theblock.co/post/398212/arbitrum-freezes-eth-kelp-dao-exploit?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-04-21T06:05:07.273848"
-  },
-  {
     "title": "Arbitrum Security Council Freezes $71.5M in Ethereum linked to $292M KelpDAO Exploit",
     "link": "https://decrypt.co/364981/arbitrum-security-council-freezes-71-5m-in-ethereum-linked-to-292m-kelpdao-exploit",
     "published_date": "2026-04-21T10:01:59.035196"
@@ -303,5 +288,10 @@
     "title": "Bitcoin Developer Plans to 'Reassign' Coins Linked to Satoshi Nakamoto in Hard Fork",
     "link": "https://decrypt.co/365712/bitcoin-developer-reassign-coins-linked-satoshi-nakamoto-hard-fork",
     "published_date": "2026-04-27T21:07:21.325547"
+  },
+  {
+    "title": "DeFi United unveils plan to restore rsETH after $292 million Kelp DAO exploit",
+    "link": "https://www.theblock.co/post/399118/defi-united-detailed-plan?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-04-28T07:36:37.809569"
   }
 ]
