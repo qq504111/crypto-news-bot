@@ -1,20 +1,5 @@
 [
   {
-    "title": "Arbitrum Security Council Freezes $71.5M in Ethereum linked to $292M KelpDAO Exploit",
-    "link": "https://decrypt.co/364981/arbitrum-security-council-freezes-71-5m-in-ethereum-linked-to-292m-kelpdao-exploit",
-    "published_date": "2026-04-21T10:01:59.035196"
-  },
-  {
-    "title": "Strategy overtakes BlackRock IBIT in bitcoin holdings after bear market buying",
-    "link": "https://www.coindesk.com/markets/2026/04/21/strategy-overtakes-blackrock-ibit-in-bitcoin-holdings-after-bear-market-buying",
-    "published_date": "2026-04-21T10:02:00.541993"
-  },
-  {
-    "title": "Bitcoin climbs as risk sentiment improves, altcoins hit by exploit concerns",
-    "link": "https://www.coindesk.com/markets/2026/04/21/bitcoin-climbs-as-risk-sentiment-improves-altcoins-hit-by-exploit-concerns",
-    "published_date": "2026-04-21T11:39:35.402071"
-  },
-  {
     "title": "Kelp DAO exploiter begins moving stolen funds across chains after Arbitrum ETH freeze",
     "link": "https://www.theblock.co/post/398239/kelp-dao-exploiter-begins-moving-stolen-funds-across-chains-after-arbitrum-eth-freeze?utm_source=rss&utm_medium=rss",
     "published_date": "2026-04-21T13:53:49.155720"
@@ -293,5 +278,10 @@
     "title": "DeFi United unveils plan to restore rsETH after $292 million Kelp DAO exploit",
     "link": "https://www.theblock.co/post/399118/defi-united-detailed-plan?utm_source=rss&utm_medium=rss",
     "published_date": "2026-04-28T07:36:37.809569"
+  },
+  {
+    "title": "Bitcoin ETF outflows snap nine-day streak ahead of FOMC as market tests resolve near $77,000",
+    "link": "https://www.theblock.co/post/399129/bitcoin-etf-outflows-snap-nine-day-streak-ahead-of-fomc-as-market-tests-resolve-near-77000?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-04-28T12:11:01.227971"
   }
 ]
