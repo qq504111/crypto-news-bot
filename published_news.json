@@ -1,15 +1,5 @@
 [
   {
-    "title": "Traders don’t see Kelp socializing losses after $292 million exploit",
-    "link": "https://www.coindesk.com/markets/2026/04/22/traders-don-t-see-kelp-socializing-losses-after-usd292-million-exploit",
-    "published_date": "2026-04-22T09:44:34.683620"
-  },
-  {
-    "title": "Onchain vault provider Upshift taps Securitize Fund Services for third-party reporting",
-    "link": "https://www.theblock.co/post/398437/onchain-vault-provider-upshift-taps-securitize-fund-services-for-third-party-reporting?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-04-22T12:39:59.025826"
-  },
-  {
     "title": "GSR enters crypto ETF field with actively managed multi-asset fund tracking Bitcoin, Ethereum and Solana",
     "link": "https://www.theblock.co/post/398443/gsr-crypto-etf-actively-managed-multi-asset-core3-bitcoin-ethereum-solana?utm_source=rss&utm_medium=rss",
     "published_date": "2026-04-22T14:47:55.647230"
@@ -308,5 +298,10 @@
     "title": "ZetaChain identifies cross-chain messaging loophole as root of targeted exploit",
     "link": "https://www.theblock.co/post/399315/zetachain-post-mortem?utm_source=rss&utm_medium=rss",
     "published_date": "2026-04-29T09:34:44.995964"
+  },
+  {
+    "title": "Securitize, Computershare open path for $70 trillion U.S. stocks to move onchain",
+    "link": "https://www.coindesk.com/business/2026/04/29/securitize-computershare-open-path-for-usd70-trillion-u-s-stocks-to-move-onchain",
+    "published_date": "2026-04-29T14:09:31.907312"
   }
 ]
