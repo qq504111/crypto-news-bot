@@ -1,30 +1,5 @@
 [
   {
-    "title": "Litecoin Rewrites Transaction History After Exploit, Apologizes for Social Posts",
-    "link": "https://decrypt.co/365648/litecoin-rewrites-transaction-history-exploit-apologizes-social-posts",
-    "published_date": "2026-04-27T17:49:08.703277"
-  },
-  {
-    "title": "Peter Schiff Warns of a “Death Spiral” in MicroStrategy’s Bitcoin Strategy",
-    "link": "https://finance.yahoo.com/markets/crypto/articles/peter-schiff-warns-death-spiral-103000281.html",
-    "published_date": "2026-04-27T19:39:37.776079"
-  },
-  {
-    "title": "MARA Foundation to foster long-term adoption of Bitcoin, including resilience against quantum and security budget risks",
-    "link": "https://www.theblock.co/post/399069/mara-foundation-adoption-bitcoin-resilience-quantum-security-budget-risks?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-04-27T19:39:38.466503"
-  },
-  {
-    "title": "Aave-Led 'DeFi United' Relief Effort Raises $300 Million to Cover Kelp DAO Exploit Losses",
-    "link": "https://decrypt.co/365724/aave-led-defi-united-relief-effort-raises-300m-kelp-dao-losses",
-    "published_date": "2026-04-27T21:07:20.819702"
-  },
-  {
-    "title": "Bitcoin Developer Plans to 'Reassign' Coins Linked to Satoshi Nakamoto in Hard Fork",
-    "link": "https://decrypt.co/365712/bitcoin-developer-reassign-coins-linked-satoshi-nakamoto-hard-fork",
-    "published_date": "2026-04-27T21:07:21.325547"
-  },
-  {
     "title": "DeFi United unveils plan to restore rsETH after $292 million Kelp DAO exploit",
     "link": "https://www.theblock.co/post/399118/defi-united-detailed-plan?utm_source=rss&utm_medium=rss",
     "published_date": "2026-04-28T07:36:37.809569"
@@ -283,5 +258,10 @@
     "title": "SEC pumps the brakes on prediction market ETFs set to debut this week: Reuters",
     "link": "https://www.theblock.co/post/399881/sec-pumps-brakes-prediction-market-etfs-set-debut-this-week-reuters?utm_source=rss&utm_medium=rss",
     "published_date": "2026-05-04T17:44:38.391865"
+  },
+  {
+    "title": "Haun Ventures Raises $1 Billion Fund for the Intersection of Crypto and AI Agents",
+    "link": "https://decrypt.co/366728/haun-ventures-raises-1-billion-fund-intersection-crypto-tech-ai-agents",
+    "published_date": "2026-05-04T21:12:02.656566"
   }
 ]
