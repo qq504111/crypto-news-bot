@@ -1,10 +1,5 @@
 [
   {
-    "title": "Bankruptcy court, citing Saks Global’s merchandising woes, approves $500M in exit financing",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/bankruptcy-court-citing-saks-global-120700778.html",
-    "published_date": "2026-04-28T20:47:37.676159"
-  },
-  {
     "title": "Syndicate suffers exploit linked to Commons bridge compromise; SYND slides 36%",
     "link": "https://www.theblock.co/post/399318/syndicate-exploit?utm_source=rss&utm_medium=rss",
     "published_date": "2026-04-29T09:34:44.492883"
@@ -243,5 +238,30 @@
     "title": "Drift outlines a recovery plan for users after $295 million DPRK-linked exploit",
     "link": "https://www.coindesk.com/business/2026/05/05/drift-outlines-a-recovery-plan-for-users-after-usd295-million-dprk-linked-exploit",
     "published_date": "2026-05-05T19:48:13.336110"
+  },
+  {
+    "title": "Kelp DAO ditches LayerZero for Chainlink’s cross-chain infrastructure following $292 million exploit",
+    "link": "https://www.theblock.co/post/400131/kelp-dao-ditches-layerzero-chainlink-cross-chain-infrastructure-292-million-exploit?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-05-05T22:31:00.000539"
+  },
+  {
+    "title": "Self-directed investors power bitcoin ETF launch despite Morgan Stanley’s scale",
+    "link": "https://www.coindesk.com/markets/2026/05/05/self-directed-investors-power-bitcoin-etf-launch-despite-morgan-stanley-s-scale",
+    "published_date": "2026-05-05T22:31:02.225167"
+  },
+  {
+    "title": "State Street says institutions want improved blockchain security in wake of recent DeFi attacks",
+    "link": "https://www.coindesk.com/business/2026/05/05/state-street-says-institutions-want-improved-blockchain-security-in-wake-of-recent-defi-attacks",
+    "published_date": "2026-05-05T22:31:04.357315"
+  },
+  {
+    "title": "Crypto ETFs go mainstream as traditional finance locks in",
+    "link": "https://www.coindesk.com/business/2026/05/05/crypto-etfs-go-mainstream-as-traditional-finance-locks-in",
+    "published_date": "2026-05-05T22:31:06.497960"
+  },
+  {
+    "title": "CFTC looks to cement non-custodial software developer protections following Phantom no-action letter",
+    "link": "https://www.theblock.co/post/400133/cftc-looks-to-cement-non-custodial-software-developer-protections-following-phantom-no-action-letter?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-05-05T22:31:07.076200"
   }
 ]
