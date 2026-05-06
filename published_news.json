@@ -1,10 +1,5 @@
 [
   {
-    "title": "Securitize, Computershare open path for $70 trillion U.S. stocks to move onchain",
-    "link": "https://www.coindesk.com/business/2026/04/29/securitize-computershare-open-path-for-usd70-trillion-u-s-stocks-to-move-onchain",
-    "published_date": "2026-04-29T14:09:31.907312"
-  },
-  {
     "title": "Bitcoin ETFs fuel institutional surge, 21Shares' CIO sees $100K possible by year-end",
     "link": "https://www.coindesk.com/coindesk-news/2026/04/29/bitcoin-etfs-fuel-institutional-surge-21shares-cio-sees-usd100k-possible-by-year-end",
     "published_date": "2026-04-29T16:14:17.993899"
@@ -283,5 +278,10 @@
     "title": "Zcash bets turn into second-largest liquidations behind bitcoin as ZEC rockets 30%",
     "link": "https://www.coindesk.com/markets/2026/05/06/zcash-bets-turn-into-second-largest-liquidations-behind-bitcoin-as-zec-rockets-30",
     "published_date": "2026-05-06T13:15:13.404478"
+  },
+  {
+    "title": "Hut 8 Shares Hit All-Time High Price as Bitcoin Miner Signs $9.8 Billion AI Data Center Lease",
+    "link": "https://decrypt.co/366971/hut-8-shares-all-time-high-price-bitcoin-miner-9-8-billion-ai-deal",
+    "published_date": "2026-05-06T15:41:14.214944"
   }
 ]
