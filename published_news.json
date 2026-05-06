@@ -1,10 +1,5 @@
 [
   {
-    "title": "SWEAT protocol thwarts multi-million dollar exploit, restores user balances",
-    "link": "https://www.theblock.co/post/399498/sweat-protocol-thwarts-multi-million-dollar-exploit-restores-user-balances?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-04-29T22:32:16.621001"
-  },
-  {
     "title": "Grayscale’s Zcash Trust volume doubles as ZEC’s shielded supply hits record highs",
     "link": "https://www.theblock.co/post/399264/zcash-etf-volume-doubles-zec-shielded-supply-record-highs?utm_source=rss&utm_medium=rss",
     "published_date": "2026-04-30T04:00:15.533556"
@@ -263,5 +258,10 @@
     "title": "Spot Bitcoin ETFs solved access, but custody, advisors and plumbing still lag, panelists say",
     "link": "https://www.coindesk.com/business/2026/05/06/spot-bitcoin-etfs-solved-access-but-custody-advisors-and-plumbing-still-lag-panelists-say",
     "published_date": "2026-05-06T22:25:15.555873"
+  },
+  {
+    "title": "Nasdaq's president says the SEC’s new crypto stance is letting markets 'build' again",
+    "link": "https://www.coindesk.com/policy/2026/05/06/nasdaq-s-president-says-the-sec-s-new-crypto-stance-is-letting-markets-build-again",
+    "published_date": "2026-05-06T23:27:51.788075"
   }
 ]
