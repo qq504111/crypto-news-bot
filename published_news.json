@@ -1,15 +1,5 @@
 [
   {
-    "title": "Syndicate suffers exploit linked to Commons bridge compromise; SYND slides 36%",
-    "link": "https://www.theblock.co/post/399318/syndicate-exploit?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-04-29T09:34:44.492883"
-  },
-  {
-    "title": "ZetaChain identifies cross-chain messaging loophole as root of targeted exploit",
-    "link": "https://www.theblock.co/post/399315/zetachain-post-mortem?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-04-29T09:34:44.995964"
-  },
-  {
     "title": "Securitize, Computershare open path for $70 trillion U.S. stocks to move onchain",
     "link": "https://www.coindesk.com/business/2026/04/29/securitize-computershare-open-path-for-usd70-trillion-u-s-stocks-to-move-onchain",
     "published_date": "2026-04-29T14:09:31.907312"
@@ -278,5 +268,10 @@
     "title": "Bitcoin approaches $82,000 as oil crashes 6% on fresh Iran peace deal hopes",
     "link": "https://www.coindesk.com/markets/2026/05/06/bitcoin-nasdaq-futures-rally-as-oil-crashes-6-on-iran-peace-deal-hopes",
     "published_date": "2026-05-06T09:27:06.940978"
+  },
+  {
+    "title": "Bitcoin moves above $82,000 while ZEC and DASH post double-digit rallies",
+    "link": "https://www.coindesk.com/markets/2026/05/06/bitcoin-holds-gains-while-zec-and-dash-post-double-digit-rallies",
+    "published_date": "2026-05-06T11:25:39.122684"
   }
 ]
