@@ -1,40 +1,5 @@
 [
   {
-    "title": "Kelp DAO ditches LayerZero for Chainlink’s cross-chain infrastructure following $292 million exploit",
-    "link": "https://www.theblock.co/post/400131/kelp-dao-ditches-layerzero-chainlink-cross-chain-infrastructure-292-million-exploit?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-05-05T22:31:00.000539"
-  },
-  {
-    "title": "Self-directed investors power bitcoin ETF launch despite Morgan Stanley’s scale",
-    "link": "https://www.coindesk.com/markets/2026/05/05/self-directed-investors-power-bitcoin-etf-launch-despite-morgan-stanley-s-scale",
-    "published_date": "2026-05-05T22:31:02.225167"
-  },
-  {
-    "title": "State Street says institutions want improved blockchain security in wake of recent DeFi attacks",
-    "link": "https://www.coindesk.com/business/2026/05/05/state-street-says-institutions-want-improved-blockchain-security-in-wake-of-recent-defi-attacks",
-    "published_date": "2026-05-05T22:31:04.357315"
-  },
-  {
-    "title": "Crypto ETFs go mainstream as traditional finance locks in",
-    "link": "https://www.coindesk.com/business/2026/05/05/crypto-etfs-go-mainstream-as-traditional-finance-locks-in",
-    "published_date": "2026-05-05T22:31:06.497960"
-  },
-  {
-    "title": "CFTC looks to cement non-custodial software developer protections following Phantom no-action letter",
-    "link": "https://www.theblock.co/post/400133/cftc-looks-to-cement-non-custodial-software-developer-protections-following-phantom-no-action-letter?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-05-05T22:31:07.076200"
-  },
-  {
-    "title": "Michael Saylor's Strategy signals potential bitcoin sale to fund dividends obligations",
-    "link": "https://www.coindesk.com/business/2026/05/05/michael-saylor-s-strategy-signals-potential-bitcoin-sale-to-fund-dividends-obligations",
-    "published_date": "2026-05-05T23:52:43.522586"
-  },
-  {
-    "title": "Strategy likely to sell bitcoin to cover STRC dividends, Michael Saylor says",
-    "link": "https://www.theblock.co/post/400145/strategy-sell-bitcoin-michael-saylor?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-05-06T03:36:12.919214"
-  },
-  {
     "title": "Bitcoin approaches $82,000 as oil crashes 6% on fresh Iran peace deal hopes",
     "link": "https://www.coindesk.com/markets/2026/05/06/bitcoin-nasdaq-futures-rally-as-oil-crashes-6-on-iran-peace-deal-hopes",
     "published_date": "2026-05-06T09:27:06.940978"
@@ -253,5 +218,10 @@
     "title": "JPMorgan launching second tokenized money market fund on Ethereum",
     "link": "https://www.theblock.co/post/401028/jpmorgan-launching-tokenized-money-market-fund-ethereum?utm_source=rss&utm_medium=rss",
     "published_date": "2026-05-12T21:25:10.322973"
+  },
+  {
+    "title": "Kelp DAO, Aave to resume rsETH operations as recovery from $292 million exploit progresses",
+    "link": "https://www.theblock.co/post/401060/kelp-dao-aave-resume-rseth?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-05-13T04:30:29.083433"
   }
 ]
