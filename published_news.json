@@ -1,15 +1,5 @@
 [
   {
-    "title": "Kraken parent goes for the OCC charter in bid to become a federal crypto bank",
-    "link": "https://www.coindesk.com/policy/2026/05/08/kraken-parent-goes-for-the-occ-charter-in-big-to-become-a-federal-crypto-bank",
-    "published_date": "2026-05-08T17:23:46.688130"
-  },
-  {
-    "title": "Bitcoin Miner IREN Secures $3.4 Billion Nvidia AI Deal, With $2.1 Billion Share Option",
-    "link": "https://decrypt.co/367289/bitcoin-miner-iren-secures-3-4-billion-nvidia-ai-deal",
-    "published_date": "2026-05-08T17:23:47.188719"
-  },
-  {
     "title": "SEC chair Atkins signals new rules for onchain markets, AI-driven finance",
     "link": "https://www.coindesk.com/policy/2026/05/08/sec-chair-atkins-signals-new-rules-for-onchain-markets-ai-driven-finance",
     "published_date": "2026-05-08T18:52:44.624678"
@@ -233,5 +223,10 @@
     "title": "Gemini Stock Jumps on Revenue Rise, $100M Bitcoin Investment From Winklevoss Capital",
     "link": "https://decrypt.co/367978/gemini-stock-jumps-revenue-rise-100m-bitcoin-investment-winklevoss",
     "published_date": "2026-05-15T15:36:46.256662"
+  },
+  {
+    "title": "Hyperliquid Policy Center argues onchain perps offer efficiency, transparency as ICE and CME reportedly press for CFTC oversight",
+    "link": "https://www.theblock.co/post/401512/hyperliquid-onchain-perps-offer-efficiency-transparency-ice-cme-cftc-oversight?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-05-15T17:43:42.210923"
   }
 ]
