@@ -1,10 +1,5 @@
 [
   {
-    "title": "S&P 500 call options volume surges to record $2.6 trillion. Here's what it means for bitcoin",
-    "link": "https://www.coindesk.com/markets/2026/05/08/s-and-p-500-call-options-volume-surges-to-record-usd2-6-trillion-here-s-what-it-means-for-bitcoin",
-    "published_date": "2026-05-08T10:04:40.740256"
-  },
-  {
     "title": "Arbitrum DAO Votes to Unlock $70 Million for Kelp DAO Exploit Relief",
     "link": "https://decrypt.co/367238/arbitrum-dao-votes-to-unlock-70-million-for-kelp-dao-exploit-relief",
     "published_date": "2026-05-08T11:54:22.094497"
@@ -213,5 +208,20 @@
     "title": "B2C2 secures MiCA license in Luxembourg to offer OTC trading services across EU",
     "link": "https://www.theblock.co/post/401427/b2c2-secures-mica-license?utm_source=rss&utm_medium=rss",
     "published_date": "2026-05-15T08:53:54.852176"
+  },
+  {
+    "title": "THORChain’s RUNE Token Plunges Double Digits After $10M Exploit, Trading Halt",
+    "link": "https://decrypt.co/367943/thorchains-rune-token-plunges-double-digits-after-10m-exploit-trading-halt",
+    "published_date": "2026-05-15T11:23:47.157336"
+  },
+  {
+    "title": "Thorchain halts trading after $10 million cross-chain exploit, RUNE token drops 12%",
+    "link": "https://www.coindesk.com/tech/2026/05/15/thorchain-halts-trading-after-usd10-million-cross-chain-exploit-rune-token-drops-12",
+    "published_date": "2026-05-15T11:23:49.377678"
+  },
+  {
+    "title": "THORChain pauses trading as security researchers flag suspected $10M multi-chain exploit",
+    "link": "https://www.theblock.co/post/401462/thorchain-pauses-trading-as-security-researchers-flag-suspected-10m-multi-chain-exploit?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-05-15T11:23:49.983291"
   }
 ]
