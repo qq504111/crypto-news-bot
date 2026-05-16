@@ -1,15 +1,5 @@
 [
   {
-    "title": "LayerZero says it ‘made a mistake’ in $292 Million Kelp exploit",
-    "link": "https://www.coindesk.com/tech/2026/05/09/layerzero-says-it-made-a-mistake-in-usd292-million-kelp-exploit",
-    "published_date": "2026-05-09T13:59:11.360472"
-  },
-  {
-    "title": "BlackRock deepens tokenization push with new onchain fund offerings",
-    "link": "https://www.coindesk.com/business/2026/05/09/blackrock-deepens-tokenization-push-with-new-onchain-fund-offerings",
-    "published_date": "2026-05-09T13:59:13.256657"
-  },
-  {
     "title": "LayerZero issues public apology for Kelp DAO exploit response, admits fault in single-verifier setup",
     "link": "https://www.theblock.co/post/400629/layerzero-issues-public-apology-for-kelp-dao-exploit-response-admits-fault-in-single-verifier-setup?utm_source=rss&utm_medium=rss",
     "published_date": "2026-05-09T17:31:15.951529"
@@ -233,5 +223,10 @@
     "title": "PureCycle (PCT) Hits New Regulatory Milestone, Surges 21.5%",
     "link": "https://finance.yahoo.com/markets/stocks/articles/purecycle-pct-hits-regulatory-milestone-032516103.html",
     "published_date": "2026-05-16T08:23:19.154719"
+  },
+  {
+    "title": "Iranian leader warns of 'brand new' financial crisis hitting America — mocks 5% Treasury yield and $39T debt",
+    "link": "https://finance.yahoo.com/economy/policy/articles/iranian-leader-warns-brand-financial-110000904.html",
+    "published_date": "2026-05-16T14:23:17.582525"
   }
 ]
