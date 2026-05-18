@@ -1,15 +1,5 @@
 [
   {
-    "title": "Hackers Used AI to Build a Zero-Day Exploit That Bypasses Two-Factor Authentication: Google",
-    "link": "https://decrypt.co/367477/hackers-ai-zero-day-exploit-google",
-    "published_date": "2026-05-11T19:53:55.732533"
-  },
-  {
-    "title": "Binance says AI security systems prevented $10.5 billion in user losses from crypto scams, phishing",
-    "link": "https://www.theblock.co/post/400813/binance-ai-security-prevented-10-5-billion-user-losses-crypto-scams-phishing?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-05-11T19:53:56.199358"
-  },
-  {
     "title": "'A big nothing burger': A Q&A with Strategy's Michael Saylor on selling bitcoin",
     "link": "https://www.coindesk.com/markets/2026/05/11/a-big-nothing-burger-a-q-and-a-with-strategy-s-michael-saylor-on-selling-bitcoin",
     "published_date": "2026-05-11T21:20:55.284116"
@@ -258,5 +248,10 @@
     "title": "Vitalik Buterin says AI 'formal verification' could actually make crypto much more secure",
     "link": "https://www.coindesk.com/tech/2026/05/18/vitalik-buterin-says-ai-formal-verification-could-actually-make-crypto-much-more-secure",
     "published_date": "2026-05-18T16:28:12.357277"
+  },
+  {
+    "title": "Zerohash secures first EMI license under MiCA for stablecoin and brokerage services in Europe",
+    "link": "https://www.theblock.co/post/401741/zerohash-first-emi-license-mica-stablecoin-brokerage-services-europe?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-05-18T20:14:26.245350"
   }
 ]
