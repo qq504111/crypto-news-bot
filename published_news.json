@@ -1,20 +1,5 @@
 [
   {
-    "title": "Apple Mac M5 System Exploited With Anthropic's Claude Mythos AI, Researchers Claim",
-    "link": "https://decrypt.co/367925/apple-mac-m5-system-exploited-anthropic-claude-mythos-ai",
-    "published_date": "2026-05-14T22:13:57.321287"
-  },
-  {
-    "title": "Nasdaq Surges Over 1%; Alibaba Shares Gain After Q4 Results",
-    "link": "https://finance.yahoo.com/news/nasdaq-surges-over-1-alibaba-174242926.html",
-    "published_date": "2026-05-15T05:31:10.155062"
-  },
-  {
-    "title": "B2C2 secures MiCA license in Luxembourg to offer OTC trading services across EU",
-    "link": "https://www.theblock.co/post/401427/b2c2-secures-mica-license?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-05-15T08:53:54.852176"
-  },
-  {
     "title": "THORChain’s RUNE Token Plunges Double Digits After $10M Exploit, Trading Halt",
     "link": "https://decrypt.co/367943/thorchains-rune-token-plunges-double-digits-after-10m-exploit-trading-halt",
     "published_date": "2026-05-15T11:23:47.157336"
@@ -308,5 +293,15 @@
     "title": "Coinbase introduces thematic perps tracking China, AI and US national security equity indexes",
     "link": "https://www.theblock.co/post/402286/coinbase-thematic-perps-tracking-china-ai-us-national-security-equity-indexes?utm_source=rss&utm_medium=rss",
     "published_date": "2026-05-21T21:58:26.896347"
+  },
+  {
+    "title": "Verus bridge exploiter returns 4,052 ETH, retains $2.8 million bounty: onchain analyst",
+    "link": "https://www.theblock.co/post/402319/verus-bridge-exploiter-returns-4052-eth?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-05-22T09:35:36.253363"
+  },
+  {
+    "title": "ZachXBT flags suspected exploit involving Polymarket’s UMA adapter contract on Polygon",
+    "link": "https://www.theblock.co/post/402327/zachxbt-flags-suspected-exploit-involving-polymarkets-uma-adapter-contract-on-polygon?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-05-22T09:35:36.725337"
   }
 ]
