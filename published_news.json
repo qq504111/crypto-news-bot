@@ -1,20 +1,5 @@
 [
   {
-    "title": "THORChain’s RUNE Token Plunges Double Digits After $10M Exploit, Trading Halt",
-    "link": "https://decrypt.co/367943/thorchains-rune-token-plunges-double-digits-after-10m-exploit-trading-halt",
-    "published_date": "2026-05-15T11:23:47.157336"
-  },
-  {
-    "title": "Thorchain halts trading after $10 million cross-chain exploit, RUNE token drops 12%",
-    "link": "https://www.coindesk.com/tech/2026/05/15/thorchain-halts-trading-after-usd10-million-cross-chain-exploit-rune-token-drops-12",
-    "published_date": "2026-05-15T11:23:49.377678"
-  },
-  {
-    "title": "THORChain pauses trading as security researchers flag suspected $10M multi-chain exploit",
-    "link": "https://www.theblock.co/post/401462/thorchain-pauses-trading-as-security-researchers-flag-suspected-10m-multi-chain-exploit?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-05-15T11:23:49.983291"
-  },
-  {
     "title": "OKX, Korea Investment and Securities said to be in talks for 40% of Coinone",
     "link": "https://www.coindesk.com/business/2026/05/15/okx-korea-investment-and-securities-said-to-be-in-talks-for-40-of-coinone",
     "published_date": "2026-05-15T13:13:35.769120"
@@ -303,5 +288,15 @@
     "title": "ZachXBT flags suspected exploit involving Polymarket’s UMA adapter contract on Polygon",
     "link": "https://www.theblock.co/post/402327/zachxbt-flags-suspected-exploit-involving-polymarkets-uma-adapter-contract-on-polygon?utm_source=rss&utm_medium=rss",
     "published_date": "2026-05-22T09:35:36.725337"
+  },
+  {
+    "title": "ZachXBT flags $520K Polymarket exploit on Polygon, team says funds are safe",
+    "link": "https://www.coindesk.com/markets/2026/05/22/zachxbt-flags-usd520k-polymarket-exploit-on-polygon-team-says-funds-are-safe",
+    "published_date": "2026-05-22T12:24:38.967434"
+  },
+  {
+    "title": "Polymarket Hit By ‘Internal Top-Up’ Wallet Exploit, $700K Drained",
+    "link": "https://decrypt.co/368740/polymarket-hit-by-internal-top-up-wallet-exploit-700k-drained",
+    "published_date": "2026-05-22T12:24:39.498671"
   }
 ]
