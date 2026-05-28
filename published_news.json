@@ -1,15 +1,5 @@
 [
   {
-    "title": "Federal Reserve proposes limited master accounts long pursued by crypto firms",
-    "link": "https://www.coindesk.com/policy/2026/05/20/federal-reserve-proposes-limited-master-accounts-long-pursued-by-crypto-firms",
-    "published_date": "2026-05-20T22:41:39.881243"
-  },
-  {
-    "title": "Polymarket moves to list parlays while SEC seeks public input on prediction market ETFs",
-    "link": "https://www.coindesk.com/policy/2026/05/20/polymarket-moves-to-list-parlays-while-sec-seeks-public-input-on-prediction-market-etfs",
-    "published_date": "2026-05-21T00:10:08.699746"
-  },
-  {
     "title": "SEC reviewing implications of delayed prediction market ETFs, Atkins says",
     "link": "https://www.theblock.co/post/402125/sec-reviewing-prediction-market-etfs?utm_source=rss&utm_medium=rss",
     "published_date": "2026-05-21T04:53:51.750580"
@@ -238,5 +228,10 @@
     "title": "TD Cowen says Trump’s CFTC prediction markets post unlikely to change legal fight",
     "link": "https://www.theblock.co/post/402775/td-cowen-trump-cftc-prediction-markets-post-legal-fight?utm_source=rss&utm_medium=rss",
     "published_date": "2026-05-27T21:02:28.942349"
+  },
+  {
+    "title": "U.S. CFTC files request to erase Gemini settlement that it no longer considers fair",
+    "link": "https://www.coindesk.com/policy/2026/05/27/u-s-cftc-files-request-to-erase-gemini-settlement-that-it-no-longer-considers-fair",
+    "published_date": "2026-05-28T04:50:27.892456"
   }
 ]
