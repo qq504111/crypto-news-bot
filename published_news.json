@@ -1,30 +1,5 @@
 [
   {
-    "title": "Why DeFi Keeps Losing Millions to Exploits",
-    "link": "https://decrypt.co/368591/why-defi-keeps-losing-millions-to-exploits",
-    "published_date": "2026-05-21T15:57:16.333290"
-  },
-  {
-    "title": "Bitcoin's long-term holder supply approaches record high, breaking multi-year downtrend",
-    "link": "https://www.coindesk.com/markets/2026/05/21/bitcoin-s-long-term-holder-supply-approaches-record-high-breaking-multi-year-downtrend",
-    "published_date": "2026-05-21T15:57:17.926841"
-  },
-  {
-    "title": "Crypto prediction markets are turning into dangerous national security risks, and Congress wants to ban them",
-    "link": "https://www.coindesk.com/business/2026/05/21/crypto-prediction-markets-are-turning-into-dangerous-national-security-risks-and-congress-wants-to-ban-them",
-    "published_date": "2026-05-21T15:57:19.650835"
-  },
-  {
-    "title": "U.S. CFTC secures deal with National Hockey League on prediction market safeguards",
-    "link": "https://www.coindesk.com/policy/2026/05/21/u-s-cftc-secures-deal-with-national-hockey-league-on-prediction-market-safeguards",
-    "published_date": "2026-05-21T15:57:22.342522"
-  },
-  {
-    "title": "NHL, CFTC team up with memorandum of understanding as sports-based prediction markets balloon",
-    "link": "https://www.theblock.co/post/402197/nhl-cftc-team-up-with-memorandum-of-understanding-as-sports-based-prediction-markets-balloon?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-05-21T15:57:22.799544"
-  },
-  {
     "title": "Kraken parent Payward secures preliminary VARA approval for Dubai expansion",
     "link": "https://www.theblock.co/post/402172/kraken-parent-payward-secures-preliminary-vara-approval-for-dubai-expansion?utm_source=rss&utm_medium=rss",
     "published_date": "2026-05-21T18:06:36.838732"
@@ -258,5 +233,20 @@
     "title": "CFTC, Gemini File Joint Motion to Reverse $5M Settlement",
     "link": "https://decrypt.co/369252/cftc-gemini-file-joint-motion-to-reverse-5m-settlement",
     "published_date": "2026-05-28T12:31:22.658948"
+  },
+  {
+    "title": "Warner Bros./Paramount Skydance deal spawns $15B leveraged loan, largest since Global Financial Crisis",
+    "link": "https://finance.yahoo.com/markets/options/articles/warner-bros-paramount-skydance-deal-155510447.html",
+    "published_date": "2026-05-28T16:56:02.710453"
+  },
+  {
+    "title": "Grayscale’s Hyperliquid ETF negotiating ‘seed’ investment of roughly $115 million in HYPE tokens",
+    "link": "https://www.theblock.co/post/402903/grayscale-hyperliquid-etf-negotiating-seed-investment-115-million-hype-tokens?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-05-28T16:56:03.188168"
+  },
+  {
+    "title": "Sui blockchain experiences second ‘stall’ in five months",
+    "link": "https://www.theblock.co/post/402907/sui-blockchain-experiences-second-stall-in-five-months?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-05-28T16:56:03.658268"
   }
 ]
