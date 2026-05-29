@@ -1,15 +1,5 @@
 [
   {
-    "title": "ZachXBT flags $520K Polymarket exploit on Polygon, team says funds are safe",
-    "link": "https://www.coindesk.com/markets/2026/05/22/zachxbt-flags-usd520k-polymarket-exploit-on-polygon-team-says-funds-are-safe",
-    "published_date": "2026-05-22T12:24:38.967434"
-  },
-  {
-    "title": "Polymarket Hit By ‘Internal Top-Up’ Wallet Exploit, $700K Drained",
-    "link": "https://decrypt.co/368740/polymarket-hit-by-internal-top-up-wallet-exploit-700k-drained",
-    "published_date": "2026-05-22T12:24:39.498671"
-  },
-  {
     "title": "SEC Commissioner Peirce counters views that crypto rule will foster synthetic tokens",
     "link": "https://www.coindesk.com/news-analysis/2026/05/22/sec-commissioner-peirce-counters-views-that-crypto-rule-will-foster-synthetic-tokens",
     "published_date": "2026-05-22T19:59:42.986562"
@@ -253,5 +243,25 @@
     "title": "‘First and only’: Paxos secures SEC registration as clearing and settlement agency",
     "link": "https://www.theblock.co/post/402994/paxos-sec-registration?utm_source=rss&utm_medium=rss",
     "published_date": "2026-05-29T10:30:23.969324"
+  },
+  {
+    "title": "Bitcoin ETF outflows reach record 9-day streak as investors pull $2.8 billion",
+    "link": "https://www.coindesk.com/markets/2026/05/29/bitcoin-etf-outflows-reach-record-nine-day-streak-as-investors-pull-usd2-8-billion",
+    "published_date": "2026-05-29T14:09:43.349108"
+  },
+  {
+    "title": "Bitcoin ETFs Shed $2.8B in Record-Breaking Nine-Day Streak",
+    "link": "https://decrypt.co/369449/bitcoin-etfs-shed-2-8b-in-record-breaking-nine-day-streak",
+    "published_date": "2026-05-29T14:09:44.009536"
+  },
+  {
+    "title": "U.S. CFTC opens crypto 'perp' door with first approval at regulated firm",
+    "link": "https://www.coindesk.com/policy/2026/05/28/u-s-cftc-opens-crypto-perp-door-with-approval-of-first-regulated-firm",
+    "published_date": "2026-05-29T14:09:45.996562"
+  },
+  {
+    "title": "Paxos wins SEC approval to clear U.S. stocks on blockchain",
+    "link": "https://www.coindesk.com/policy/2026/05/29/paxos-is-first-blockchain-firm-to-provide-settlement-and-clearing-services-following-sec-approval",
+    "published_date": "2026-05-29T14:09:48.482540"
   }
 ]
