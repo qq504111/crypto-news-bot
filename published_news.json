@@ -1,10 +1,5 @@
 [
   {
-    "title": "NYT investigation alleges CFTC purged staff who questioned Trump-tied crypto firms",
-    "link": "https://www.theblock.co/post/402442/nyt-investigation-alleges-cftc-purged-staff-who-questioned-trump-tied-crypto-firms?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-05-24T21:30:17.293678"
-  },
-  {
     "title": "‘We don’t know who deployed this’: Squid distances itself from $3.2 million third-party module exploit",
     "link": "https://www.theblock.co/post/402487/we-dont-know-who-deployed-this-squid-distances-itself-from-3-2-million-third-party-module-exploit?utm_source=rss&utm_medium=rss",
     "published_date": "2026-05-25T14:20:29.575798"
@@ -283,5 +278,10 @@
     "title": "A massive $1.26 billion sale of BlackRock’s IBIT was likely a rapid exit by a large investor",
     "link": "https://www.coindesk.com/markets/2026/05/31/a-massive-usd1-26-billion-sale-of-blackrock-s-ibit-was-likely-a-rapid-exit-by-a-large-investor",
     "published_date": "2026-05-31T20:14:07.990653"
+  },
+  {
+    "title": "Dev helps rescue $2 million locked in 2016 ICO contract for nine years with whitehat exploit",
+    "link": "https://www.theblock.co/post/403126/dev-helps-rescue-2-million-locked-in-2016-ico-contract-for-nine-years-with-whitehat-exploit?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-05-31T23:04:07.515930"
   }
 ]
