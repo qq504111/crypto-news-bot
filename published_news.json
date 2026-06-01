@@ -1,15 +1,5 @@
 [
   {
-    "title": "‘We don’t know who deployed this’: Squid distances itself from $3.2 million third-party module exploit",
-    "link": "https://www.theblock.co/post/402487/we-dont-know-who-deployed-this-squid-distances-itself-from-3-2-million-third-party-module-exploit?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-05-25T14:20:29.575798"
-  },
-  {
-    "title": "Prometheum bets Wall Street distribution is the missing link for tokenized securities",
-    "link": "https://www.coindesk.com/business/2026/05/25/prometheum-bets-wall-street-distribution-is-the-missing-link-for-tokenized-securities",
-    "published_date": "2026-05-25T14:20:31.533470"
-  },
-  {
     "title": "Cyient Semiconductors secures $10m Edelweiss equity at $500m valuation",
     "link": "https://finance.yahoo.com/markets/stocks/articles/cyient-semiconductors-secures-10m-edelweiss-093446257.html",
     "published_date": "2026-05-26T10:03:34.868524"
@@ -308,5 +298,30 @@
     "title": "Citi predicts the tokenized securities market will grow to $5.5 trillion by 2030",
     "link": "https://www.coindesk.com/markets/2026/06/01/citi-predicts-the-tokenized-securities-market-will-grow-to-usd5-5-trillion-by-2030",
     "published_date": "2026-06-01T13:12:01.757975"
+  },
+  {
+    "title": "Ethereum's Vitalik Buterin is rethinking how DeFi handles market crashes",
+    "link": "https://www.coindesk.com/tech/2026/06/01/ethereum-s-vitalik-buterin-is-rethinking-how-defi-handles-market-crashes",
+    "published_date": "2026-06-01T19:08:02.302375"
+  },
+  {
+    "title": "Michael Saylor breaks silence after Strategy sells $2.5 million in bitcoin",
+    "link": "https://www.coindesk.com/markets/2026/06/01/michael-saylor-breaks-silence-after-strategy-sells-usd2-5-million-in-bitcoin",
+    "published_date": "2026-06-01T19:08:03.968592"
+  },
+  {
+    "title": "Michael Saylor’s Strategy sells 32 bitcoin for $2.5 million as total holdings drop to 843,706 BTC",
+    "link": "https://www.theblock.co/post/403160/michael-saylors-strategy-sells-bitcoin?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-06-01T19:08:04.454370"
+  },
+  {
+    "title": "Grayscale sets 0.29% fee for its Hyperliquid ETF, undercutting Bitwise and 21Shares",
+    "link": "https://www.theblock.co/post/403234/grayscale-sets-0-29-fee-hyperliquid-etf-undercutting-bitwise-21shares?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-06-01T19:08:04.925980"
+  },
+  {
+    "title": "Crypto funds suffer second-largest outflows of 2026 while XRP and HYPE attract inflows",
+    "link": "https://www.coindesk.com/markets/2026/06/01/crypto-funds-suffer-second-largest-outflows-of-2026-while-xrp-and-hype-attract-inflows",
+    "published_date": "2026-06-01T19:08:06.071900"
   }
 ]
