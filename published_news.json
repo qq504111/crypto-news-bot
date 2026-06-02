@@ -1,10 +1,5 @@
 [
   {
-    "title": "Wells Fargo must pay $100M to help homebuyers after discrimination lawsuit — 51 cities are eligible",
-    "link": "https://finance.yahoo.com/economy/policy/articles/wells-fargo-must-pay-100m-113000900.html",
-    "published_date": "2026-05-26T19:23:52.573042"
-  },
-  {
     "title": "DeFi TVL slides 14% since KelpDAO exploit as risk appetite retreats",
     "link": "https://www.theblock.co/post/402641/defi-tvl-slides-14-since-kelpdao-exploit-as-risk-appetite-retreats?utm_source=rss&utm_medium=rss",
     "published_date": "2026-05-26T21:11:02.655253"
@@ -343,5 +338,10 @@
     "title": "Hamilton Lane’s tokenized HLSCOPE fund launches on Tron, marking first Securitize asset on the network",
     "link": "https://www.theblock.co/post/403239/hamilton-lanes-tokenized-hlscope-fund-launches-on-tron-marking-first-securitize-product-issued-on-the-once-maligned-blockchain?utm_source=rss&utm_medium=rss",
     "published_date": "2026-06-02T17:26:23.420770"
+  },
+  {
+    "title": "Ethena taps Anchorage for secure offchain collateral in institutional lending push",
+    "link": "https://www.theblock.co/post/403410/ethena-taps-anchorage-secure-offchain-collateral-institutional-lending-push?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-06-02T20:26:42.357280"
   }
 ]
