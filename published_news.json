@@ -1,35 +1,5 @@
 [
   {
-    "title": "Security researchers flag ongoing Stake DAO exploit after attacker mints trillions of vsdCRV",
-    "link": "https://www.theblock.co/post/402719/security-researchers-flag-ongoing-stakedao-exploit-vsdcrv?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-05-27T12:23:23.437858"
-  },
-  {
-    "title": "Whale alert: Someone dumped $1.29 billion of BlackRock's bitcoin ETF in a dark pool trade",
-    "link": "https://www.coindesk.com/markets/2026/05/27/whale-alert-someone-dumped-usd1-29-billion-of-blackrock-s-bitcoin-etf-in-a-dark-pool-trade",
-    "published_date": "2026-05-27T12:23:25.993161"
-  },
-  {
-    "title": "Spot bitcoin ETFs continue outflow streak amid $1.3 billion IBIT whale trade",
-    "link": "https://www.theblock.co/post/402707/bitcoin-etf-outflows-ibit-whale-trade?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-05-27T12:23:26.606499"
-  },
-  {
-    "title": "DeFi isn't safe anymore because AI is becoming 'superhuman' at hacking, security chief warns",
-    "link": "https://www.coindesk.com/tech/2026/05/27/openzeppelin-ceo-says-ai-makes-defi-unsafe-as-over-usd1-billion-hacked-from-defi-in-last-year",
-    "published_date": "2026-05-27T12:23:28.345605"
-  },
-  {
-    "title": "$1.3B Worth of BlackRock's IBIT Changes Hands in Dark Pool Sale",
-    "link": "https://decrypt.co/369125/1-3b-worth-of-blackrocks-ibit-changes-hands-in-dark-pool-sale",
-    "published_date": "2026-05-27T12:23:28.956877"
-  },
-  {
-    "title": "Mastercard secures New York BitLicense to support stablecoin and digital payment infrastructure",
-    "link": "https://www.coindesk.com/business/2026/05/27/mastercard-secures-new-york-bitlicense-to-support-stablecoin-and-digital-payment-infrastructure",
-    "published_date": "2026-05-27T16:23:37.676511"
-  },
-  {
     "title": "Mastercard secures New York State BitLicense as it continues to expand crypto services",
     "link": "https://www.theblock.co/post/402732/mastercard-secures-new-york-state-bitlicense-as-it-continues-to-expand-crypto-services?utm_source=rss&utm_medium=rss",
     "published_date": "2026-05-27T18:38:29.277252"
@@ -343,5 +313,20 @@
     "title": "DOJ, CFTC probe George Santos over Kalshi trades tied to State of the Union appearance: report",
     "link": "https://www.theblock.co/post/403486/doj-cftc-probe-george-santos-over-kalshi-trades-tied-to-state-of-the-union-appearance-report?utm_source=rss&utm_medium=rss",
     "published_date": "2026-06-03T12:00:32.640080"
+  },
+  {
+    "title": "Zcash Completes 'Most Ambitious' Network Upgrade as ZEC Resumes Recent Surge",
+    "link": "https://decrypt.co/369896/zcash-completes-most-ambitious-network-upgrade-zec-resumes-recent-surge",
+    "published_date": "2026-06-03T17:26:48.331125"
+  },
+  {
+    "title": "Grayscale launches lowest-fee U.S. Hyperliquid ETF as competition heats up around HYPE",
+    "link": "https://www.coindesk.com/markets/2026/06/03/grayscale-launches-lowest-fee-u-s-hyperliquid-etf-as-competition-heats-up-around-hype",
+    "published_date": "2026-06-03T17:26:50.262221"
+  },
+  {
+    "title": "Grayscale gets behind the hype, launching its HYPG Hyperliquid ETF on Nasdaq",
+    "link": "https://www.theblock.co/post/403428/grayscale-behind-hype-launching-hypg-hyperliquid-etf-nasdaq?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-06-03T17:26:50.896802"
   }
 ]
