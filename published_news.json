@@ -1,10 +1,5 @@
 [
   {
-    "title": "ETF League Tables: VanEck Picks Up Nearly $1B",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-vaneck-picks-210004412.html",
-    "published_date": "2026-05-27T08:41:56.831678"
-  },
-  {
     "title": "Security researchers flag ongoing Stake DAO exploit after attacker mints trillions of vsdCRV",
     "link": "https://www.theblock.co/post/402719/security-researchers-flag-ongoing-stakedao-exploit-vsdcrv?utm_source=rss&utm_medium=rss",
     "published_date": "2026-05-27T12:23:23.437858"
@@ -343,5 +338,10 @@
     "title": "Blockchain Association urges Senate to pass Clarity Act with letter from 160 former security officials",
     "link": "https://www.theblock.co/post/403450/blockchain-association-letter-senate?utm_source=rss&utm_medium=rss",
     "published_date": "2026-06-03T06:56:59.939508"
+  },
+  {
+    "title": "DOJ, CFTC probe George Santos over Kalshi trades tied to State of the Union appearance: report",
+    "link": "https://www.theblock.co/post/403486/doj-cftc-probe-george-santos-over-kalshi-trades-tied-to-state-of-the-union-appearance-report?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-06-03T12:00:32.640080"
   }
 ]
