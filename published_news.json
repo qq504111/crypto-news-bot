@@ -1,15 +1,5 @@
 [
   {
-    "title": "SEC sues Texas man over $12.3 million alleged crypto scheme built on fake AI trading bots",
-    "link": "https://www.coindesk.com/business/2026/05/30/sec-sues-texas-man-over-usd12-3-million-alleged-crypto-scheme-built-on-fake-ai-trading-bots",
-    "published_date": "2026-05-30T18:03:37.707539"
-  },
-  {
-    "title": "SEC sues Privvy founder over $12.3 million crypto scheme as AI ‘bots’ turn out to be neither",
-    "link": "https://www.theblock.co/post/403118/sec-sues-privvy-founder-over-12-3-million-crypto-scheme-as-ai-bots-turn-out-to-be-neither?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-05-30T22:31:52.846467"
-  },
-  {
     "title": "How Stellar became part of DTCC's tokenization push for Wall Street securities onchain",
     "link": "https://www.coindesk.com/business/2026/05/31/how-stellar-became-part-of-dtcc-s-tokenization-push-for-wall-street-securities-onchain",
     "published_date": "2026-05-31T17:11:54.505842"
@@ -268,5 +258,10 @@
     "title": "Michael Saylor’s rallying cry: Bitcoin needs four forces to win",
     "link": "https://www.coindesk.com/markets/2026/06/06/michael-saylor-s-rallying-cry-bitcoin-needs-four-forces-to-win",
     "published_date": "2026-06-06T14:45:06.471882"
+  },
+  {
+    "title": "Stock market today: Nasdaq plunges 4%, Dow and S&P 500 sink as AI trade halts on Fed hike bets",
+    "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-sink-as-jobs-report-fuels-fed-hike-bets-chip-stocks-sell-off-230134285.html",
+    "published_date": "2026-06-07T08:35:17.815215"
   }
 ]
