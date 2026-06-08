@@ -1,10 +1,5 @@
 [
   {
-    "title": "Aave overhauls listing standards after $230 Million rsETH exploit exposed bridge risks",
-    "link": "https://www.coindesk.com/markets/2026/06/01/aave-overhauls-listing-standards-after-usd230-million-rseth-exploit-exposed-bridge-risks",
-    "published_date": "2026-06-01T07:03:59.678760"
-  },
-  {
     "title": "‘Gnosis will cover all user losses’ amid exploit related to Gnosis Pay, co-founder Koppelmann says",
     "link": "https://www.theblock.co/post/403147/gnosis-will-cover-all-user-losses-amid-exploit-related-to-gnosis-pay-co-founder-koppelmann-says?utm_source=rss&utm_medium=rss",
     "published_date": "2026-06-01T13:11:57.752804"
@@ -253,5 +248,10 @@
     "title": "Bitcoin reclaims $63,000 in ‘oversold relief rally’; South Korea’s KOSPI plunges 8%",
     "link": "https://www.theblock.co/post/403919/bitcoin-recovers-63000-kospi-plunges?utm_source=rss&utm_medium=rss",
     "published_date": "2026-06-08T05:14:11.492576"
+  },
+  {
+    "title": "Spot bitcoin ETFs log $1.7 billion in weekly outflows, largest since February 2025",
+    "link": "https://www.theblock.co/post/403936/bitcoin-etfs-weekly-outflows-largest-since-2025?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-06-08T10:04:48.733141"
   }
 ]
