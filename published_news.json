@@ -1,15 +1,5 @@
 [
   {
-    "title": "Bitcoin ETF outflows are noise as Wall Street doubles down on crypto, says analyst",
-    "link": "https://www.coindesk.com/coindesk-news/2026/06/02/bitcoin-etf-outflows-are-noise-as-wall-street-doubles-down-on-crypto-says-analyst",
-    "published_date": "2026-06-02T12:45:35.899153"
-  },
-  {
-    "title": "Bitcoin derivatives markets flashing warning signs as price plunges below $70,000",
-    "link": "https://www.coindesk.com/markets/2026/06/02/bitcoin-derivatives-markets-flashing-warning-signs-as-price-plunges-below-usd70-000",
-    "published_date": "2026-06-02T12:45:37.474204"
-  },
-  {
     "title": "The S&P 500 has only risen this quickly 4 times since WWII. Once, a historic stock-market crash followed.",
     "link": "https://www.marketwatch.com/story/the-s-p-500-has-only-risen-this-quickly-4-times-since-wwii-once-a-historic-stock-market-crash-followed-ed41ab2d?mod=mw_rss_topstories",
     "published_date": "2026-06-02T17:26:21.630631"
@@ -228,5 +218,20 @@
     "title": "Zodia Custody secures Luxembourg payment institution license to expand EU stablecoin services",
     "link": "https://www.theblock.co/post/404086/zodia-custody-secures-luxembourg-payment-institution-license-to-expand-eu-stablecoin-services?utm_source=rss&utm_medium=rss",
     "published_date": "2026-06-09T11:25:03.212332"
+  },
+  {
+    "title": "Humanity's $36 million exploit tied to compromised laptop hosting a 'multisig' wallet",
+    "link": "https://www.coindesk.com/tech/2026/06/09/humanity-s-usd36-million-exploit-happened-because-a-multisig-wallet-lived-on-one-laptop",
+    "published_date": "2026-06-09T14:00:25.830347"
+  },
+  {
+    "title": "BlackRock warns of energy shock as May CPI is set to show acceleration in inflation",
+    "link": "https://www.coindesk.com/markets/2026/06/09/blackrock-warns-of-energy-shock-as-may-cpi-is-set-to-show-acceleration-in-inflation",
+    "published_date": "2026-06-09T14:00:27.424642"
+  },
+  {
+    "title": "Backpack US appoints former SEC Acting Chairman Piwowar to board amid push for crypto perps",
+    "link": "https://www.theblock.co/post/404084/backpack-us-appoints-former-sec-acting-chairman-piwowar-to-board-amid-push-for-crypto-perps?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-06-09T14:00:27.964261"
   }
 ]
