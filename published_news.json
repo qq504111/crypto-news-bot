@@ -1,20 +1,5 @@
 [
   {
-    "title": "It's not SpaceX. Bitcoin ETF outflows may be an arbitrage story",
-    "link": "https://www.coindesk.com/markets/2026/06/11/bitcoin-etf-outflows-may-be-more-about-arbitrage-unwinds-than-spacex-fomo",
-    "published_date": "2026-06-11T14:02:15.249087"
-  },
-  {
-    "title": "Michael Saylor and Jack Mallers go toe-to-toe over Strategy's bitcoin reporting metrics",
-    "link": "https://www.coindesk.com/markets/2026/06/11/michael-saylor-and-jack-mallers-go-toe-to-toe-over-strategy-s-bitcoin-reporting-metrics",
-    "published_date": "2026-06-11T14:02:16.852281"
-  },
-  {
-    "title": "Bitcoin ETFs Shed $2.1B in June So Far as Market Selloff Deepens",
-    "link": "https://decrypt.co/370749/bitcoin-etfs-shed-2-1b-in-june-so-far-as-market-selloff-deepens",
-    "published_date": "2026-06-11T14:02:17.315653"
-  },
-  {
     "title": "Crypto for Advisors: Crypto ETFs",
     "link": "https://www.coindesk.com/coindesk-indices/2026/06/10/crypto-for-advisors-crypto-etfs",
     "published_date": "2026-06-11T17:50:21.091885"
@@ -243,5 +228,20 @@
     "title": "Live markets: DXY Index breaks higher as bitcoin tries to weather stronger dollar",
     "link": "https://www.coindesk.com/tech/2026/06/18/live-markets-bitcoin-and-ether-etfs-lost-usd111-million-combined-as-rate-cut-hopes-died",
     "published_date": "2026-06-18T11:35:23.140278"
+  },
+  {
+    "title": "The DAO hack at 10: From $50 million exploit to a $130 million Ethereum security fund",
+    "link": "https://www.theblock.co/post/405248/ethereum-130-million-security-fund-the-dao-hack-10-years?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-06-18T15:34:57.301123"
+  },
+  {
+    "title": "Aztec investigates $2 million exploit of deprecated payments product",
+    "link": "https://www.theblock.co/post/405207/aztec-investigates-2-million-exploit-of-deprecated-payments-product?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-06-18T15:34:57.943191"
+  },
+  {
+    "title": "Federal Reserve rolls out proposing rulemaking requiring stablecoin issuers to maintain customer identification program",
+    "link": "https://www.theblock.co/post/405247/federal-reserve-rolls-out-proposing-rulemaking-requiring-stablecoin-issuers-to-maintain-customer-identification-program?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-06-18T15:34:58.594927"
   }
 ]
