@@ -1,40 +1,5 @@
 [
   {
-    "title": "The DAO hack at 10: From $50 million exploit to a $130 million Ethereum security fund",
-    "link": "https://www.theblock.co/post/405248/ethereum-130-million-security-fund-the-dao-hack-10-years?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-06-18T15:34:57.301123"
-  },
-  {
-    "title": "Aztec investigates $2 million exploit of deprecated payments product",
-    "link": "https://www.theblock.co/post/405207/aztec-investigates-2-million-exploit-of-deprecated-payments-product?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-06-18T15:34:57.943191"
-  },
-  {
-    "title": "Federal Reserve rolls out proposing rulemaking requiring stablecoin issuers to maintain customer identification program",
-    "link": "https://www.theblock.co/post/405247/federal-reserve-rolls-out-proposing-rulemaking-requiring-stablecoin-issuers-to-maintain-customer-identification-program?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-06-18T15:34:58.594927"
-  },
-  {
-    "title": "CME Group sues CFTC over perpetual futures in US, accusing the agency of ‘suddenly’ changing course",
-    "link": "https://www.theblock.co/post/405286/cme-sues-cftc-over-perpetual-futures-us-accusing-agency-suddenly-changing-course?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-06-18T18:28:06.092005"
-  },
-  {
-    "title": "Ex-Celsius CEO Mashinsky gets U.S. CFTC ban in final resolution with regulator",
-    "link": "https://www.coindesk.com/policy/2026/06/18/ex-celsius-ceo-mashinsky-gets-u-s-cftc-ban-in-final-resolution-with-regulator",
-    "published_date": "2026-06-18T21:04:28.193472"
-  },
-  {
-    "title": "Sen. Gillibrand’s son is building a perps exchange that wants dual CFTC, SEC oversight: report",
-    "link": "https://www.theblock.co/post/405334/sen-gillibrand-son-building-perps-exchange-dual-cftc-sec-oversight?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-06-18T21:04:28.675474"
-  },
-  {
-    "title": "CFTC enters settlement with former Celsius CEO, imposes a permanent trading ban",
-    "link": "https://www.theblock.co/post/405323/cftc-enters-settlement-former-celsius-ceo-imposes-permanent-trading-ban?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-06-18T21:04:29.248671"
-  },
-  {
     "title": "Fidelity launches GENIUS-aligned money market fund for stablecoin issuers",
     "link": "https://www.theblock.co/post/405357/fidelity-stablecoin-money-market-fund?utm_source=rss&utm_medium=rss",
     "published_date": "2026-06-19T02:18:29.268915"
@@ -228,5 +193,15 @@
     "title": "Live markets: Bitcoin plunges under $59,000 as early bounce fades",
     "link": "https://www.coindesk.com/tech/2026/06/25/live-markets-bitcoin-ether-lead-usd1-billion-liquidation-losses-as-ai-trade-keeps-going",
     "published_date": "2026-06-25T15:24:12.797729"
+  },
+  {
+    "title": "Polymarket to Refund Users After Scammers Swipe Millions in Website Exploit",
+    "link": "https://decrypt.co/372129/polymarket-refund-users-scammers-swipe-millions-website-exploit",
+    "published_date": "2026-06-25T22:04:37.651679"
+  },
+  {
+    "title": "Trillion-dollar asset manager Invesco looks to plant a flag in tokenized stablecoin reserve sector",
+    "link": "https://www.theblock.co/post/406239/trillion-dollar-asset-manager-invesco-plant-flag-tokenized-stablecoin-reserve-sector?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-06-25T22:04:38.152025"
   }
 ]
