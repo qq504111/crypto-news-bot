@@ -1,15 +1,5 @@
 [
   {
-    "title": "BlackRock-backed Securitize slides 40% after SPAC debut despite tokenization boom",
-    "link": "https://www.coindesk.com/markets/2026/07/07/blackrock-backed-securitize-slides-40-after-spac-debut-despite-tokenization-boom",
-    "published_date": "2026-07-07T21:06:48.650048"
-  },
-  {
-    "title": "CFTC charges North Carolina man over alleged $14 million crypto, futures fraud",
-    "link": "https://www.theblock.co/post/407516/cftc-charges-north-carolina-man-alleged-14-million-crypto-futures-fraud?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-07-07T21:06:49.294337"
-  },
-  {
     "title": "Cardano founding entity EMURGO steps down from Pentad governance role after wallet exploit",
     "link": "https://www.theblock.co/post/407593/cardano-founding-entity-emurgo-steps-down-pentad-governance-role-wallet-exploit?utm_source=rss&utm_medium=rss",
     "published_date": "2026-07-08T15:42:22.169638"
@@ -208,5 +198,10 @@
     "title": "CFTC orders Kalshi to honor Michigan trades, escalating clash with state regulators",
     "link": "https://www.theblock.co/post/408323/cftc-orders-kalshi-honor-michigan-trades-escalating-clash-state-regulators?utm_source=rss&utm_medium=rss",
     "published_date": "2026-07-14T19:24:52.624339"
+  },
+  {
+    "title": "U.S. CFTC moves to stop Kalshi from canceling trades as ordered by Michigan court",
+    "link": "https://www.coindesk.com/policy/2026/07/14/u-s-cftc-moves-to-stop-kalshi-from-canceling-trades-as-ordered-by-michigan-court",
+    "published_date": "2026-07-14T22:01:35.213273"
   }
 ]
