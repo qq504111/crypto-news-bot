@@ -1,15 +1,5 @@
 [
   {
-    "title": "History Says Doing This 1 Thing Will Score You an Investing Win -- Even After a Market Crash.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/history-says-doing-1-thing-082200140.html",
-    "published_date": "2026-07-12T10:54:46.459021"
-  },
-  {
-    "title": "Bitcoin is nearing a power law support line Fidelity has tracked since 2015",
-    "link": "https://www.coindesk.com/markets/2026/07/12/bitcoin-is-nearing-a-power-law-support-line-fidelity-has-tracked-since-2015",
-    "published_date": "2026-07-12T12:02:09.385424"
-  },
-  {
     "title": "Michael Saylor posts cryptic Strategy chart after $216 million bitcoin sale: ‘Orange dots tell only part of the story’",
     "link": "https://www.theblock.co/post/407965/michael-saylor-posts-cryptic-strategy-chart-after-216-million-bitcoin-sale-orange-dots-tell-only-part-of-the-story?utm_source=rss&utm_medium=rss",
     "published_date": "2026-07-12T19:42:25.929609"
@@ -213,5 +203,10 @@
     "title": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
     "link": "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second",
     "published_date": "2026-07-19T07:28:32.795057"
+  },
+  {
+    "title": "Bitcoin's biggest advocate, Michael Saylor, says new plan to clean up the blockchain is 'a bad idea'",
+    "link": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-biggest-advocate-michael-saylor-says-new-plan-to-clean-up-the-blockchain-is-a-bad-idea",
+    "published_date": "2026-07-19T15:31:41.886731"
   }
 ]
