@@ -1,30 +1,5 @@
 [
   {
-    "title": "If a Stock Market Crash Is Coming, 100 Years of History Says This Is the Best Move Investors Can Make",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-crash-coming-100-122000600.html",
-    "published_date": "2026-07-15T12:52:28.430458"
-  },
-  {
-    "title": "Strategy feels 'very secure' until bitcoin reaches $8,000-$10,000, says CEO",
-    "link": "https://www.coindesk.com/markets/2026/07/15/strategy-feels-very-secure-until-bitcoin-reaches-usd8-000-usd10-000-says-ceo",
-    "published_date": "2026-07-15T12:52:30.158842"
-  },
-  {
-    "title": "BlackRock's crypto assets fall 39% despite $15 billion of net inflows",
-    "link": "https://www.coindesk.com/markets/2026/07/15/blackrock-s-crypto-assets-fall-39-despite-usd15-billion-of-net-inflows",
-    "published_date": "2026-07-15T12:52:31.811182"
-  },
-  {
-    "title": "High-level White House meeting said to be planned to hash out Clarity Act ethics section",
-    "link": "https://www.coindesk.com/policy/2026/07/15/high-level-white-house-meeting-said-to-be-planned-to-hash-out-clarity-act-ethics-section",
-    "published_date": "2026-07-15T14:55:13.008805"
-  },
-  {
-    "title": "DTCC begins first tokenized stock and Treasury production trades involving JPMorgan, BlackRock and Goldman",
-    "link": "https://www.theblock.co/post/408419/dtcc-begins-first-tokenized-stock-and-treasury-production-trades-involving-jpmorgan-blackrock-and-goldman-wsj?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-07-15T14:55:13.480341"
-  },
-  {
     "title": "Ostium suffers $18 million exploit as oracle attack wave continues to hit DeFi",
     "link": "https://www.coindesk.com/business/2026/07/15/ostium-suffers-usd18-million-exploit-as-oracle-attack-wave-continues-to-hit-defi",
     "published_date": "2026-07-15T16:25:57.328758"
@@ -228,5 +203,20 @@
     "title": "SecondFi to shut down after $2.4 million ADA wallet theft",
     "link": "https://www.coindesk.com/web3/2026/07/22/secondfi-to-shut-down-after-usd2-4-million-ada-wallet-theft",
     "published_date": "2026-07-22T12:11:56.685282"
+  },
+  {
+    "title": "SEC's Peirce warns some DeFi vaults, onchain lending may fall under securities laws",
+    "link": "https://www.coindesk.com/policy/2026/07/22/sec-s-peirce-warns-some-defi-vaults-onchain-lending-may-fall-under-securities-laws",
+    "published_date": "2026-07-22T16:21:58.473682"
+  },
+  {
+    "title": "‘You will have a painful fall’: SEC’s Peirce warns crypto vault builders against twisting securities law",
+    "link": "https://www.theblock.co/post/409409/you-will-have-a-painful-fall-secs-peirce-warns-crypto-vault-builders-against-twisting-securities-law?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-07-22T16:21:59.123795"
+  },
+  {
+    "title": "Benchmark lowers Coinbase earnings estimates but says Clarity Act could eclipse weak second quarter",
+    "link": "https://www.theblock.co/post/409390/benchmark-lowers-coinbase-earnings-estimates-clarity-act-eclipse-weak-quarter?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-07-22T16:21:59.857313"
   }
 ]
