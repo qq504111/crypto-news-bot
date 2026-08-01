@@ -1,10 +1,5 @@
 [
   {
-    "title": "Stock Market Today: Nasdaq Plunges To 4-Week Low; Metals Firm Kaiser Hits New Entry (Live Coverage)",
-    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-alphabet-googl-tesla-tsla/?src=A00220&yptr=yahoo",
-    "published_date": "2026-07-25T02:56:59.945547"
-  },
-  {
     "title": "Bitcoin ETF weekly trading volume falls to lowest since October 2024 as ether funds lead inflows again",
     "link": "https://www.theblock.co/post/409660/bitcoin-etf-weekly-trading-volume-falls-to-lowest-since-october-2024-as-ether-funds-lead-inflows-again?utm_source=rss&utm_medium=rss",
     "published_date": "2026-07-25T15:06:34.145387"
@@ -243,5 +238,10 @@
     "title": "Former Rep. George Santos agrees to pay $35,000 in CFTC settlement over Kalshi SOTU bet",
     "link": "https://www.theblock.co/post/410338/george-santos-to-pay-35000-cftc-settlement-kalshi-sotu-bet?utm_source=rss&utm_medium=rss",
     "published_date": "2026-07-31T21:39:31.911911"
+  },
+  {
+    "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
+    "link": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
+    "published_date": "2026-08-01T09:33:06.445014"
   }
 ]
