@@ -1,30 +1,5 @@
 [
   {
-    "title": "Cantor is advising crypto bank AMINA on path to potential public listing",
-    "link": "https://www.coindesk.com/business/2026/07/27/cantor-is-advising-crypto-bank-amina-on-path-to-potential-public-listing",
-    "published_date": "2026-07-27T14:44:36.432457"
-  },
-  {
-    "title": "Thailand's SEC alleges Bitkub concealed cyberattack that led to $50 million hack",
-    "link": "https://www.coindesk.com/policy/2026/07/27/thailand-s-sec-alleges-bitkub-concealed-cyberattack-that-led-to-usd50-million-hack",
-    "published_date": "2026-07-27T14:44:38.540788"
-  },
-  {
-    "title": "Michael Saylor's Strategy boosted cash reserve to $3.75 billion, repurchased $25 million of STRC",
-    "link": "https://www.coindesk.com/markets/2026/07/27/michael-saylor-s-strategy-boosted-cash-reserve-to-usd3-75-billion",
-    "published_date": "2026-07-27T14:44:39.671125"
-  },
-  {
-    "title": "Nvidia forms 37-member AI security alliance without OpenAI, Anthropic or Google",
-    "link": "https://www.coindesk.com/tech/2026/07/27/nvidia-forms-37-member-ai-security-alliance-without-openai-anthropic-or-google",
-    "published_date": "2026-07-27T14:44:41.045462"
-  },
-  {
-    "title": "Securitize builds Wall Street credentials with SEC adviser license as tokenization expands",
-    "link": "https://www.coindesk.com/business/2026/07/27/securitize-builds-wall-street-credentials-with-sec-adviser-license-as-tokenization-expands",
-    "published_date": "2026-07-27T14:44:42.214563"
-  },
-  {
     "title": "Securitize expands regulated platform with SEC adviser license",
     "link": "https://www.theblock.co/post/409821/securitize-expands-regulated-platform-with-sec-adviser-license?utm_source=rss&utm_medium=rss",
     "published_date": "2026-07-27T18:55:50.670776"
@@ -258,5 +233,20 @@
     "title": "BlackRock expands tokenized cash with new blockchain-based money market offerings",
     "link": "https://www.coindesk.com/business/2026/08/03/blackrock-expands-tokenized-cash-with-new-blockchain-based-money-market-offerings",
     "published_date": "2026-08-03T13:43:03.174706"
+  },
+  {
+    "title": "Jameson Lopp says Coldcard exploit exposes limits of Bitcoin’s ‘don’t trust, verify’ mantra",
+    "link": "https://www.theblock.co/post/410446/jameson-lopp-coldcard-exploit-exposes-limits-bitcoins-dont-trust-verify-mantra?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-08-03T18:19:36.614573"
+  },
+  {
+    "title": "Michael Saylor says he’s never sold his personal bitcoin after Strategy dumps more BTC",
+    "link": "https://www.theblock.co/post/410451/michael-saylor-says-never-sold-his-personal-bitcoin-strategy-dumps-more-btc?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-08-03T18:19:37.084833"
+  },
+  {
+    "title": "BlackRock launches two tokenized money market funds for stablecoin reserves",
+    "link": "https://www.theblock.co/post/410469/blackrock-launches-two-tokenized-money-market-funds-stablecoin-reserves?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-08-03T18:19:37.551394"
   }
 ]
