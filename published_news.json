@@ -1,10 +1,5 @@
 [
   {
-    "title": "Securitize expands regulated platform with SEC adviser license",
-    "link": "https://www.theblock.co/post/409821/securitize-expands-regulated-platform-with-sec-adviser-license?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-07-27T18:55:50.670776"
-  },
-  {
     "title": "NFL urges CFTC to strengthen rules on sports prediction markets: report",
     "link": "https://www.theblock.co/post/409846/nfl-urges-cftc-to-strengthen-rules-on-sports-prediction-markets-report?utm_source=rss&utm_medium=rss",
     "published_date": "2026-07-27T23:06:16.864505"
@@ -248,5 +243,10 @@
     "title": "BlackRock launches two tokenized money market funds for stablecoin reserves",
     "link": "https://www.theblock.co/post/410469/blackrock-launches-two-tokenized-money-market-funds-stablecoin-reserves?utm_source=rss&utm_medium=rss",
     "published_date": "2026-08-03T18:19:37.551394"
+  },
+  {
+    "title": "What Is an Air-Gapped Bitcoin Wallet? Why the Coldcard Exploit Changes the Conversation About Offline Security",
+    "link": "https://decrypt.co/374868/what-is-air-gapped-bitcoin-wallet-coldcard-exploit-security",
+    "published_date": "2026-08-03T21:41:34.446941"
   }
 ]
