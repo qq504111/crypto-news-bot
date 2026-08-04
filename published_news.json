@@ -1,10 +1,5 @@
 [
   {
-    "title": "Michael Saylor: Bitcoin Code Is a Constitution, Changes Are Attacks on 'Economic Rights'",
-    "link": "https://decrypt.co/374588/michael-saylor-bitcoin-constitution-bip-110",
-    "published_date": "2026-07-28T20:01:54.746758"
-  },
-  {
     "title": "Citadel bets on a Fed rate hike Wednesday as bitcoin analysts call a hold. Someone will be wrong.",
     "link": "https://www.coindesk.com/markets/2026/07/29/citadel-bets-on-a-fed-rate-hike-wednesday-as-bitcoin-analysts-call-a-hold-someone-will-be-wrong",
     "published_date": "2026-07-29T07:20:57.344154"
@@ -288,5 +283,15 @@
     "title": "Coldcard Bitcoin Exploit Explained: Entropy, How Keys Are Generated, and Why Bits Matter",
     "link": "https://decrypt.co/374916/coldcard-bitcoin-exploit-explained-entropy-keys-bits",
     "published_date": "2026-08-04T19:41:31.359434"
+  },
+  {
+    "title": "Ledger Says Coldcard Exploit Shows Bitcoin Wallet Security Must Adapt to AI",
+    "link": "https://decrypt.co/374914/ledger-coldcard-exploit-bitcoin-wallet-security-ai",
+    "published_date": "2026-08-04T22:36:12.758233"
+  },
+  {
+    "title": "BlackRock’s spot Ethereum ETF to undergo 1-for-3 reverse share split in October",
+    "link": "https://www.theblock.co/post/410663/blackrocks-spot-ethereum-etf-to-undergo-1-for-3-reverse-share-split-in-october?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-08-04T22:36:13.219851"
   }
 ]
