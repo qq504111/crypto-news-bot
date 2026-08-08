@@ -1,10 +1,5 @@
 [
   {
-    "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
-    "link": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
-    "published_date": "2026-08-01T09:33:06.445014"
-  },
-  {
     "title": "CZ Warns Bitcoin Holders After $70 Million Wallet Exploit: 'Nothing Is 100%'",
     "link": "https://decrypt.co/374810/cz-warns-bitcoin-holders-70-million-coldcard-wallet-exploit",
     "published_date": "2026-08-01T16:03:24.549295"
@@ -258,5 +253,10 @@
     "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
     "link": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
     "published_date": "2026-08-08T08:08:39.752936"
+  },
+  {
+    "title": "Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF",
+    "link": "https://www.coindesk.com/markets/2026/08/06/why-trillion-dollar-asset-manager-t-rowe-price-put-memecoins-in-its-crypto-etf",
+    "published_date": "2026-08-08T13:49:06.516878"
   }
 ]
