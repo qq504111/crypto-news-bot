@@ -1,10 +1,5 @@
 [
   {
-    "title": "Former Rep. George Santos agrees to pay $35,000 in CFTC settlement over Kalshi SOTU bet",
-    "link": "https://www.theblock.co/post/410338/george-santos-to-pay-35000-cftc-settlement-kalshi-sotu-bet?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-07-31T21:39:31.911911"
-  },
-  {
     "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
     "link": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
     "published_date": "2026-08-01T09:33:06.445014"
@@ -258,5 +253,10 @@
     "title": "CFTC cautions prediction markets over using American-style ‘moneyline’ betting odds: Bloomberg",
     "link": "https://www.theblock.co/news/regulation/2026-08-07-cftc-cautions-prediction-markets-american-style-moneyline-betting-odds-bloomberg-411178?utm_source=rss&utm_medium=rss",
     "published_date": "2026-08-07T19:30:43.081513"
+  },
+  {
+    "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
+    "link": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
+    "published_date": "2026-08-08T08:08:39.752936"
   }
 ]
