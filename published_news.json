@@ -1,15 +1,5 @@
 [
   {
-    "title": "CZ Warns Bitcoin Holders After $70 Million Wallet Exploit: 'Nothing Is 100%'",
-    "link": "https://decrypt.co/374810/cz-warns-bitcoin-holders-70-million-coldcard-wallet-exploit",
-    "published_date": "2026-08-01T16:03:24.549295"
-  },
-  {
-    "title": "SEC to review Nasdaq bitcoin options approval after CME challenge",
-    "link": "https://www.coindesk.com/policy/2026/08/01/sec-to-review-nasdaq-bitcoin-options-approval-after-cme-challenge",
-    "published_date": "2026-08-01T16:03:26.678207"
-  },
-  {
     "title": "Claiming at 62 vs. 67: The $150,000 Social Security Mistake Nobody Does the Math On",
     "link": "https://finance.yahoo.com/markets/articles/claiming-62-vs-67-150-212105783.html",
     "published_date": "2026-08-01T22:28:51.316696"
@@ -258,5 +248,10 @@
     "title": "Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF",
     "link": "https://www.coindesk.com/markets/2026/08/06/why-trillion-dollar-asset-manager-t-rowe-price-put-memecoins-in-its-crypto-etf",
     "published_date": "2026-08-08T13:49:06.516878"
+  },
+  {
+    "title": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
+    "link": "https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities",
+    "published_date": "2026-08-08T17:34:10.524435"
   }
 ]
