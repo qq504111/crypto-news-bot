@@ -1,10 +1,5 @@
 [
   {
-    "title": "Claiming at 62 vs. 67: The $150,000 Social Security Mistake Nobody Does the Math On",
-    "link": "https://finance.yahoo.com/markets/articles/claiming-62-vs-67-150-212105783.html",
-    "published_date": "2026-08-01T22:28:51.316696"
-  },
-  {
     "title": "Unlike the FTX collapse, the $89 million Coldcard exploit has investors sending bitcoin back to exchanges",
     "link": "https://www.coindesk.com/markets/2026/08/02/unlike-the-ftx-collapse-the-usd88-million-coldcard-exploit-has-investors-sending-bitcoin-back-to-exchanges",
     "published_date": "2026-08-02T12:04:53.555893"
@@ -253,5 +248,10 @@
     "title": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
     "link": "https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities",
     "published_date": "2026-08-08T17:34:10.524435"
+  },
+  {
+    "title": "ETF League Tables: Vanguard Sheds Almost $1B",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-vanguard-sheds-210003365.html",
+    "published_date": "2026-08-09T03:59:09.889057"
   }
 ]
