@@ -1,10 +1,5 @@
 [
   {
-    "title": "What Is an Air-Gapped Bitcoin Wallet? Why the Coldcard Exploit Changes the Conversation About Offline Security",
-    "link": "https://decrypt.co/374868/what-is-air-gapped-bitcoin-wallet-coldcard-exploit-security",
-    "published_date": "2026-08-03T21:41:34.446941"
-  },
-  {
     "title": "First U.S. spot bitcoin ETF to close as inflows dwindle, investors chase AI returns",
     "link": "https://www.coindesk.com/business/2026/08/04/first-u-s-spot-bitcoin-etf-to-close-as-inflows-dwindle-investors-chase-ai-returns",
     "published_date": "2026-08-04T10:43:00.784157"
@@ -248,5 +243,10 @@
     "title": "‘I’m going with you’: Shaq reveals why he picked 1 advisor over the rest, now he's worth $500M. Use the same tactic now",
     "link": "https://finance.yahoo.com/small-business/articles/m-going-shaq-reveals-why-125500822.html",
     "published_date": "2026-08-10T20:47:20.144155"
+  },
+  {
+    "title": "BTCPay Server supporters offer up to 3 BTC for recovery bounty after critical exploit",
+    "link": "https://www.theblock.co/news/ecosystems/2026-08-10-btcpay-server-supporters-offer-3-btc-recovery-bounty-critical-exploit-411353?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-08-10T21:45:21.684121"
   }
 ]
