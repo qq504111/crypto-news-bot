@@ -1,20 +1,5 @@
 [
   {
-    "title": "Jameson Lopp says Coldcard exploit exposes limits of Bitcoin’s ‘don’t trust, verify’ mantra",
-    "link": "https://www.theblock.co/post/410446/jameson-lopp-coldcard-exploit-exposes-limits-bitcoins-dont-trust-verify-mantra?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-08-03T18:19:36.614573"
-  },
-  {
-    "title": "Michael Saylor says he’s never sold his personal bitcoin after Strategy dumps more BTC",
-    "link": "https://www.theblock.co/post/410451/michael-saylor-says-never-sold-his-personal-bitcoin-strategy-dumps-more-btc?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-08-03T18:19:37.084833"
-  },
-  {
-    "title": "BlackRock launches two tokenized money market funds for stablecoin reserves",
-    "link": "https://www.theblock.co/post/410469/blackrock-launches-two-tokenized-money-market-funds-stablecoin-reserves?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-08-03T18:19:37.551394"
-  },
-  {
     "title": "What Is an Air-Gapped Bitcoin Wallet? Why the Coldcard Exploit Changes the Conversation About Offline Security",
     "link": "https://decrypt.co/374868/what-is-air-gapped-bitcoin-wallet-coldcard-exploit-security",
     "published_date": "2026-08-03T21:41:34.446941"
@@ -248,5 +233,10 @@
     "title": "Grayscale quietly drops Cardano, Polkadot and Hedera ETF plans",
     "link": "https://www.coindesk.com/business/2026/08/10/grayscale-quietly-drops-cardano-polkadot-and-hedera-etf-plans",
     "published_date": "2026-08-10T16:02:07.031362"
+  },
+  {
+    "title": "What Happens to a Bond ETF's Price When the Fed Cuts Rates -- Using the Actual Historical Data",
+    "link": "https://finance.yahoo.com/markets/options/articles/happens-bond-etfs-price-fed-093500748.html",
+    "published_date": "2026-08-10T18:24:49.875500"
   }
 ]
