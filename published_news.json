@@ -1,20 +1,5 @@
 [
   {
-    "title": "Bitcoin, ether decline as Coldcard exploit enters a fifth day",
-    "link": "https://www.coindesk.com/markets/2026/08/03/bitcoin-ether-decline-as-coldcard-exploit-enters-a-fifth-day",
-    "published_date": "2026-08-03T13:43:00.641515"
-  },
-  {
-    "title": "Michael Saylor’s Strategy sells another 1,638 BTC for $105 million, reducing total holdings to 842,138 BTC",
-    "link": "https://www.theblock.co/post/410414/michael-saylors-strategy-sells-another-1638-btc-for-105-million-reducing-total-holdings-to-842138-btc?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-08-03T13:43:01.185460"
-  },
-  {
-    "title": "BlackRock expands tokenized cash with new blockchain-based money market offerings",
-    "link": "https://www.coindesk.com/business/2026/08/03/blackrock-expands-tokenized-cash-with-new-blockchain-based-money-market-offerings",
-    "published_date": "2026-08-03T13:43:03.174706"
-  },
-  {
     "title": "Jameson Lopp says Coldcard exploit exposes limits of Bitcoin’s ‘don’t trust, verify’ mantra",
     "link": "https://www.theblock.co/post/410446/jameson-lopp-coldcard-exploit-exposes-limits-bitcoins-dont-trust-verify-mantra?utm_source=rss&utm_medium=rss",
     "published_date": "2026-08-03T18:19:36.614573"
@@ -258,5 +243,10 @@
     "title": "Morning Minute: Bitcoin ETFs See Biggest Inflows Since May",
     "link": "https://decrypt.co/375194/morning-minute-bitcoin-etfs-see-biggest-inflows-since-may",
     "published_date": "2026-08-10T13:16:57.873375"
+  },
+  {
+    "title": "Grayscale quietly drops Cardano, Polkadot and Hedera ETF plans",
+    "link": "https://www.coindesk.com/business/2026/08/10/grayscale-quietly-drops-cardano-polkadot-and-hedera-etf-plans",
+    "published_date": "2026-08-10T16:02:07.031362"
   }
 ]
