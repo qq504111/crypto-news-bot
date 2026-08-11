@@ -1,40 +1,5 @@
 [
   {
-    "title": "First U.S. spot bitcoin ETF to close as inflows dwindle, investors chase AI returns",
-    "link": "https://www.coindesk.com/business/2026/08/04/first-u-s-spot-bitcoin-etf-to-close-as-inflows-dwindle-investors-chase-ai-returns",
-    "published_date": "2026-08-04T10:43:00.784157"
-  },
-  {
-    "title": "BlackRock debuts tokenized access to $311 billion of money market funds in Europe",
-    "link": "https://www.coindesk.com/business/2026/08/04/blackrock-debuts-tokenized-access-to-usd311-billion-of-money-market-funds-in-europe",
-    "published_date": "2026-08-04T10:43:02.416450"
-  },
-  {
-    "title": "Bitcoin rises toward $64,000 as Coldcard exploit, Strategy sales recede. ADA advances",
-    "link": "https://www.coindesk.com/markets/2026/08/04/bitcoin-rises-toward-usd64-000-as-coldcard-exploit-strategy-sales-recede-ada-advances",
-    "published_date": "2026-08-04T13:04:29.236075"
-  },
-  {
-    "title": "Coldcard urges users to move bitcoin as exploit is still in progress",
-    "link": "https://www.coindesk.com/tech/2026/08/04/coldcard-urges-users-to-move-bitcoin-as-active-wallet-exploit-continues",
-    "published_date": "2026-08-04T13:04:30.827861"
-  },
-  {
-    "title": "OKX says Coldcard exploit triggers ‘record’ inflows to centralized exchanges",
-    "link": "https://www.theblock.co/post/410515/okx-says-coldcard-exploit-record-inflows-centralized-exchanges?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-08-04T13:04:31.292075"
-  },
-  {
-    "title": "BlackRock debuts tokenized share classes for select European money market funds with $311 billion in assets",
-    "link": "https://www.theblock.co/post/410554/blackrock-debuts-tokenized-share-classes-for-select-european-money-market-funds-with-311-billion-in-assets?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-08-04T13:04:31.766485"
-  },
-  {
-    "title": "BlackRock Tokenizes $311B of European Money Market Funds With JP Morgan's Kinexys",
-    "link": "https://decrypt.co/374894/blackrock-tokenizes-311b-of-european-money-market-funds-with-jp-morgans-kinexys",
-    "published_date": "2026-08-04T13:04:32.227838"
-  },
-  {
     "title": "Apple's AI Slop Problem Left a $200K macOS Exploit Unreported",
     "link": "https://decrypt.co/374900/apples-ai-slop-problem-left-a-200k-macos-exploit-unreported",
     "published_date": "2026-08-04T15:55:58.110201"
@@ -258,5 +223,10 @@
     "title": "BTCPay offers $190,000 bounty after bitcoin payment servers drained in exploit",
     "link": "https://www.coindesk.com/markets/2026/08/11/btcpay-offers-usd190-000-bounty-after-bitcoin-payment-servers-drained-in-exploit",
     "published_date": "2026-08-11T07:13:36.370357"
+  },
+  {
+    "title": "Morning Minute: Saylor's Strategy Sells Bitcoin for Second Week in a Row",
+    "link": "https://decrypt.co/375304/morning-minute-saylors-strategy-sells-bitcoin-for-second-week-in-a-row",
+    "published_date": "2026-08-11T13:13:52.696873"
   }
 ]
