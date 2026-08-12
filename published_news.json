@@ -1,10 +1,5 @@
 [
   {
-    "title": "Will the housing market crash in 2026? What the second half of the year looks like",
-    "link": "https://finance.yahoo.com/personal-finance/mortgages/article/will-the-housing-market-crash-in-2026-what-the-second-half-of-the-year-looks-like-170038540.html",
-    "published_date": "2026-08-05T21:47:46.220353"
-  },
-  {
     "title": "Bitcoin AI Security Audit Files 4,962 Findings Across 390 Projects",
     "link": "https://decrypt.co/375029/bitcoin-ai-security-audit-files-4962-findings-across-390-projects",
     "published_date": "2026-08-06T10:09:32.398596"
@@ -243,5 +238,10 @@
     "title": "'Inner Thoughts' of Every Major AI Model Exposed in Massive Exploit",
     "link": "https://decrypt.co/375501/inner-thoughts-every-major-ai-model-exposed-exploit",
     "published_date": "2026-08-12T20:50:36.627851"
+  },
+  {
+    "title": "SEC clears Franklin Templeton funds to use onchain BENJI system for cash management",
+    "link": "https://www.theblock.co/news/defi/2026-08-12-sec-clears-franklin-templeton-funds-use-onchain-benji-system-cash-management-411654",
+    "published_date": "2026-08-12T21:50:50.336245"
   }
 ]
