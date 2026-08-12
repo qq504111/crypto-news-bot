@@ -1,15 +1,5 @@
 [
   {
-    "title": "Bitcoin, broader market fail to keep pace as global equities hit record highs",
-    "link": "https://www.coindesk.com/markets/2026/08/05/bitcoin-broader-market-fail-to-keep-pace-as-global-equities-hit-record-highs",
-    "published_date": "2026-08-05T12:01:03.094123"
-  },
-  {
-    "title": "Coldcard hack sparks a self-custody security overhaul: Cory Klippsten",
-    "link": "https://www.coindesk.com/markets/2026/08/05/coldcard-hack-sparks-a-self-custody-security-overhaul-cory-klippsten",
-    "published_date": "2026-08-05T12:01:04.804864"
-  },
-  {
     "title": "Galaxy Digital shares slip 5% after second-quarter results",
     "link": "https://www.coindesk.com/business/2026/08/05/galaxy-digital-shares-slip-5-after-second-quarter-results",
     "published_date": "2026-08-05T14:55:28.901290"
@@ -238,5 +228,10 @@
     "title": "Fidelity moves to add staking, quarterly payouts to near $900 million ether ETF",
     "link": "https://www.coindesk.com/business/2026/08/12/fidelity-moves-to-add-staking-quarterly-payouts-to-near-usd900-million-ether-etf",
     "published_date": "2026-08-12T10:35:33.014754"
+  },
+  {
+    "title": "America doesn’t need a second-class payments system",
+    "link": "https://www.coindesk.com/opinion/2026/08/12/america-doesn-t-need-a-second-class-payments-system",
+    "published_date": "2026-08-12T13:17:39.210628"
   }
 ]
