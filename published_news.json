@@ -1,10 +1,5 @@
 [
   {
-    "title": "BTCPay warns of actively exploited vulnerability that could drain funds",
-    "link": "https://www.theblock.co/news/ecosystems/2026-08-07-btcpay-warns-actively-exploited-vulnerability-could-drain-funds-411170?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-08-07T18:22:38.868736"
-  },
-  {
     "title": "CFTC cautions prediction markets over using American-style ‘moneyline’ betting odds: Bloomberg",
     "link": "https://www.theblock.co/news/regulation/2026-08-07-cftc-cautions-prediction-markets-american-style-moneyline-betting-odds-bloomberg-411178?utm_source=rss&utm_medium=rss",
     "published_date": "2026-08-07T19:30:43.081513"
@@ -253,5 +248,10 @@
     "title": "Tokenization stocks slip as SEC delay puts 'speed bump' in crypto’s Wall Street push",
     "link": "https://www.coindesk.com/markets/2026/08/14/tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-crypto-s-wall-street-push",
     "published_date": "2026-08-14T17:57:02.493351"
+  },
+  {
+    "title": "Cboe seeks SEC nod for first US 3x bitcoin and ether ETFs",
+    "link": "https://www.theblock.co/news/regulation/2026-08-14-cboe-seeks-sec-nod-for-first-us-3x-bitcoin-and-ether-etfs-411879",
+    "published_date": "2026-08-14T19:04:06.545408"
   }
 ]
