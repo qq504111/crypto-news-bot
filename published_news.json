@@ -1,10 +1,5 @@
 [
   {
-    "title": "CFTC cautions prediction markets over using American-style ‘moneyline’ betting odds: Bloomberg",
-    "link": "https://www.theblock.co/news/regulation/2026-08-07-cftc-cautions-prediction-markets-american-style-moneyline-betting-odds-bloomberg-411178?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-08-07T19:30:43.081513"
-  },
-  {
     "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
     "link": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
     "published_date": "2026-08-08T08:08:39.752936"
@@ -253,5 +248,10 @@
     "title": "Cboe seeks SEC nod for first US 3x bitcoin and ether ETFs",
     "link": "https://www.theblock.co/news/regulation/2026-08-14-cboe-seeks-sec-nod-for-first-us-3x-bitcoin-and-ether-etfs-411879",
     "published_date": "2026-08-14T19:04:06.545408"
+  },
+  {
+    "title": "SEC May Advance Crypto Rules, 24/7 Trading Without Clarity Act. OCC Paves Way For Crypto Banks.",
+    "link": "https://www.investors.com/news/sec-cryptocurrency-rules-innovation-trading-clarity-act-senate-delay-occ-national-banks-bitcoin/?src=A00220&yptr=yahoo",
+    "published_date": "2026-08-15T03:42:08.388878"
   }
 ]
