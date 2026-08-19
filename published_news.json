@@ -1,25 +1,5 @@
 [
   {
-    "title": "Florida man charged by CFTC over $397 million crypto Ponzi scheme",
-    "link": "https://www.theblock.co/news/regulation/2026-08-11-florida-man-charged-by-cftc-over-397-million-crypto-ponzi-scheme-411491",
-    "published_date": "2026-08-11T20:50:00.249145"
-  },
-  {
-    "title": "BTCPay Backers Offer Bitcoin Bounty After Wallet Exploit",
-    "link": "https://decrypt.co/375376/btcpay-bitcoin-bounty-critical-wallet-exploit",
-    "published_date": "2026-08-11T21:52:28.359503"
-  },
-  {
-    "title": "CFTC orders Kalshi to continue offering prediction markets in New York after state lawsuit",
-    "link": "https://www.coindesk.com/policy/2026/08/11/cftc-orders-kalshi-to-continue-offering-prediction-markets-in-new-york-after-state-lawsuit",
-    "published_date": "2026-08-11T21:52:30.134857"
-  },
-  {
-    "title": "CFTC flexes emergency authority to keep Kalshi operating amid New York lawsuit",
-    "link": "https://www.theblock.co/news/regulation/2026-08-11-cftc-flexes-emergency-authority-kalshi-operating-amid-new-york-lawsuit-411507",
-    "published_date": "2026-08-11T22:48:19.781796"
-  },
-  {
     "title": "Harmony confirms exploit involving unauthorized minting of 4 billion ONE tokens",
     "link": "https://www.theblock.co/news/defi/2026-08-12-harmony-confirms-exploit-one-token-411527",
     "published_date": "2026-08-12T07:42:09.675989"
@@ -243,5 +223,10 @@
     "title": "SEC proposes new crypto offering rules as Congress stalls on digital asset legislation",
     "link": "https://www.theblock.co/news/regulation/2026-08-18-sec-proposes-new-crypto-offering-rules-congress-stalls-digital-asset-legislation-412145",
     "published_date": "2026-08-18T19:30:11.410543"
+  },
+  {
+    "title": "Europe risks financial crisis if AI bubble bursts, warns ECB",
+    "link": "https://finance.yahoo.com/economy/policy/articles/europe-risks-financial-crisis-ai-165331943.html",
+    "published_date": "2026-08-19T04:40:29.180363"
   }
 ]
