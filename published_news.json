@@ -1,15 +1,5 @@
 [
   {
-    "title": "History Says These 3 Warning Signs Precede Major Stock Market Crashes. All 3 Are Flashing Red Right Now.",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/history-says-3-warning-signs-170500272.html",
-    "published_date": "2026-08-12T17:30:04.814642"
-  },
-  {
-    "title": "Zoomsday: AI Used to Build Critical Zoom Exploit in One Day",
-    "link": "https://decrypt.co/375458/zoomsday-ai-zoom-exploit-one-day",
-    "published_date": "2026-08-12T18:29:55.721073"
-  },
-  {
     "title": "'Inner Thoughts' of Every Major AI Model Exposed in Massive Exploit",
     "link": "https://decrypt.co/375501/inner-thoughts-every-major-ai-model-exposed-exploit",
     "published_date": "2026-08-12T20:50:36.627851"
@@ -238,5 +228,10 @@
     "title": "Grayscale’s latest Zcash ETF amendment shows DCG in talks to contribute 200,000 ZEC to fund",
     "link": "https://www.theblock.co/news/markets/2026-08-19-grayscale-zcash-etf-amendment-dcg-discussions-contribute-200000-zec-fund-412232",
     "published_date": "2026-08-19T17:29:22.629454"
+  },
+  {
+    "title": "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen",
+    "link": "https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit",
+    "published_date": "2026-08-19T18:39:37.573938"
   }
 ]
