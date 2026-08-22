@@ -1,20 +1,5 @@
 [
   {
-    "title": "Why the world’s second-largest Bitcoin mining power is shutting down rigs in its capital city",
-    "link": "https://www.coindesk.com/policy/2026/08/15/why-the-world-s-second-largest-bitcoin-mining-power-is-shutting-down-rigs-in-its-capital-city",
-    "published_date": "2026-08-15T15:24:38.003694"
-  },
-  {
-    "title": "Paul Tudor Jones’ investment firm increases stake in BlackRock's bitcoin ETF after year of selling",
-    "link": "https://www.coindesk.com/business/2026/08/15/paul-tudor-jones-investment-firm-increases-blackrock-s-bitcoin-etf-stake-after-year-of-selling",
-    "published_date": "2026-08-15T15:24:39.510727"
-  },
-  {
-    "title": "Trump, CFTC Chair Selig expected at Wednesday White House meeting with crypto and prediction market executives",
-    "link": "https://www.theblock.co/news/regulation/2026-08-15-trump-cftc-chair-selig-expected-at-wednesday-white-house-meeting-with-crypto-and-prediction-market-executives-411919",
-    "published_date": "2026-08-15T15:24:40.152799"
-  },
-  {
     "title": "Harvard leaves bitcoin ETF stake untouched in Q2 after cutting it 43% in the prior quarter",
     "link": "https://www.theblock.co/news/markets/2026-08-15-harvard-leaves-bitcoin-etf-stake-untouched-in-q2-after-cutting-it-43-in-the-prior-quarter-411926",
     "published_date": "2026-08-15T19:23:39.646381"
@@ -288,5 +273,10 @@
     "title": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
     "link": "https://www.coindesk.com/web3/2026/08/22/web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit",
     "published_date": "2026-08-22T14:25:09.972831"
+  },
+  {
+    "title": "Solana cuts mainnet slot time to 350 milliseconds in first step toward 200ms goal",
+    "link": "https://www.theblock.co/news/ecosystems/2026-08-22-solana-cuts-mainnet-slot-time-to-350-milliseconds-in-first-step-toward-200ms-goal-412521",
+    "published_date": "2026-08-22T16:53:33.835675"
   }
 ]
