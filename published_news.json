@@ -1,25 +1,5 @@
 [
   {
-    "title": "Every fusion startup that has raised over $100M",
-    "link": "https://finance.yahoo.com/sectors/energy/articles/every-fusion-startup-raised-over-153901654.html",
-    "published_date": "2026-08-16T14:50:58.798552"
-  },
-  {
-    "title": "Hackers exploited macOS Screen Sharing flaw to install Monero miners, Dutch cyber agency says",
-    "link": "https://www.theblock.co/news/defi/2026-08-16-hackers-exploited-macos-screen-sharing-flaw-to-install-monero-miners-dutch-cyber-agency-says-411932",
-    "published_date": "2026-08-16T15:24:52.136228"
-  },
-  {
-    "title": "Ondo Stocks Volume Hits $27B, Tokenized Equity Platform Holds Above $1B",
-    "link": "https://finance.yahoo.com/markets/crypto/articles/ondo-stocks-volume-hits-27b-173900103.html",
-    "published_date": "2026-08-16T18:33:57.404840"
-  },
-  {
-    "title": "The SEC meeting that wasn't: State of Crypto",
-    "link": "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto",
-    "published_date": "2026-08-16T18:33:58.515722"
-  },
-  {
     "title": "Dutch Prosecutors Sell $2.5M of Crypto From Bankrupt Platform Knaken",
     "link": "https://decrypt.co/375757/dutch-prosecutors-sell-2-5m-of-crypto-from-bankrupt-platform-knaken",
     "published_date": "2026-08-17T10:35:08.673555"
@@ -308,5 +288,10 @@
     "title": "If a Stock Market Crash Is Coming, History Says Buying and Holding These Stocks Is a Smart Move",
     "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-crash-coming-history-123500285.html",
     "published_date": "2026-08-23T14:26:54.886981"
+  },
+  {
+    "title": "DeFi lending protocol Term Finance loses an estimated $8.5 million to governance exploit",
+    "link": "https://www.theblock.co/news/defi/2026-08-23-defi-lending-protocol-term-finance-loses-an-estimated-8-5-million-to-governance-exploit-412543",
+    "published_date": "2026-08-23T22:26:06.349757"
   }
 ]
