@@ -1,10 +1,5 @@
 [
   {
-    "title": "Blockchain Association backs SEC’s proposal to scrap outdated NMS rules, citing tokenization benefits",
-    "link": "https://www.theblock.co/news/regulation/2026-08-18-blockchain-association-backs-secs-proposal-to-scrap-outdated-nms-rules-citing-tokenization-benefits-412069",
-    "published_date": "2026-08-18T09:37:03.423567"
-  },
-  {
     "title": "Securitize brings Neuberger’s $230 billion fixed-income platform onchain with new tokenized fund",
     "link": "https://www.theblock.co/news/markets/2026-08-18-securitize-neubergers-230-billion-fixed-income-platform-onchain-new-tokenized-fund-412102",
     "published_date": "2026-08-18T15:34:54.417454"
@@ -303,5 +298,10 @@
     "title": "Live updates: Bitcoin ETFs draw a seventh straight day of inflows as the rally holds above $80,000",
     "link": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
     "published_date": "2026-08-25T07:48:02.867799"
+  },
+  {
+    "title": "Grayscale debuts first Zcash ETF of its kind as privacy coin surges",
+    "link": "https://www.theblock.co/news/regulation/2026-08-25-grayscale-debuts-zcash-etf-412654",
+    "published_date": "2026-08-25T12:53:15.621202"
   }
 ]
