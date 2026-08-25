@@ -1,15 +1,5 @@
 [
   {
-    "title": "Here's How Much Money You'd Have Today If You Invested $1,000 in the S&P 500 During Every Stock Market Crash Since 1950 (Spoiler Alert: Wow!)",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/heres-much-money-youd-today-095000564.html",
-    "published_date": "2026-08-17T18:50:33.973347"
-  },
-  {
-    "title": "Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push",
-    "link": "https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push",
-    "published_date": "2026-08-17T22:27:58.345502"
-  },
-  {
     "title": "Blockchain Association backs SEC’s proposal to scrap outdated NMS rules, citing tokenization benefits",
     "link": "https://www.theblock.co/news/regulation/2026-08-18-blockchain-association-backs-secs-proposal-to-scrap-outdated-nms-rules-citing-tokenization-benefits-412069",
     "published_date": "2026-08-18T09:37:03.423567"
@@ -308,5 +298,10 @@
     "title": "Hyperliquid Policy Center urges SEC, CFTC to harmonize rules for perpetual contracts",
     "link": "https://www.theblock.co/news/regulation/2026-08-24-hyperliquid-policy-center-urges-sec-cftc-harmonize-rules-perpetual-contracts-412601",
     "published_date": "2026-08-24T17:33:27.520250"
+  },
+  {
+    "title": "Live updates: Bitcoin ETFs draw a seventh straight day of inflows as the rally holds above $80,000",
+    "link": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
+    "published_date": "2026-08-25T07:48:02.867799"
   }
 ]
