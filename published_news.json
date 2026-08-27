@@ -1,15 +1,5 @@
 [
   {
-    "title": "Liquidations hit highest level since Oct. 10 crypto market crash",
-    "link": "https://finance.yahoo.com/markets/crypto/articles/liquidations-hit-highest-level-since-171751793.html",
-    "published_date": "2026-08-20T17:33:01.174126"
-  },
-  {
-    "title": "U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails",
-    "link": "https://www.coindesk.com/policy/2026/08/20/u-s-cftc-chief-puts-staff-on-notice-to-create-crypto-regulations-if-clarity-act-fails",
-    "published_date": "2026-08-20T19:35:18.889556"
-  },
-  {
     "title": "CME CEO Terrence Duffy trades barbs with CFTC’s Selig and Kalshi’s COO over prediction market oversight",
     "link": "https://www.theblock.co/news/regulation/2026-08-20-cme-ceo-terrence-duffy-trades-barbs-with-cftcs-selig-and-kalshis-coo-over-prediction-market-oversight-412397",
     "published_date": "2026-08-20T23:53:26.218529"
@@ -278,5 +268,20 @@
     "title": "Bitcoin ETFs Draw $2.8B in Eight-Day Streak as BTC Tests $80K",
     "link": "https://decrypt.co/376683/bitcoin-etfs-draw-2-8b-in-eight-day-streak-as-btc-tests-80k",
     "published_date": "2026-08-27T11:01:49.726662"
+  },
+  {
+    "title": "Moonwell investigates lending market issue on Base as security firms flag multimillion-dollar exploit",
+    "link": "https://www.theblock.co/news/defi/2026-08-27-moonwell-investigates-base-lending-market-issue-412913",
+    "published_date": "2026-08-27T21:05:44.674658"
+  },
+  {
+    "title": "BlackRock’s Mitchnick says bitcoin’s risk-off narrative is ‘the one to bet on’ long term as rally consolidates near $80,000",
+    "link": "https://www.theblock.co/news/markets/2026-08-27-blackrocks-mitchnick-says-bitcoins-risk-off-narrative-is-the-one-to-bet-on-long-term-as-rally-consolidates-near-80000-412897",
+    "published_date": "2026-08-27T21:05:45.104046"
+  },
+  {
+    "title": "Polish Olympic chief arrested as prosecutors probe suspected crypto-linked bribe",
+    "link": "https://www.coindesk.com/business/2026/08/27/polish-olympic-chief-arrested-as-prosecutors-probe-suspected-crypto-linked-bribe",
+    "published_date": "2026-08-27T21:05:46.044182"
   }
 ]
