@@ -1,10 +1,5 @@
 [
   {
-    "title": "DeFi lending protocol Term Finance loses an estimated $8.5 million to governance exploit",
-    "link": "https://www.theblock.co/news/defi/2026-08-23-defi-lending-protocol-term-finance-loses-an-estimated-8-5-million-to-governance-exploit-412543",
-    "published_date": "2026-08-23T22:26:06.349757"
-  },
-  {
     "title": "Crypto roars back as bitcoin posts its second-best week since early 2021",
     "link": "https://www.coindesk.com/markets/2026/08/24/crypto-roars-back-as-bitcoin-posts-its-second-best-week-since-early-2021",
     "published_date": "2026-08-24T08:52:25.533383"
@@ -208,5 +203,15 @@
     "title": "Crypto.com-linked Cronos network halts after Tectonic exploit estimated at $75 million",
     "link": "https://www.theblock.co/news/defi/2026-08-30-crypto-com-linked-cronos-network-halts-after-tectonic-exploit-estimated-at-75-million-413069",
     "published_date": "2026-08-30T20:58:08.426609"
+  },
+  {
+    "title": "Polygon Quietly Patched Security Flaws in Two Hard Forks Before Disclosing Them",
+    "link": "https://decrypt.co/376911/polygon-quietly-patched-security-flaws",
+    "published_date": "2026-08-30T23:23:39.146240"
+  },
+  {
+    "title": "Bitcoin ETFs Snap Nine-Day Inflow Streak as Ethereum Funds Extend Their Run",
+    "link": "https://decrypt.co/376897/bitcoin-etfs-snap-streak-ethereum-funds-extend",
+    "published_date": "2026-08-30T23:23:39.418606"
   }
 ]
