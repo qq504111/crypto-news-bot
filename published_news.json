@@ -1,20 +1,5 @@
 [
   {
-    "title": "Bitcoin ETFs Post Strongest Weekly Inflows in 10 Months as Price Surges",
-    "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-post-strongest-weekly-154700094.html",
-    "published_date": "2026-08-24T16:41:26.291407"
-  },
-  {
-    "title": "Bitcoin, Ethereum ETFs Grew $23 Billion Last Week—Only $2.6 Billion Was New Money",
-    "link": "https://decrypt.co/376349/bitcoin-ethereum-etfs-23-billion-aum-inflows",
-    "published_date": "2026-08-24T17:33:27.245087"
-  },
-  {
-    "title": "Hyperliquid Policy Center urges SEC, CFTC to harmonize rules for perpetual contracts",
-    "link": "https://www.theblock.co/news/regulation/2026-08-24-hyperliquid-policy-center-urges-sec-cftc-harmonize-rules-perpetual-contracts-412601",
-    "published_date": "2026-08-24T17:33:27.520250"
-  },
-  {
     "title": "Live updates: Bitcoin ETFs draw a seventh straight day of inflows as the rally holds above $80,000",
     "link": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
     "published_date": "2026-08-25T07:48:02.867799"
@@ -213,5 +198,10 @@
     "title": "NYSE owner ICE taps tZERO for tokenized securities push, takes stake in firm",
     "link": "https://www.coindesk.com/business/2026/08/31/nyse-owner-ice-taps-tzero-for-tokenized-securities-push-takes-stake-in-firm",
     "published_date": "2026-08-31T16:19:15.109236"
+  },
+  {
+    "title": "NYSE parent ICE partners with tZERO on infrastructure for tokenized securities",
+    "link": "https://www.theblock.co/news/markets/2026-08-31-nyse-parent-ice-partners-with-tzero-infrastructure-tokenized-securities-413111",
+    "published_date": "2026-08-31T21:34:20.776380"
   }
 ]
