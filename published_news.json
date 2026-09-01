@@ -1,10 +1,5 @@
 [
   {
-    "title": "Beer giant Constellation Brands invests $100M in US farm profitability",
-    "link": "https://finance.yahoo.com/economy/policy/articles/beer-giant-constellation-brands-invests-104000334.html",
-    "published_date": "2026-08-25T19:34:36.429856"
-  },
-  {
     "title": "Commonwealth Fusion Systems aims to complete demonstration reactor with $1B funding round",
     "link": "https://finance.yahoo.com/energy/articles/commonwealth-fusion-systems-aims-complete-114024224.html",
     "published_date": "2026-08-25T20:32:52.579791"
@@ -198,5 +193,10 @@
     "title": "Cathie Wood’s Ark Invest Buys $37 Million in Bitcoin and Payments Firm Block",
     "link": "https://decrypt.co/377046/cathie-wood-ark-invest-buys-more-block",
     "published_date": "2026-09-01T16:51:19.570425"
+  },
+  {
+    "title": "SEC seeks to update its 1970s-era transfer agent rules for the blockchain age",
+    "link": "https://www.theblock.co/news/regulation/2026-09-01-sec-seeks-update-1970s-era-transfer-agent-rules-for-blockchain-age-413278",
+    "published_date": "2026-09-01T19:47:16.985010"
   }
 ]
