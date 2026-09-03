@@ -1,20 +1,5 @@
 [
   {
-    "title": "Bitfinex Securities raises $50 million in push to offer tokenized nickel trading",
-    "link": "https://www.coindesk.com/business/2026/08/27/bitfinex-securities-raises-usd50-million-in-push-to-offer-tokenized-nickel-trading",
-    "published_date": "2026-08-27T11:01:48.807113"
-  },
-  {
-    "title": "BlackRock's Mitchnick says macro case for bitcoin is strengthening after record trading in positive week",
-    "link": "https://www.coindesk.com/markets/2026/08/27/blackrock-s-mitchnick-says-macro-case-for-bitcoin-is-strengthening-after-record-trading-in-positive-week",
-    "published_date": "2026-08-27T11:01:49.428084"
-  },
-  {
-    "title": "Bitcoin ETFs Draw $2.8B in Eight-Day Streak as BTC Tests $80K",
-    "link": "https://decrypt.co/376683/bitcoin-etfs-draw-2-8b-in-eight-day-streak-as-btc-tests-80k",
-    "published_date": "2026-08-27T11:01:49.726662"
-  },
-  {
     "title": "Moonwell investigates lending market issue on Base as security firms flag multimillion-dollar exploit",
     "link": "https://www.theblock.co/news/defi/2026-08-27-moonwell-investigates-base-lending-market-issue-412913",
     "published_date": "2026-08-27T21:05:44.674658"
@@ -158,5 +143,25 @@
     "title": "‘Much ado about nothing’: CFTC files to dismiss CME’s lawsuit over crypto perpetual futures",
     "link": "https://www.theblock.co/news/regulation/2026-09-02-cftc-dismiss-cme-413416",
     "published_date": "2026-09-03T06:18:57.986112"
+  },
+  {
+    "title": "Whether the Fed raises interest rates this month isn’t as big a deal for stocks as you might think",
+    "link": "https://www.marketwatch.com/story/whether-the-fed-raises-interest-rates-this-month-isnt-as-big-a-deal-for-stocks-as-you-might-think-6464b88d?mod=mw_rss_topstories",
+    "published_date": "2026-09-03T11:34:33.676113"
+  },
+  {
+    "title": "Live updates: Bitcoin shrugs off higher oil prices as Japanese yen rallies",
+    "link": "https://www.coindesk.com/business/2026/09/03/live-updates-crypto-majors-bounce-while-global-funds-run-their-lowest-dollar-hedges-since-2015",
+    "published_date": "2026-09-03T11:34:34.412154"
+  },
+  {
+    "title": "Australia is cracking down on crypto businesses as its strict new regulatory deadline nears",
+    "link": "https://www.coindesk.com/business/2026/09/03/australia-is-cracking-down-on-crypto-businesses-as-its-strict-new-regulatory-deadline-nears",
+    "published_date": "2026-09-03T11:34:35.219602"
+  },
+  {
+    "title": "CFTC asks judge to dismiss CME lawsuit over crypto perpetual futures",
+    "link": "https://www.coindesk.com/policy/2026/09/03/cftc-asks-judge-to-dismiss-cme-lawsuit-over-crypto-perpetual-futures",
+    "published_date": "2026-09-03T11:34:35.981912"
   }
 ]
