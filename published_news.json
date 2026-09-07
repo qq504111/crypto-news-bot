@@ -1,30 +1,5 @@
 [
   {
-    "title": "UAE “Spy Sheikh” Behind Trump Crypto Bank: 49% Ownership, $500M and Questions MAGA Can’t Avoid",
-    "link": "https://finance.yahoo.com/markets/crypto/articles/uae-spy-sheikh-behind-trump-122000367.html",
-    "published_date": "2026-08-30T13:55:50.043041"
-  },
-  {
-    "title": "Michael Saylor hints at first bitcoin purchase in two months as bitcoin nears $79,000",
-    "link": "https://www.coindesk.com/markets/2026/08/30/bitcoin-nears-usd79-000-as-michael-saylor-hints-at-first-bitcoin-purchase-in-two-months",
-    "published_date": "2026-08-30T17:59:45.289256"
-  },
-  {
-    "title": "Crypto.com-linked Cronos network halts after Tectonic exploit estimated at $75 million",
-    "link": "https://www.theblock.co/news/defi/2026-08-30-crypto-com-linked-cronos-network-halts-after-tectonic-exploit-estimated-at-75-million-413069",
-    "published_date": "2026-08-30T20:58:08.426609"
-  },
-  {
-    "title": "Polygon Quietly Patched Security Flaws in Two Hard Forks Before Disclosing Them",
-    "link": "https://decrypt.co/376911/polygon-quietly-patched-security-flaws",
-    "published_date": "2026-08-30T23:23:39.146240"
-  },
-  {
-    "title": "Bitcoin ETFs Snap Nine-Day Inflow Streak as Ethereum Funds Extend Their Run",
-    "link": "https://decrypt.co/376897/bitcoin-etfs-snap-streak-ethereum-funds-extend",
-    "published_date": "2026-08-30T23:23:39.418606"
-  },
-  {
     "title": "Cronos halts blockchain after $75 million lending exploit hits lending app Tectonic",
     "link": "https://www.coindesk.com/tech/2026/08/31/cronos-halts-blockchain-after-usd75-million-lending-exploit-hits-lending-app-tectonic",
     "published_date": "2026-08-31T08:23:36.542120"
@@ -198,5 +173,20 @@
     "title": "The 18-Year Housing Cycle Says the Next Market Crash Is Close",
     "link": "https://finance.yahoo.com/real-estate/articles/18-housing-cycle-says-next-114834512.html",
     "published_date": "2026-09-06T12:43:29.718763"
+  },
+  {
+    "title": "Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'",
+    "link": "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys",
+    "published_date": "2026-09-07T06:31:29.566442"
+  },
+  {
+    "title": "Spot bitcoin ETFs pull in $987 million last week as institutional demand recovers",
+    "link": "https://www.theblock.co/news/markets/2026-09-06-bitcoin-etfs-987-million-weekly-inflow-413639",
+    "published_date": "2026-09-07T06:31:29.959883"
+  },
+  {
+    "title": "South Korea’s Hanwha develops tokenized securities platform on Avalanche as local regulation takes shape: report",
+    "link": "https://www.theblock.co/news/business/2026-09-07-south-korea-hanwha-tokenized-securities-platform-avalanche-413652",
+    "published_date": "2026-09-07T06:31:30.349576"
   }
 ]
