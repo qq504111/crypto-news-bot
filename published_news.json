@@ -1,20 +1,5 @@
 [
   {
-    "title": "Cronos halts blockchain after $75 million lending exploit hits lending app Tectonic",
-    "link": "https://www.coindesk.com/tech/2026/08/31/cronos-halts-blockchain-after-usd75-million-lending-exploit-hits-lending-app-tectonic",
-    "published_date": "2026-08-31T08:23:36.542120"
-  },
-  {
-    "title": "September Fed rate hike fears look overblown as the probability stands at just 58%, not 90%",
-    "link": "https://www.coindesk.com/markets/2026/08/31/september-fed-rate-hike-fears-appear-overblown-as-the-probability-is-just-58-not-90",
-    "published_date": "2026-08-31T08:23:37.551945"
-  },
-  {
-    "title": "Zcash private transactions could go from three-second waits to under 200 milliseconds",
-    "link": "https://www.coindesk.com/tech/2026/08/31/zcash-private-transactions-could-go-from-three-second-waits-to-under-200-milliseconds",
-    "published_date": "2026-08-31T08:23:38.736950"
-  },
-  {
     "title": "Crypto.com's Cronos Halts Entire Blockchain After $75M Tectonic Exploit",
     "link": "https://decrypt.co/376913/crypto-coms-cronos-halts-entire-blockchain-after-75m-tectonic-exploit",
     "published_date": "2026-08-31T16:19:14.400302"
@@ -188,5 +173,15 @@
     "title": "South Korea’s Hanwha develops tokenized securities platform on Avalanche as local regulation takes shape: report",
     "link": "https://www.theblock.co/news/business/2026-09-07-south-korea-hanwha-tokenized-securities-platform-avalanche-413652",
     "published_date": "2026-09-07T06:31:30.349576"
+  },
+  {
+    "title": "Coldcard exploiter moves 45% of funds stolen from ‘Wave 3’ attacks, Galaxy says",
+    "link": "https://www.theblock.co/news/defi/2026-09-07-coldcard-exploiter-moves-wave-3-413661",
+    "published_date": "2026-09-07T13:22:41.149659"
+  },
+  {
+    "title": "No, Friday's jobs report hasn't materially boosted Fed rate hike odds",
+    "link": "https://www.coindesk.com/markets/2026/09/07/no-friday-s-jobs-report-hasn-t-materially-boost-fed-rate-hike-odds",
+    "published_date": "2026-09-07T13:22:42.390788"
   }
 ]
