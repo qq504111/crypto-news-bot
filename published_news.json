@@ -1,10 +1,5 @@
 [
   {
-    "title": "‘Much ado about nothing’: CFTC files to dismiss CME’s lawsuit over crypto perpetual futures",
-    "link": "https://www.theblock.co/news/regulation/2026-09-02-cftc-dismiss-cme-413416",
-    "published_date": "2026-09-03T06:18:57.986112"
-  },
-  {
     "title": "Whether the Fed raises interest rates this month isn’t as big a deal for stocks as you might think",
     "link": "https://www.marketwatch.com/story/whether-the-fed-raises-interest-rates-this-month-isnt-as-big-a-deal-for-stocks-as-you-might-think-6464b88d?mod=mw_rss_topstories",
     "published_date": "2026-09-03T11:34:33.676113"
@@ -188,5 +183,10 @@
     "title": "D-Wave, Rigetti, Quantinuum land $100M each in CHIPS Act funding",
     "link": "https://finance.yahoo.com/technology/ai/articles/d-wave-rigetti-quantinuum-land-134255107.html",
     "published_date": "2026-09-10T01:19:46.505314"
+  },
+  {
+    "title": "Trezor says third-party security breach led to phishing emails from legitimate domain",
+    "link": "https://www.theblock.co/news/defi/2026-09-09-trezor-phishing-emails-414086",
+    "published_date": "2026-09-10T06:28:54.500829"
   }
 ]
