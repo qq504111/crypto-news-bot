@@ -1,30 +1,5 @@
 [
   {
-    "title": "US bitcoin ETFs report the largest inflow day since January, worth $731 million",
-    "link": "https://www.theblock.co/news/markets/2026-09-04-us-bitcoin-etfs-largest-inflow-day-since-january-413515",
-    "published_date": "2026-09-04T13:18:47.612640"
-  },
-  {
-    "title": "IMF confirms El Salvador’s bitcoin growth was funded by private donations, not public money",
-    "link": "https://www.coindesk.com/business/2026/09/04/imf-confirms-el-salvador-s-bitcoin-growth-was-funded-by-private-donations-not-public-money",
-    "published_date": "2026-09-04T13:18:48.635825"
-  },
-  {
-    "title": "El Salvador has not used public funds to accumulate bitcoin since June 2025, IMF says",
-    "link": "https://www.theblock.co/news/regulation/2026-09-04-el-salvador-has-not-used-public-funds-to-accumulate-bitcoin-since-june-2025-imf-says-413535",
-    "published_date": "2026-09-04T13:18:49.015796"
-  },
-  {
-    "title": "South Korea targets February 2027 rollout for full tokenized securities market",
-    "link": "https://www.coindesk.com/business/2026/09/04/south-korea-targets-february-2027-rollout-for-full-tokenized-securities-market",
-    "published_date": "2026-09-04T13:18:50.012719"
-  },
-  {
-    "title": "Crypto firms urge SEC to speed ETF reviews and allow confidential draft filings",
-    "link": "https://www.theblock.co/news/regulation/2026-09-04-crypto-firms-urge-sec-to-speed-etf-reviews-and-allow-confidential-draft-filings-413532",
-    "published_date": "2026-09-04T13:18:50.396309"
-  },
-  {
     "title": "IMF Now Says Donations Funded El Salvador's Bitcoin Growth",
     "link": "https://decrypt.co/377392/imf-now-says-donations-funded-el-salvadors-bitcoin-growth",
     "published_date": "2026-09-04T16:58:40.050042"
@@ -183,5 +158,10 @@
     "title": "Bitcoin below $77,000, Zcash leads losses as traders bet on a Fed rate hike",
     "link": "https://www.coindesk.com/markets/2026/09/11/bitcoin-below-usd77-000-zcash-leads-losses-as-traders-bet-on-a-fed-rate-hike",
     "published_date": "2026-09-11T08:46:17.276520"
+  },
+  {
+    "title": "‘Return the bitcoin’: Blockstream refuses ransom demand for remaining 600 BTC from Liquid exploit",
+    "link": "https://www.theblock.co/news/ecosystems/2026-09-11-return-the-bitcoin-blockstream-refuses-ransom-demand-for-remaining-600-btc-from-liquid-exploit-414247",
+    "published_date": "2026-09-11T13:23:30.653675"
   }
 ]
