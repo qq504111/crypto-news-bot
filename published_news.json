@@ -1,15 +1,5 @@
 [
   {
-    "title": "Live updates: Brent crude hits $100 for first time since July as bitcoin holds above $79,000",
-    "link": "https://www.coindesk.com/business/2026/09/09/live-updates-xrp-funds-stand-out-among-u-s-etfs-as-bitcoin-ether-solana-funds-see-outflows",
-    "published_date": "2026-09-09T08:52:41.152779"
-  },
-  {
-    "title": "If a Stock Market Crash Is Coming, History Says This Is the Smartest Move to Make",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-crash-coming-history-130500478.html",
-    "published_date": "2026-09-09T13:35:02.420190"
-  },
-  {
     "title": "Jack Dorsey's Block makes major move to become a U.S. crypto bank",
     "link": "https://finance.yahoo.com/markets/crypto/articles/jack-dorseys-block-makes-major-172029819.html",
     "published_date": "2026-09-09T17:42:16.530234"
@@ -143,5 +133,30 @@
     "title": "‘This one stings’: Clarity Act fails procedural Senate vote — is crypto’s biggest regulatory push dead?",
     "link": "https://www.theblock.co/news/regulation/2026-09-15-this-one-stings-clarity-act-fails-senate-is-cryptos-biggest-regulatory-push-dead-415135",
     "published_date": "2026-09-15T23:36:39.485217"
+  },
+  {
+    "title": "Bitcoin ETFs shed $450 million as Clarity Act fails",
+    "link": "https://www.coindesk.com/markets/2026/09/16/bitcoin-etfs-shed-usd450-million-as-clarity-act-fails",
+    "published_date": "2026-09-16T14:17:57.641010"
+  },
+  {
+    "title": "Live updates: Bitcoin holds near $76,000 as traders brace for first Fed rate hike in three years",
+    "link": "https://www.coindesk.com/business/2026/09/16/live-updates-zcash-climbs-6-as-majors-slide-ahead-of-fed-rate-decision",
+    "published_date": "2026-09-16T14:17:58.009257"
+  },
+  {
+    "title": "Bitcoin Core 32 enters final testing with faster validation, fee changes and security fixes",
+    "link": "https://www.coindesk.com/tech/2026/09/16/bitcoin-core-32-enters-final-testing-with-faster-validation-fee-changes-and-security-fixes",
+    "published_date": "2026-09-16T14:17:59.089468"
+  },
+  {
+    "title": "Bernstein says Clarity Act failure allows stablecoin rewards on idle balances to continue, expects ‘swift’ SEC and CFTC rulemaking",
+    "link": "https://www.theblock.co/news/regulation/2026-09-16-bernstein-says-clarity-act-failure-allows-stablecoin-rewards-on-idle-balances-to-continue-expects-swift-sec-and-cftc-rulemaking-415263",
+    "published_date": "2026-09-16T14:17:59.426851"
+  },
+  {
+    "title": "Circle launches Arc mainnet with BlackRock and Visa among validators, mints 10 billion ARC tokens",
+    "link": "https://www.theblock.co/news/ecosystems/2026-09-16-circle-launches-arc-mainnet-with-blackrock-and-visa-among-validators-mints-10-billion-arc-tokens-415250",
+    "published_date": "2026-09-16T14:17:59.786829"
   }
 ]
