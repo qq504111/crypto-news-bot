@@ -1,20 +1,5 @@
 [
   {
-    "title": "Jack Dorsey's Block makes major move to become a U.S. crypto bank",
-    "link": "https://finance.yahoo.com/markets/crypto/articles/jack-dorseys-block-makes-major-172029819.html",
-    "published_date": "2026-09-09T17:42:16.530234"
-  },
-  {
-    "title": "Hyperliquid Policy Center backs CFTC in fight over perpetual futures, asks court to drop CME’s case",
-    "link": "https://www.theblock.co/news/regulation/2026-09-09-hyperliquid-policy-center-backs-cftc-fight-perpetual-futures-asks-court-drop-cme-case-414046",
-    "published_date": "2026-09-09T17:42:16.827304"
-  },
-  {
-    "title": "Secret Service Freezes $52.8 Million in Crypto Tied to Telegram Bazaar Behind Global Scams",
-    "link": "https://decrypt.co/377804/secret-service-freezes-crypto-telegram-bazaar-xinbi",
-    "published_date": "2026-09-09T17:42:17.119841"
-  },
-  {
     "title": "D-Wave, Rigetti, Quantinuum land $100M each in CHIPS Act funding",
     "link": "https://finance.yahoo.com/technology/ai/articles/d-wave-rigetti-quantinuum-land-134255107.html",
     "published_date": "2026-09-10T01:19:46.505314"
@@ -158,5 +143,20 @@
     "title": "Circle launches Arc mainnet with BlackRock and Visa among validators, mints 10 billion ARC tokens",
     "link": "https://www.theblock.co/news/ecosystems/2026-09-16-circle-launches-arc-mainnet-with-blackrock-and-visa-among-validators-mints-10-billion-arc-tokens-415250",
     "published_date": "2026-09-16T14:17:59.786829"
+  },
+  {
+    "title": "Fed raises rates by 25 basis points in first hike since July 2023",
+    "link": "https://www.coindesk.com/markets/2026/09/16/fed-raises-rates-by-25-basis-points-in-first-hike-since-july-2023",
+    "published_date": "2026-09-16T18:19:47.280144"
+  },
+  {
+    "title": "Bitcoin ETFs Had Their Worst Day Since June Following Failed Clarity Act Vote",
+    "link": "https://decrypt.co/378382/bitcoin-etfs-clarity-act-vote",
+    "published_date": "2026-09-16T18:19:47.689145"
+  },
+  {
+    "title": "‘Go time’: SEC, CFTC prepare to push crypto rules as Clarity Act stalls in Senate",
+    "link": "https://www.theblock.co/news/regulation/2026-09-16-go-time-sec-cftc-prepare-push-crypto-rules-clarity-act-stalls-senate-415281",
+    "published_date": "2026-09-16T18:19:48.097390"
   }
 ]
