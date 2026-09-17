@@ -1,15 +1,5 @@
 [
   {
-    "title": "D-Wave, Rigetti, Quantinuum land $100M each in CHIPS Act funding",
-    "link": "https://finance.yahoo.com/technology/ai/articles/d-wave-rigetti-quantinuum-land-134255107.html",
-    "published_date": "2026-09-10T01:19:46.505314"
-  },
-  {
-    "title": "Trezor says third-party security breach led to phishing emails from legitimate domain",
-    "link": "https://www.theblock.co/news/defi/2026-09-09-trezor-phishing-emails-414086",
-    "published_date": "2026-09-10T06:28:54.500829"
-  },
-  {
     "title": "Genworth (GNW) Added $500M to its Repurchase Authorization. Can Enact (ACT) Capital Returns Fund the Buybacks?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/genworth-gnw-added-500m-repurchase-014310714.html",
     "published_date": "2026-09-10T11:44:20.039740"
@@ -168,5 +158,15 @@
     "title": "Bitcoin Core Software Update Aims for Speed and Security Patches",
     "link": "https://decrypt.co/378430/bitcoin-core-software-october-update",
     "published_date": "2026-09-16T21:33:54.633910"
+  },
+  {
+    "title": "Bitcoin faces 2022 parallels as Federal Reserve resumes rate increases",
+    "link": "https://www.coindesk.com/markets/2026/09/17/bitcoin-faces-2022-parallels-as-federal-reserve-resumes-rate-hikes",
+    "published_date": "2026-09-17T10:18:05.263491"
+  },
+  {
+    "title": "U.S. diesel prices hit record high as bitcoin and gold struggle",
+    "link": "https://www.coindesk.com/markets/2026/09/17/u-s-diesel-prices-hit-record-high-as-bitcoin-and-gold-struggle",
+    "published_date": "2026-09-17T10:18:06.139248"
   }
 ]
