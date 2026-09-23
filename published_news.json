@@ -1,30 +1,5 @@
 [
   {
-    "title": "Bitcoin ETFs shed $450 million as Clarity Act fails",
-    "link": "https://www.coindesk.com/markets/2026/09/16/bitcoin-etfs-shed-usd450-million-as-clarity-act-fails",
-    "published_date": "2026-09-16T14:17:57.641010"
-  },
-  {
-    "title": "Live updates: Bitcoin holds near $76,000 as traders brace for first Fed rate hike in three years",
-    "link": "https://www.coindesk.com/business/2026/09/16/live-updates-zcash-climbs-6-as-majors-slide-ahead-of-fed-rate-decision",
-    "published_date": "2026-09-16T14:17:58.009257"
-  },
-  {
-    "title": "Bitcoin Core 32 enters final testing with faster validation, fee changes and security fixes",
-    "link": "https://www.coindesk.com/tech/2026/09/16/bitcoin-core-32-enters-final-testing-with-faster-validation-fee-changes-and-security-fixes",
-    "published_date": "2026-09-16T14:17:59.089468"
-  },
-  {
-    "title": "Bernstein says Clarity Act failure allows stablecoin rewards on idle balances to continue, expects ‘swift’ SEC and CFTC rulemaking",
-    "link": "https://www.theblock.co/news/regulation/2026-09-16-bernstein-says-clarity-act-failure-allows-stablecoin-rewards-on-idle-balances-to-continue-expects-swift-sec-and-cftc-rulemaking-415263",
-    "published_date": "2026-09-16T14:17:59.426851"
-  },
-  {
-    "title": "Circle launches Arc mainnet with BlackRock and Visa among validators, mints 10 billion ARC tokens",
-    "link": "https://www.theblock.co/news/ecosystems/2026-09-16-circle-launches-arc-mainnet-with-blackrock-and-visa-among-validators-mints-10-billion-arc-tokens-415250",
-    "published_date": "2026-09-16T14:17:59.786829"
-  },
-  {
     "title": "Fed raises rates by 25 basis points in first hike since July 2023",
     "link": "https://www.coindesk.com/markets/2026/09/16/fed-raises-rates-by-25-basis-points-in-first-hike-since-july-2023",
     "published_date": "2026-09-16T18:19:47.280144"
@@ -308,5 +283,10 @@
     "title": "Solana starts testing upgrade that could cut finality from 12.8 seconds to 150 milliseconds",
     "link": "https://www.coindesk.com/tech/2026/09/23/solana-starts-testing-upgrade-that-could-cut-finality-from-12-8-seconds-to-150-milliseconds",
     "published_date": "2026-09-23T09:26:39.975539"
+  },
+  {
+    "title": "MoonPay to acquire SEC-registered North Capital in $60 million all-stock deal",
+    "link": "https://www.coindesk.com/business/2026/09/23/moonpay-to-acquire-sec-registered-north-capital-in-usd60-million-all-stock-deal",
+    "published_date": "2026-09-23T14:20:28.881672"
   }
 ]
