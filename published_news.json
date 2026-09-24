@@ -1,20 +1,5 @@
 [
   {
-    "title": "OpenAI Says It's Made Progress on a Second $1 Million Math Problem",
-    "link": "https://decrypt.co/378551/openai-progress-second-millennium-prize-math-problem",
-    "published_date": "2026-09-17T22:22:07.434146"
-  },
-  {
-    "title": "Real stocks are finally coming on blockchain. Here’s how the SEC wants it to work",
-    "link": "https://www.coindesk.com/business/2026/09/17/real-stocks-are-finally-coming-on-blockchain-here-s-how-the-sec-wants-it-to-work",
-    "published_date": "2026-09-17T22:22:08.038923"
-  },
-  {
-    "title": "Crypto.com registers with SEC for single-stock futures, plans US stock perps",
-    "link": "https://www.theblock.co/news/business/2026-09-17-crypto-com-registers-with-sec-for-single-stock-futures-plans-us-stock-perps-415355",
-    "published_date": "2026-09-17T22:22:08.315605"
-  },
-  {
     "title": "Nasdaq, Dow and S&P 500 Rise Ahead of Fed Rate Decision",
     "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-dow-p-500-rise-133759906.html",
     "published_date": "2026-09-18T00:40:54.481270"
@@ -258,5 +243,10 @@
     "title": "U.S. commodities firms can invest in tokenized assets, use blockchain records: CFTC",
     "link": "https://www.coindesk.com/policy/2026/09/24/u-s-commodities-firms-can-invest-in-tokenized-assets-use-blockchain-records-cftc",
     "published_date": "2026-09-24T20:18:06.532450"
+  },
+  {
+    "title": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
+    "link": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins",
+    "published_date": "2026-09-24T23:19:07.420207"
   }
 ]
