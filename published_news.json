@@ -1,30 +1,5 @@
 [
   {
-    "title": "S&P Futures Gain as Oil Retreats, Fed Rate Decision in Focus",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/p-futures-gain-oil-retreats-102852709.html",
-    "published_date": "2026-09-17T19:11:07.079877"
-  },
-  {
-    "title": "SEC opens door to tokenized U.S. stock trading. Here’s who could benefit",
-    "link": "https://www.coindesk.com/business/2026/09/17/sec-opens-door-to-tokenized-u-s-stock-trading-here-s-who-could-benefit",
-    "published_date": "2026-09-17T19:11:07.870396"
-  },
-  {
-    "title": "Regulators keep moving on crypto: CFTC follows SEC with developer-friendly no-action stance",
-    "link": "https://www.theblock.co/news/regulation/2026-09-17-regulators-keep-moving-crypto-cftc-follows-sec-developer-friendly-no-action-stance-415425",
-    "published_date": "2026-09-17T19:11:08.166246"
-  },
-  {
-    "title": "S&P Global agrees to acquire OpenZeppelin in onchain security push",
-    "link": "https://www.theblock.co/news/business/2026-09-17-sp-global-agrees-to-acquire-openzeppelin-in-onchain-security-push-415360",
-    "published_date": "2026-09-17T19:11:08.488482"
-  },
-  {
-    "title": "It’s here — SEC releases long-awaited innovation exemption to ‘bring America’s capital markets into the digital age’",
-    "link": "https://www.theblock.co/news/regulation/2026-09-17-sec-releases-innovation-exemption-415324",
-    "published_date": "2026-09-17T19:11:08.785539"
-  },
-  {
     "title": "OpenAI Says It's Made Progress on a Second $1 Million Math Problem",
     "link": "https://decrypt.co/378551/openai-progress-second-millennium-prize-math-problem",
     "published_date": "2026-09-17T22:22:07.434146"
@@ -273,5 +248,15 @@
     "title": "Ondo launches onchain portfolio tokens based on BlackRock-developed strategies",
     "link": "https://www.theblock.co/news/markets/2026-09-24-ondo-launches-onchain-portfolio-tokens-based-blackrock-developed-strategies-416260",
     "published_date": "2026-09-24T16:49:10.607318"
+  },
+  {
+    "title": "ARK Invest brings $1.3 billion venture fund onchain through Securitize",
+    "link": "https://www.theblock.co/news/markets/2026-09-24-ark-invest-tokenizes-arkvx-venture-fund-securitize-416294",
+    "published_date": "2026-09-24T20:18:05.263737"
+  },
+  {
+    "title": "U.S. commodities firms can invest in tokenized assets, use blockchain records: CFTC",
+    "link": "https://www.coindesk.com/policy/2026/09/24/u-s-commodities-firms-can-invest-in-tokenized-assets-use-blockchain-records-cftc",
+    "published_date": "2026-09-24T20:18:06.532450"
   }
 ]
