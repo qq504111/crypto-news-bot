@@ -1,15 +1,5 @@
 [
   {
-    "title": "Nasdaq, Dow and S&P 500 Rise Ahead of Fed Rate Decision",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-dow-p-500-rise-133759906.html",
-    "published_date": "2026-09-18T00:40:54.481270"
-  },
-  {
-    "title": "Bitcoin weathers September storm as rate hikes and Clarity act setback test bulls",
-    "link": "https://www.coindesk.com/markets/2026/09/18/bitcoin-weathers-september-storm-as-rate-hikes-and-clarity-act-setback-test-bulls",
-    "published_date": "2026-09-18T10:52:00.424779"
-  },
-  {
     "title": "2 Growth Stocks I Plan to Buy if the Stock Market Crashes",
     "link": "https://finance.yahoo.com/markets/stocks/articles/2-growth-stocks-plan-buy-142000827.html",
     "published_date": "2026-09-18T14:51:12.734090"
@@ -248,5 +238,30 @@
     "title": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
     "link": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins",
     "published_date": "2026-09-24T23:19:07.420207"
+  },
+  {
+    "title": "KelpDAO sues LayerZero, claims it endorsed setup used in $292 million rsETH exploit",
+    "link": "https://www.theblock.co/news/regulation/2026-09-25-kelpdao-sues-layerzero-claims-it-endorsed-setup-used-in-292-million-rseth-exploit-416361",
+    "published_date": "2026-09-25T12:53:30.491735"
+  },
+  {
+    "title": "KelpDAO sues LayerZero for the largest exploit 2026 has seen so far",
+    "link": "https://www.coindesk.com/business/2026/09/25/kelpdao-sues-layerzero-for-the-largest-exploit-2026-has-seen-so-far",
+    "published_date": "2026-09-25T12:53:31.421820"
+  },
+  {
+    "title": "KelpDAO Developer Sues LayerZero Over $292M Bridge Exploit",
+    "link": "https://decrypt.co/379288/kelpdao-developer-sues-layerzero-over-292m-bridge-exploit",
+    "published_date": "2026-09-25T12:53:31.744161"
+  },
+  {
+    "title": "Bitcoin ETF flows turn positive for 2026 after erasing $5.8 billion deficit",
+    "link": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole",
+    "published_date": "2026-09-25T12:53:32.481856"
+  },
+  {
+    "title": "Bitget confirms $351.6 million security breach affecting exchange hot wallets",
+    "link": "https://www.theblock.co/news/markets/2026-09-24-more-than-170-million-in-crypto-moves-from-bitget-wallets-unidentified-address-416345",
+    "published_date": "2026-09-25T12:53:32.805815"
   }
 ]
