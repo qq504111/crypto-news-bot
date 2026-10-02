@@ -1,30 +1,5 @@
 [
   {
-    "title": "KelpDAO sues LayerZero, claims it endorsed setup used in $292 million rsETH exploit",
-    "link": "https://www.theblock.co/news/regulation/2026-09-25-kelpdao-sues-layerzero-claims-it-endorsed-setup-used-in-292-million-rseth-exploit-416361",
-    "published_date": "2026-09-25T12:53:30.491735"
-  },
-  {
-    "title": "KelpDAO sues LayerZero for the largest exploit 2026 has seen so far",
-    "link": "https://www.coindesk.com/business/2026/09/25/kelpdao-sues-layerzero-for-the-largest-exploit-2026-has-seen-so-far",
-    "published_date": "2026-09-25T12:53:31.421820"
-  },
-  {
-    "title": "KelpDAO Developer Sues LayerZero Over $292M Bridge Exploit",
-    "link": "https://decrypt.co/379288/kelpdao-developer-sues-layerzero-over-292m-bridge-exploit",
-    "published_date": "2026-09-25T12:53:31.744161"
-  },
-  {
-    "title": "Bitcoin ETF flows turn positive for 2026 after erasing $5.8 billion deficit",
-    "link": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole",
-    "published_date": "2026-09-25T12:53:32.481856"
-  },
-  {
-    "title": "Bitget confirms $351.6 million security breach affecting exchange hot wallets",
-    "link": "https://www.theblock.co/news/markets/2026-09-24-more-than-170-million-in-crypto-moves-from-bitget-wallets-unidentified-address-416345",
-    "published_date": "2026-09-25T12:53:32.805815"
-  },
-  {
     "title": "Magic Eden legacy approvals leave $5.7 million in NFTs exposed to exploit before rescue",
     "link": "https://www.theblock.co/news/web3/2026-09-25-magic-eden-legacy-approvals-leave-5-7-million-in-nfts-exposed-to-exploit-before-rescue-416874",
     "published_date": "2026-09-25T17:50:18.587149"
@@ -203,5 +178,15 @@
     "title": "SEC proposes framework allowing investment advisers, funds to self-custody crypto",
     "link": "https://www.theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498",
     "published_date": "2026-10-02T06:01:43.605914"
+  },
+  {
+    "title": "U.S. added just 29,000 jobs in September, with unemployment rate rising to 4.2%",
+    "link": "https://www.coindesk.com/markets/2026/10/02/u-s-added-just-29-000-jobs-in-september-with-unemployment-rate-rising-to-4-2",
+    "published_date": "2026-10-02T13:01:27.883623"
+  },
+  {
+    "title": "'Uptober' Off With a Bang as Bitcoin Surges to $86K",
+    "link": "https://decrypt.co/379932/uptober-off-with-a-bang-as-bitcoin-surges-to-86k",
+    "published_date": "2026-10-02T13:01:28.308156"
   }
 ]
