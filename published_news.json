@@ -1,25 +1,5 @@
 [
   {
-    "title": "Magic Eden legacy approvals leave $5.7 million in NFTs exposed to exploit before rescue",
-    "link": "https://www.theblock.co/news/web3/2026-09-25-magic-eden-legacy-approvals-leave-5-7-million-in-nfts-exposed-to-exploit-before-rescue-416874",
-    "published_date": "2026-09-25T17:50:18.587149"
-  },
-  {
-    "title": "Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit",
-    "link": "https://decrypt.co/379342/magic-eden-old-ethereum-nft-listings-exposed-exploit",
-    "published_date": "2026-09-25T17:50:19.030327"
-  },
-  {
-    "title": "Defense Secretary Pete Hegseth Holds Bitcoin in a Coinbase Wallet, Filing Shows",
-    "link": "https://decrypt.co/379290/defense-secretary-pete-hegseth-holds-bitcoin-in-a-coinbase-wallet-filing-shows",
-    "published_date": "2026-09-25T17:50:19.489632"
-  },
-  {
-    "title": "Bond volatility surges while bitcoin and Wall Street stay calm",
-    "link": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm",
-    "published_date": "2026-09-25T17:50:20.731654"
-  },
-  {
     "title": "SEC crypto FAQ addresses token buybacks, network upgrades and promises of profit",
     "link": "https://www.theblock.co/news/regulation/2026-09-25-sec-crypto-faq-addresses-token-buybacks-network-upgrades-promises-profit-416914",
     "published_date": "2026-09-25T21:18:08.521116"
@@ -188,5 +168,15 @@
     "title": "'Uptober' Off With a Bang as Bitcoin Surges to $86K",
     "link": "https://decrypt.co/379932/uptober-off-with-a-bang-as-bitcoin-surges-to-86k",
     "published_date": "2026-10-02T13:01:28.308156"
+  },
+  {
+    "title": "Drift opens exploit recovery claims with initial payouts of just over 1% of user losses",
+    "link": "https://www.theblock.co/news/ecosystems/2026-10-02-drift-opens-exploit-recovery-claims-initial-payouts-just-over-1-user-losses-417581",
+    "published_date": "2026-10-02T18:37:13.159183"
+  },
+  {
+    "title": "Trump’s potential AI czar, Jay Clayton, helped pioneer the SEC’s crypto crackdown",
+    "link": "https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec",
+    "published_date": "2026-10-02T18:37:14.555278"
   }
 ]
