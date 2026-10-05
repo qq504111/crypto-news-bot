@@ -1,10 +1,5 @@
 [
   {
-    "title": "SEC Commissioner Hester Peirce reflects on her time at the agency, what she still wanted to get done: ‘There’s no good time to leave’",
-    "link": "https://www.theblock.co/news/regulation/2026-09-28-sec-commissioner-hester-peirce-reflects-what-she-wanted-get-done-no-good-time-to-leave-417075",
-    "published_date": "2026-09-28T21:42:03.258250"
-  },
-  {
     "title": "Coinbase receives DCO approval from CFTC, completing full derivatives stack",
     "link": "https://www.theblock.co/news/business/2026-09-28-coinbase-dco-approval-417105",
     "published_date": "2026-09-29T08:07:38.941562"
@@ -173,5 +168,10 @@
     "title": "CFTC proposes new federal framework for leveraged retail crypto trading",
     "link": "https://www.theblock.co/news/markets/2026-10-05-cftc-rulemaking-leveraged-retail-crypto-trading-regulation-ctx-cam-417701",
     "published_date": "2026-10-05T16:57:37.601283"
+  },
+  {
+    "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
+    "link": "https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds",
+    "published_date": "2026-10-05T23:06:28.562718"
   }
 ]
