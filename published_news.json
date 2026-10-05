@@ -1,15 +1,5 @@
 [
   {
-    "title": "Bitget starts phased withdrawal resumption following $388 million exploit",
-    "link": "https://www.theblock.co/news/business/2026-09-28-bitget-starts-phased-withdrawal-resumption-416965",
-    "published_date": "2026-09-28T15:47:48.407113"
-  },
-  {
-    "title": "Chainlink launches new version of its crypto bridge tech 'CCIP' to give apps more control over their security",
-    "link": "https://www.coindesk.com/business/2026/09/28/chainlink-updates-its-crypto-bridge-tech-months-after-a-usd292-million-hack-shook-the-industry",
-    "published_date": "2026-09-28T15:47:49.549126"
-  },
-  {
     "title": "SEC Commissioner Hester Peirce reflects on her time at the agency, what she still wanted to get done: ‘There’s no good time to leave’",
     "link": "https://www.theblock.co/news/regulation/2026-09-28-sec-commissioner-hester-peirce-reflects-what-she-wanted-get-done-no-good-time-to-leave-417075",
     "published_date": "2026-09-28T21:42:03.258250"
@@ -158,5 +148,30 @@
     "title": "Zcash’s 25-second blocks go live on public testnet ahead of schedule",
     "link": "https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule",
     "published_date": "2026-10-05T07:32:19.931371"
+  },
+  {
+    "title": "SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings",
+    "link": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
+    "published_date": "2026-10-05T16:57:34.811395"
+  },
+  {
+    "title": "‘More orange than ever’: Michael Saylor’s Strategy buys 334 bitcoin for $28.7 million as total holdings top 848,000 BTC",
+    "link": "https://www.theblock.co/news/business/2026-10-05-more-orange-than-ever-michael-saylor-strategy-bitcoin-417631",
+    "published_date": "2026-10-05T16:57:35.314757"
+  },
+  {
+    "title": "Bitcoin Just Flashed a Second, Stronger Golden Cross: Here's What That Means",
+    "link": "https://decrypt.co/380067/bitcoin-price-golden-cross-fed-rate",
+    "published_date": "2026-10-05T16:57:35.831958"
+  },
+  {
+    "title": "U.S. CFTC joins SEC in proposing crypto regulations, though spot-market gap lingers",
+    "link": "https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers",
+    "published_date": "2026-10-05T16:57:37.073410"
+  },
+  {
+    "title": "CFTC proposes new federal framework for leveraged retail crypto trading",
+    "link": "https://www.theblock.co/news/markets/2026-10-05-cftc-rulemaking-leveraged-retail-crypto-trading-regulation-ctx-cam-417701",
+    "published_date": "2026-10-05T16:57:37.601283"
   }
 ]
