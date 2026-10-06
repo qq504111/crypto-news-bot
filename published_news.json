@@ -1,10 +1,5 @@
 [
   {
-    "title": "Coinbase receives DCO approval from CFTC, completing full derivatives stack",
-    "link": "https://www.theblock.co/news/business/2026-09-28-coinbase-dco-approval-417105",
-    "published_date": "2026-09-29T08:07:38.941562"
-  },
-  {
     "title": "Crypto ETFs Surge as Bitcoin Funds Add $2.95 Billion in 30 Days",
     "link": "https://decrypt.co/379575/crypto-etfs-surge-bitcoin-adds-nearly-3-billion",
     "published_date": "2026-09-29T19:56:19.966583"
@@ -173,5 +168,15 @@
     "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
     "link": "https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds",
     "published_date": "2026-10-05T23:06:28.562718"
+  },
+  {
+    "title": "Why bitcoin is down 'just' 32% a year after its record high of $126,000",
+    "link": "https://www.coindesk.com/markets/2026/10/06/from-retail-leverage-to-etf-flows-a-year-after-its-record-high-bitcoin-is-down-just-32",
+    "published_date": "2026-10-06T10:40:30.721530"
+  },
+  {
+    "title": "Solana Foundation unveils a program to settle institutional trades in seconds. JPMorgan gave input",
+    "link": "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs",
+    "published_date": "2026-10-06T10:40:31.741623"
   }
 ]
