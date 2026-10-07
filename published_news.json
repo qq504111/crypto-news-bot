@@ -1,15 +1,5 @@
 [
   {
-    "title": "Crypto ETFs Surge as Bitcoin Funds Add $2.95 Billion in 30 Days",
-    "link": "https://decrypt.co/379575/crypto-etfs-surge-bitcoin-adds-nearly-3-billion",
-    "published_date": "2026-09-29T19:56:19.966583"
-  },
-  {
-    "title": "Live updates: Bitcoin turns lower as rates rise, consumer confidence plunges",
-    "link": "https://www.coindesk.com/markets/2026/09/29/live-updates-bitcoin-rebounds-above-usd84-000-as-treasury-yields-steady",
-    "published_date": "2026-09-29T19:56:20.244004"
-  },
-  {
     "title": "Winklevoss-owned Gemini switches Zcash software ahead of faster 25-second blocks",
     "link": "https://www.coindesk.com/tech/2026/09/30/winklevoss-owned-gemini-switches-zcash-software-ahead-of-faster-25-second-blocks",
     "published_date": "2026-09-30T11:00:12.223178"
@@ -183,5 +173,10 @@
     "title": "Live updates: Bitcoin remains locked in range as stocks notch another new record high",
     "link": "https://www.coindesk.com/markets/2026/10/06/live-updates-a-drop-below-usd84-000-could-put-usd80-000-in-play-for-bitcoin",
     "published_date": "2026-10-06T17:04:53.570402"
+  },
+  {
+    "title": "Pudgy Penguins’ Abstract becomes second Ethereum layer 2 to shut in a week",
+    "link": "https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week",
+    "published_date": "2026-10-07T07:36:34.572697"
   }
 ]
