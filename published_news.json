@@ -1,25 +1,5 @@
 [
   {
-    "title": "CFTC secures over $30 million judgment against defendants in Fundsz fraud case",
-    "link": "https://www.theblock.co/news/regulation/2026-09-30-cftc-secures-over-30-million-judgment-against-defendants-in-fundsz-fraud-case-417365",
-    "published_date": "2026-09-30T21:19:20.990189"
-  },
-  {
-    "title": "Bitcoin ETFs Extend Win Streak to 9 Days, Matching August Rally",
-    "link": "https://decrypt.co/379731/bitcoin-etf-9-day-streak-august-rally",
-    "published_date": "2026-09-30T21:19:21.426837"
-  },
-  {
-    "title": "White House weighs new CFTC event contract rules in growing prediction market power struggle",
-    "link": "https://www.theblock.co/news/regulation/2026-09-30-white-house-weighs-new-cftc-event-contract-rules-in-growing-prediction-market-power-struggle-417345",
-    "published_date": "2026-09-30T21:19:21.848036"
-  },
-  {
-    "title": "Clarity Act’s failure gave crypto ‘faster’ regulatory wins, Bitwise CIO says",
-    "link": "https://www.theblock.co/news/markets/2026-09-30-clarity-acts-failure-gave-crypto-faster-regulatory-wins-bitwise-says-417362",
-    "published_date": "2026-10-01T00:44:26.395393"
-  },
-  {
     "title": "Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps",
     "link": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
     "published_date": "2026-10-01T07:01:24.071667"
@@ -168,5 +148,10 @@
     "title": "Grayscale says crypto ETF market is entering new phase as Zcash ETF tops $1 billion",
     "link": "https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953",
     "published_date": "2026-10-07T20:43:16.807636"
+  },
+  {
+    "title": "OpenAI Says a Secret AI Model Cracked Hundreds of Open Math Problems in One Prompt—Mathematicians Want Receipts",
+    "link": "https://decrypt.co/380366/openai-secret-ai-model-cracked-hundreds-math-problems-one-prompt",
+    "published_date": "2026-10-08T00:50:20.547907"
   }
 ]
