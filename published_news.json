@@ -1,25 +1,5 @@
 [
   {
-    "title": "SEC proposes new crypto custody rules for investment advisers and funds",
-    "link": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
-    "published_date": "2026-10-02T00:03:09.172953"
-  },
-  {
-    "title": "Spot bitcoin ETFs log $2.7 billion in September inflows as institutional demand holds",
-    "link": "https://www.theblock.co/news/markets/2026-10-02-spot-bitcoin-etfs-september-inflows-417547",
-    "published_date": "2026-10-02T06:01:42.675778"
-  },
-  {
-    "title": "SEC’s innovation exemption poses constraint on bringing stock tokens to US, Robinhood crypto chief says",
-    "link": "https://www.theblock.co/news/regulation/2026-10-02-secs-innovation-exemption-robinhood-417538",
-    "published_date": "2026-10-02T06:01:43.123524"
-  },
-  {
-    "title": "SEC proposes framework allowing investment advisers, funds to self-custody crypto",
-    "link": "https://www.theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498",
-    "published_date": "2026-10-02T06:01:43.605914"
-  },
-  {
     "title": "U.S. added just 29,000 jobs in September, with unemployment rate rising to 4.2%",
     "link": "https://www.coindesk.com/markets/2026/10/02/u-s-added-just-29-000-jobs-in-september-with-unemployment-rate-rising-to-4-2",
     "published_date": "2026-10-02T13:01:27.883623"
@@ -143,5 +123,10 @@
     "title": "EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins",
     "link": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
     "published_date": "2026-10-08T20:34:18.203876"
+  },
+  {
+    "title": "Solana is about to halve its block times as final 200-millisecond upgrade nears",
+    "link": "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears",
+    "published_date": "2026-10-09T07:51:30.905118"
   }
 ]
