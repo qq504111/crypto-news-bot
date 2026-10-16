@@ -1,20 +1,5 @@
 [
   {
-    "title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky",
-    "link": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
-    "published_date": "2026-10-09T15:06:31.077598"
-  },
-  {
-    "title": "Sam Altman-backed bitcoin insurer Meanwhile secures $37.5 million in Bain Capital Crypto-led round",
-    "link": "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round",
-    "published_date": "2026-10-09T15:06:31.800331"
-  },
-  {
-    "title": "Thailand SEC issues bitcoin and ether ETF rules set to take effect Oct. 16",
-    "link": "https://www.theblock.co/news/regulation/2026-10-09-thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect-oct-16-418132",
-    "published_date": "2026-10-09T15:06:32.196447"
-  },
-  {
     "title": "Blockchain.com seeks CFTC greenlight for US prediction markets, crypto derivatives trading: CNBC",
     "link": "https://www.theblock.co/news/business/2026-10-09-blockchain-com-cftc-license-prediction-markets-derivatives-418192",
     "published_date": "2026-10-09T20:15:28.908914"
@@ -113,5 +98,10 @@
     "title": "U.S. judge rejects Gemini’s appeal to void $5 million settlement despite CFTC backing",
     "link": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
     "published_date": "2026-10-16T11:01:19.823306"
+  },
+  {
+    "title": "US federal judge denies joint Gemini-CFTC bid to undo $5 million settlement",
+    "link": "https://www.theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775",
+    "published_date": "2026-10-16T15:27:19.344820"
   }
 ]
