@@ -1,25 +1,5 @@
 [
   {
-    "title": "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
-    "link": "https://www.coindesk.com/markets/2026/10/14/blackrock-s-crypto-etf-assets-surge-63-but-remain-far-below-2025-peak",
-    "published_date": "2026-10-14T16:51:17.317467"
-  },
-  {
-    "title": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
-    "link": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
-    "published_date": "2026-10-14T16:51:17.898225"
-  },
-  {
-    "title": "Hex and PulseChain founder Richard Heart detained in Istanbul: reports",
-    "link": "https://www.theblock.co/news/regulation/2026-10-14-hex-pulsechain-founder-richard-heart-detained-istanbul-turkish-media-reports-418574",
-    "published_date": "2026-10-14T16:51:18.187728"
-  },
-  {
-    "title": "BNY, Citadel Securities complete Treasury repo in first use of tokenized assets on major triparty platform",
-    "link": "https://www.theblock.co/news/business/2026-10-14-bny-citadel-securities-complete-treasury-repo-in-first-use-of-tokenized-assets-on-major-triparty-platform-418534",
-    "published_date": "2026-10-14T16:51:18.476713"
-  },
-  {
     "title": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
     "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
     "published_date": "2026-10-15T09:03:53.712020"
@@ -168,5 +148,15 @@
     "title": "Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity",
     "link": "https://www.coindesk.com/policy/2026/10/21/why-centralized-exchanges-refuse-to-list-legacy-crypto-tokens-without-explicit-sec-immunity",
     "published_date": "2026-10-21T13:05:42.940986"
+  },
+  {
+    "title": "Grayscale expands in-kind subscriptions to 10 crypto ETFs and trusts",
+    "link": "https://www.theblock.co/news/markets/2026-10-21-grayscale-expands-in-kind-subscriptions-10-crypto-etfs-421559",
+    "published_date": "2026-10-21T18:11:00.411137"
+  },
+  {
+    "title": "Anza’s Alpenglow goes live on Solana, cutting finality to 150 milliseconds",
+    "link": "https://www.theblock.co/news/ecosystems/2026-10-21-anzas-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds-421508",
+    "published_date": "2026-10-21T18:11:00.693018"
   }
 ]
