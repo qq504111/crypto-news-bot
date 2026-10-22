@@ -1,10 +1,5 @@
 [
   {
-    "title": "How Brooklyn prosecutors and the FBI took down a massive crypto fraud network targeting Russian speakers",
-    "link": "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers",
-    "published_date": "2026-10-15T14:19:06.641995"
-  },
-  {
     "title": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
     "link": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
     "published_date": "2026-10-16T11:01:19.077994"
@@ -163,5 +158,10 @@
     "title": "Chinese Prosecutors Seek to Confiscate $5.1B in Bitcoin Seized by UK in Qian Case",
     "link": "https://decrypt.co/381580/chinese-prosecutors-seek-to-confiscate-5-1b-in-bitcoin-seized-by-uk-in-qian-case",
     "published_date": "2026-10-22T10:29:12.927486"
+  },
+  {
+    "title": "Italy Busts Mafia 'Secret Bank' That Laundered Money Through Crypto, Seizes $24M",
+    "link": "https://decrypt.co/381589/italy-busts-mafia-secret-bank-that-laundered-money-through-crypto-seizes-24m",
+    "published_date": "2026-10-22T15:33:31.257512"
   }
 ]
