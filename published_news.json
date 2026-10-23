@@ -1,15 +1,5 @@
 [
   {
-    "title": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
-    "link": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
-    "published_date": "2026-10-16T11:01:19.077994"
-  },
-  {
-    "title": "U.S. judge rejects Gemini’s appeal to void $5 million settlement despite CFTC backing",
-    "link": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
-    "published_date": "2026-10-16T11:01:19.823306"
-  },
-  {
     "title": "US federal judge denies joint Gemini-CFTC bid to undo $5 million settlement",
     "link": "https://www.theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775",
     "published_date": "2026-10-16T15:27:19.344820"
@@ -183,5 +173,15 @@
     "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
     "link": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
     "published_date": "2026-10-23T07:12:25.133484"
+  },
+  {
+    "title": "Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day’s inflows",
+    "link": "https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483",
+    "published_date": "2026-10-23T12:46:42.606629"
+  },
+  {
+    "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
+    "link": "https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws",
+    "published_date": "2026-10-23T12:46:42.886451"
   }
 ]
