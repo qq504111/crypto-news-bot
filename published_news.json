@@ -1,10 +1,5 @@
 [
   {
-    "title": "US federal judge denies joint Gemini-CFTC bid to undo $5 million settlement",
-    "link": "https://www.theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775",
-    "published_date": "2026-10-16T15:27:19.344820"
-  },
-  {
     "title": "CFTC Wants to Drop Gemini’s $5M Settlement. A Judge Just Said No",
     "link": "https://decrypt.co/381149/cftc-wants-drop-gemini-5m-settlement-judge-said-no",
     "published_date": "2026-10-16T18:57:11.765229"
@@ -183,5 +178,25 @@
     "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
     "link": "https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws",
     "published_date": "2026-10-23T12:46:42.886451"
+  },
+  {
+    "title": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
+    "link": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt",
+    "published_date": "2026-10-23T17:47:07.323044"
+  },
+  {
+    "title": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",
+    "link": "https://decrypt.co/381700/bitcoin-etfs-bleed-october-turns-red-again",
+    "published_date": "2026-10-23T17:47:07.593702"
+  },
+  {
+    "title": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
+    "link": "https://decrypt.co/381715/bitcoin-core-security-policy-ai-threats",
+    "published_date": "2026-10-23T17:47:07.870161"
+  },
+  {
+    "title": "Initia halts network after security incident as attacker reportedly mints tokens",
+    "link": "https://www.theblock.co/news/defi/2026-10-23-initia-halts-network-after-security-incident-attacker-reportedly-mints-tokens-427755",
+    "published_date": "2026-10-23T17:47:08.144154"
   }
 ]
