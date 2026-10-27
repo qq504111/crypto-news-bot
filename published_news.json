@@ -1,15 +1,5 @@
 [
   {
-    "title": "Bitcoin ETFs Post Their Best Day in Nearly a Month as BlackRock Does All the Buying",
-    "link": "https://decrypt.co/381444/bitcoin-etfs-best-day-nearly-month-blackrock-does-most-buying",
-    "published_date": "2026-10-20T19:54:54.665045"
-  },
-  {
-    "title": "Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comments close",
-    "link": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444",
-    "published_date": "2026-10-20T19:54:55.075309"
-  },
-  {
     "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
     "link": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
     "published_date": "2026-10-20T23:02:37.368140"
@@ -163,5 +153,15 @@
     "title": "Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach",
     "link": "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach",
     "published_date": "2026-10-27T16:16:37.294204"
+  },
+  {
+    "title": "Live updates: Bitcoin edges higher as Nasdaq surges 1.2%",
+    "link": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
+    "published_date": "2026-10-27T20:51:36.622625"
+  },
+  {
+    "title": "CFTC sues Utah as battle over prediction market regulation intensifies",
+    "link": "https://www.theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922",
+    "published_date": "2026-10-27T20:51:37.042081"
   }
 ]
