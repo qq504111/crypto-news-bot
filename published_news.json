@@ -1,15 +1,5 @@
 [
   {
-    "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
-    "link": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
-    "published_date": "2026-10-20T23:02:37.368140"
-  },
-  {
-    "title": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
-    "link": "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance",
-    "published_date": "2026-10-20T23:02:38.127032"
-  },
-  {
     "title": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
     "link": "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked",
     "published_date": "2026-10-21T07:18:13.976240"
@@ -163,5 +153,10 @@
     "title": "CFTC sues Utah as battle over prediction market regulation intensifies",
     "link": "https://www.theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922",
     "published_date": "2026-10-27T20:51:37.042081"
+  },
+  {
+    "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
+    "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
+    "published_date": "2026-10-28T06:06:06.089079"
   }
 ]
