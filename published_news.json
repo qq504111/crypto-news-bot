@@ -1,10 +1,5 @@
 [
   {
-    "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
-    "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
-    "published_date": "2026-10-22T05:17:22.621182"
-  },
-  {
     "title": "Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak",
     "link": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-etfs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak-421904",
     "published_date": "2026-10-22T10:29:12.392047"
@@ -178,5 +173,10 @@
     "title": "CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading'",
     "link": "https://www.coindesk.com/policy/2026/10/28/cftc-chief-poses-questions-about-policing-ai-but-calls-it-a-road-to-autonomous-trading",
     "published_date": "2026-10-28T23:07:51.219391"
+  },
+  {
+    "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
+    "link": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
+    "published_date": "2026-10-29T09:39:02.296681"
   }
 ]
