@@ -1,10 +1,5 @@
 [
   {
-    "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
-    "link": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
-    "published_date": "2026-10-23T07:12:25.133484"
-  },
-  {
     "title": "Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day’s inflows",
     "link": "https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483",
     "published_date": "2026-10-23T12:46:42.606629"
@@ -188,5 +183,30 @@
     "title": "Live updates: Binance confirms security breach, says 'will cover all hacking losses'",
     "link": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings",
     "published_date": "2026-10-30T01:43:30.134915"
+  },
+  {
+    "title": "Binance hacker dumps a little-known 2017 token and it crashes 90%",
+    "link": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-dumps-a-little-known-2017-token-and-it-crashes-90",
+    "published_date": "2026-10-30T08:20:20.657986"
+  },
+  {
+    "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
+    "link": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze",
+    "published_date": "2026-10-30T08:20:21.069497"
+  },
+  {
+    "title": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
+    "link": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
+    "published_date": "2026-10-30T08:20:21.467614"
+  },
+  {
+    "title": "Bitcoin slides below $77,000, BNB drops amid Binance hack",
+    "link": "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183",
+    "published_date": "2026-10-30T08:20:21.766691"
+  },
+  {
+    "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
+    "link": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity",
+    "published_date": "2026-10-30T08:20:22.474354"
   }
 ]
