@@ -1,10 +1,5 @@
 [
   {
-    "title": "Treasury yields log biggest drop since the 2023 banking crisis. Here’s what’s going on.",
-    "link": "https://www.marketwatch.com/story/treasury-yields-see-extreme-plunge-why-investors-are-ducking-for-cover-60044c66?mod=mw_rss_topstories",
-    "published_date": "2026-10-22T23:05:18.633517"
-  },
-  {
     "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
     "link": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
     "published_date": "2026-10-23T07:12:25.133484"
@@ -178,5 +173,20 @@
     "title": "Multi-billion Binance hack hitting crypto markets",
     "link": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
     "published_date": "2026-10-29T21:40:06.682669"
+  },
+  {
+    "title": "Binance hack drained wallets backing customer assets, reserve data shows",
+    "link": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
+    "published_date": "2026-10-30T01:43:29.297824"
+  },
+  {
+    "title": "Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets",
+    "link": "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum",
+    "published_date": "2026-10-30T01:43:29.720686"
+  },
+  {
+    "title": "Live updates: Binance confirms security breach, says 'will cover all hacking losses'",
+    "link": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings",
+    "published_date": "2026-10-30T01:43:30.134915"
   }
 ]
