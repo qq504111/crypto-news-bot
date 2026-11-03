@@ -1,25 +1,5 @@
 [
   {
-    "title": "Brazil’s Stock Market Crashes After Lula’s Upset Victory",
-    "link": "https://decrypt.co/381828/brazil-stock-market-crashes-lula-upset-victory",
-    "published_date": "2026-10-26T20:25:03.161195"
-  },
-  {
-    "title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
-    "link": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
-    "published_date": "2026-10-26T20:25:04.227347"
-  },
-  {
-    "title": "Hyperliquid says Kraken parent Payward to be first CFTC-regulated HIP-3 deployer",
-    "link": "https://www.theblock.co/news/markets/2026-10-26-hyperliquid-payward-kraken-cftc-regulated-hip-3-deployer-431787",
-    "published_date": "2026-10-26T20:25:04.569148"
-  },
-  {
-    "title": "NBA becomes third league to sign CFTC prediction market pact, taps Kalshi and Polymarket",
-    "link": "https://www.theblock.co/news/regulation/2026-10-26-nba-cftc-memorandum-of-understanding-prediction-markets-kalshi-polymarket-431764",
-    "published_date": "2026-10-26T20:25:07.168259"
-  },
-  {
     "title": "BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins",
     "link": "https://www.theblock.co/news/business/2026-10-26-blackrock-sbi-startale-mou-431642",
     "published_date": "2026-10-27T05:25:39.168074"
@@ -318,5 +298,30 @@
     "title": "Strive inches closer to becoming second-largest public bitcoin holder after latest $10 million buy",
     "link": "https://www.theblock.co/news/business/2026-11-02-strive-inches-closer-second-largest-public-bitcoin-holder-10-million-buy-432312",
     "published_date": "2026-11-02T18:43:08.704052"
+  },
+  {
+    "title": "Live updates: Bitcoin bounce fades as Binance exploit, AI unwind continue to weigh",
+    "link": "https://www.coindesk.com/markets/2026/11/02/live-updates-binance-records-usd6-billion-outflows-after-starting-withdrawals-less-then-4-of-total-holdings",
+    "published_date": "2026-11-03T01:28:29.162377"
+  },
+  {
+    "title": "Kim Jong-Un’s sister rejects FBI claims linking North Korea to record $6 billion Binance hack: reports",
+    "link": "https://www.theblock.co/news/regulation/2026-11-02-kim-jong-un-sister-rejects-fbi-claims-linking-north-korea-binance-hack-432344",
+    "published_date": "2026-11-03T01:28:29.455224"
+  },
+  {
+    "title": "Mystery $106 Million Crypto Theft Hits EU Entity Days After Binance Hack",
+    "link": "https://decrypt.co/382383/mystery-106-million-crypto-theft-eu-entity-binance-hack",
+    "published_date": "2026-11-03T01:28:29.721120"
+  },
+  {
+    "title": "Claude-Built Linux Exploit Targets Bug That Ubuntu Still Hasn't Patched",
+    "link": "https://decrypt.co/382375/claude-built-linux-exploit-bug-ubuntu",
+    "published_date": "2026-11-03T01:28:29.987077"
+  },
+  {
+    "title": "North Korea Is Laundering Binance Hack Loot at One New Wallet Every 25 Seconds",
+    "link": "https://decrypt.co/382355/north-korea-laundering-binance-hack-loot-new-wallet-every-25-seconds",
+    "published_date": "2026-11-03T01:28:30.270105"
   }
 ]
