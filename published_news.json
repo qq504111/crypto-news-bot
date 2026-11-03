@@ -1,25 +1,5 @@
 [
   {
-    "title": "Solana bug reports now cost 1 SOL as AI floods security teams with spam",
-    "link": "https://www.coindesk.com/tech/2026/10/27/solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam",
-    "published_date": "2026-10-27T10:49:15.014663"
-  },
-  {
-    "title": "Ark Invest buys $5.2 million of Circle shares, sells $15.9 million of its own Bitcoin ETF as BTC grinds lower",
-    "link": "https://www.theblock.co/news/markets/2026-10-27-ark-invest-buys-5-2-million-of-circle-shares-sells-15-9-million-of-its-own-bitcoin-etf-as-btc-grinds-lower-431838",
-    "published_date": "2026-10-27T16:16:35.480085"
-  },
-  {
-    "title": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock",
-    "link": "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock",
-    "published_date": "2026-10-27T16:16:36.370725"
-  },
-  {
-    "title": "Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach",
-    "link": "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach",
-    "published_date": "2026-10-27T16:16:37.294204"
-  },
-  {
     "title": "Live updates: Bitcoin edges higher as Nasdaq surges 1.2%",
     "link": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
     "published_date": "2026-10-27T20:51:36.622625"
@@ -343,5 +323,30 @@
     "title": "DTCC’s tokenization launch could accelerate adoption and boost Securitize, StoneX says",
     "link": "https://www.theblock.co/news/markets/2026-11-02-stonex-dtcc-tokenization-validates-securitize-secz-432331",
     "published_date": "2026-11-03T08:29:34.308342"
+  },
+  {
+    "title": "Liquid’s bitcoin IOUs are fully backed again after a $320 million exploit",
+    "link": "https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit",
+    "published_date": "2026-11-03T16:28:31.364099"
+  },
+  {
+    "title": "Liquid Network restores full bitcoin backing following $320 million exploit",
+    "link": "https://www.theblock.co/news/ecosystems/2026-11-03-liquid-network-restores-full-bitcoin-backing-following-exploit-432387",
+    "published_date": "2026-11-03T16:28:31.710128"
+  },
+  {
+    "title": "North Korea denies role in $6.4 billion Binance hack after FBI points to TraderTraitor",
+    "link": "https://www.coindesk.com/business/2026/11/03/north-korea-denies-role-in-usd6-4-billion-binance-hack-after-fbi-points-to-tradertraitor",
+    "published_date": "2026-11-03T16:28:32.502150"
+  },
+  {
+    "title": "Bitcoin’s latest chart signal looks a lot like the ones before its big crashes",
+    "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-s-price-chart-is-flashing-a-red-signal",
+    "published_date": "2026-11-03T16:28:33.151681"
+  },
+  {
+    "title": "CFTC clears perpetual futures on stocks, bringing crypto trading model to Wall Street",
+    "link": "https://www.coindesk.com/policy/2026/11/03/cftc-clears-perpetual-futures-on-stocks-bringing-crypto-trading-model-to-wall-street",
+    "published_date": "2026-11-03T16:28:33.810436"
   }
 ]
