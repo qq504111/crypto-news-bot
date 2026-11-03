@@ -1,15 +1,5 @@
 [
   {
-    "title": "Live updates: Bitcoin edges higher as Nasdaq surges 1.2%",
-    "link": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
-    "published_date": "2026-10-27T20:51:36.622625"
-  },
-  {
-    "title": "CFTC sues Utah as battle over prediction market regulation intensifies",
-    "link": "https://www.theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922",
-    "published_date": "2026-10-27T20:51:37.042081"
-  },
-  {
     "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
     "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
     "published_date": "2026-10-28T06:06:06.089079"
@@ -348,5 +338,25 @@
     "title": "CFTC clears perpetual futures on stocks, bringing crypto trading model to Wall Street",
     "link": "https://www.coindesk.com/policy/2026/11/03/cftc-clears-perpetual-futures-on-stocks-bringing-crypto-trading-model-to-wall-street",
     "published_date": "2026-11-03T16:28:33.810436"
+  },
+  {
+    "title": "South Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack",
+    "link": "https://www.coindesk.com/tech/2026/11/03/south-korea-s-president-says-country-needs-a-cybersecurity-czar-following-usd6-3-billion-binance-hack",
+    "published_date": "2026-11-03T21:55:07.109863"
+  },
+  {
+    "title": "CZ calls for crypto security alliance as AI-driven attacks accelerate after Binance hack",
+    "link": "https://www.theblock.co/news/regulation/2026-11-03-cz-calls-for-crypto-security-alliance-ai-driven-attacks-accelerate-binance-hack-432458",
+    "published_date": "2026-11-03T21:55:07.540558"
+  },
+  {
+    "title": "North Korea Denies $6.3B Binance Hack, Calls FBI Finding a 'Political Provocation'",
+    "link": "https://decrypt.co/382394/north-korea-denies-6-3b-binance-hack-calls-fbi-finding-a-political-provocation",
+    "published_date": "2026-11-03T21:55:08.057869"
+  },
+  {
+    "title": "CFTC approves individual stock perpetual futures trading in US for the first time",
+    "link": "https://www.theblock.co/news/regulation/2026-11-03-cftc-approves-individual-stock-perpetual-futures-trading-in-us-for-first-time-432422",
+    "published_date": "2026-11-03T21:55:08.564419"
   }
 ]
