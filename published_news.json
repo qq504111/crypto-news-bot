@@ -1,20 +1,5 @@
 [
   {
-    "title": "Binance hack drained wallets backing customer assets, reserve data shows",
-    "link": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
-    "published_date": "2026-10-30T01:43:29.297824"
-  },
-  {
-    "title": "Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets",
-    "link": "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum",
-    "published_date": "2026-10-30T01:43:29.720686"
-  },
-  {
-    "title": "Live updates: Binance confirms security breach, says 'will cover all hacking losses'",
-    "link": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings",
-    "published_date": "2026-10-30T01:43:30.134915"
-  },
-  {
     "title": "Binance hacker dumps a little-known 2017 token and it crashes 90%",
     "link": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-dumps-a-little-known-2017-token-and-it-crashes-90",
     "published_date": "2026-10-30T08:20:20.657986"
@@ -353,5 +338,15 @@
     "title": "Hyperliquid Strategies files to become CFTC-registered FCM, posts $13.3 million in quaterly revenue",
     "link": "https://www.theblock.co/news/markets/2026-11-05-hyperliquid-strategies-files-become-cftc-registered-fcm-posts-13-3-million-quaterly-revenue-435455",
     "published_date": "2026-11-06T00:53:47.098379"
+  },
+  {
+    "title": "Zcash’s major network upgrade NU7 goes live on mainnet, cutting block time by threefold",
+    "link": "https://www.theblock.co/news/defi/2026-11-06-zcashs-nu7-goes-live-435807",
+    "published_date": "2026-11-06T07:46:52.900028"
+  },
+  {
+    "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
+    "link": "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
+    "published_date": "2026-11-06T07:46:53.662884"
   }
 ]
