@@ -1,15 +1,5 @@
 [
   {
-    "title": "Polymarket resumes trading after $2.65 million exploit, says third-party provider was compromised",
-    "link": "https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158",
-    "published_date": "2026-10-29T21:40:06.034146"
-  },
-  {
-    "title": "Multi-billion Binance hack hitting crypto markets",
-    "link": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
-    "published_date": "2026-10-29T21:40:06.682669"
-  },
-  {
     "title": "Binance hack drained wallets backing customer assets, reserve data shows",
     "link": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
     "published_date": "2026-10-30T01:43:29.297824"
@@ -358,5 +348,10 @@
     "title": "Payward-affiliated fund and clients buy AAVE token stake on secondary market",
     "link": "https://www.theblock.co/news/business/2026-11-05-payward-affiliated-fund-clients-buy-aave-token-stake-secondary-market-aave-says-434798",
     "published_date": "2026-11-05T19:51:21.583209"
+  },
+  {
+    "title": "Hyperliquid Strategies files to become CFTC-registered FCM, posts $13.3 million in quaterly revenue",
+    "link": "https://www.theblock.co/news/markets/2026-11-05-hyperliquid-strategies-files-become-cftc-registered-fcm-posts-13-3-million-quaterly-revenue-435455",
+    "published_date": "2026-11-06T00:53:47.098379"
   }
 ]
