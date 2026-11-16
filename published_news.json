@@ -1,30 +1,5 @@
 [
   {
-    "title": "Live news: Bitcoin narrows loss as Nasdaq surges more than 2%",
-    "link": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average",
-    "published_date": "2026-11-09T18:31:05.860856"
-  },
-  {
-    "title": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
-    "link": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
-    "published_date": "2026-11-09T18:31:06.748361"
-  },
-  {
-    "title": "Binance hack launderers mint homemade Elon Musk, animal memecoins to move stolen funds: Elliptic",
-    "link": "https://www.theblock.co/news/ecosystems/2026-11-09-binance-hack-launderers-mint-homemade-elon-musk-animal-memecoins-move-stolen-funds-elliptic-436440",
-    "published_date": "2026-11-09T18:31:07.245620"
-  },
-  {
-    "title": "‘Connecting the dots’: Michael Saylor’s Strategy buys another 1,036 bitcoin for $82 million as holdings top 850,000 BTC",
-    "link": "https://www.theblock.co/news/business/2026-11-09-connecting-the-dots-michael-saylor-strategy-bitcoin-436094",
-    "published_date": "2026-11-09T18:31:07.708658"
-  },
-  {
-    "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
-    "link": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
-    "published_date": "2026-11-09T18:31:08.541961"
-  },
-  {
     "title": "Zcash developers want 20-second blocks just days after major speed upgrade",
     "link": "https://www.coindesk.com/tech/2026/11/09/zcash-developers-want-20-second-blocks-just-days-after-major-speed-upgrade",
     "published_date": "2026-11-10T01:55:12.396053"
@@ -218,5 +193,25 @@
     "title": "Why this 40-year market veteran is making a lonely bet on a 40% stock-market crash — and $500 oil",
     "link": "https://www.marketwatch.com/story/why-this-40-year-market-veteran-is-making-a-lonely-bet-on-a-40-stock-market-crash-and-500-oil-c62aefdb?mod=mw_rss_topstories",
     "published_date": "2026-11-16T10:49:14.403704"
+  },
+  {
+    "title": "Lighter suspends all withdrawals after $10.4 million crypto exploit",
+    "link": "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit",
+    "published_date": "2026-11-16T20:51:21.152495"
+  },
+  {
+    "title": "‘This dip could use a little orange’: Michael Saylor’s Strategy buys another 485 BTC for $33 million as bitcoin tumbles",
+    "link": "https://www.theblock.co/news/business/2026-11-16-this-dip-could-use-a-little-orange-michael-saylor-strategy-bitcoin-tumbles-440886",
+    "published_date": "2026-11-16T20:51:21.450010"
+  },
+  {
+    "title": "U.S. Senate Democrats tell CFTC to back off its demand prediction markets defy bans",
+    "link": "https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans",
+    "published_date": "2026-11-16T20:51:21.967757"
+  },
+  {
+    "title": "Democratic senators warn SEC’s tokenized stock exemption has illicit finance gaps",
+    "link": "https://www.theblock.co/news/regulation/2026-11-16-democratic-senators-warn-secs-tokenized-stock-exemption-illicit-finance-gaps-441432",
+    "published_date": "2026-11-16T20:51:22.247441"
   }
 ]
