@@ -1,20 +1,5 @@
 [
   {
-    "title": "Zcash developers want 20-second blocks just days after major speed upgrade",
-    "link": "https://www.coindesk.com/tech/2026/11/09/zcash-developers-want-20-second-blocks-just-days-after-major-speed-upgrade",
-    "published_date": "2026-11-10T01:55:12.396053"
-  },
-  {
-    "title": "Prediction market broker River Markets registers affiliate as CFTC futures commission merchant",
-    "link": "https://www.theblock.co/news/regulation/2026-11-09-river-markets-prediction-market-prime-brokerage-cftc-fcm-registration-436266",
-    "published_date": "2026-11-10T01:55:12.733331"
-  },
-  {
-    "title": "Formation notifies SEC to operate first tokenized securities venue on Solana",
-    "link": "https://www.theblock.co/news/defi/2026-11-09-formation-tokenized-securities-solana-436060",
-    "published_date": "2026-11-10T01:55:13.067995"
-  },
-  {
     "title": "Coinbase, Kalshi, Kraken parent back CFTC in legal fight over stock perpetual futures",
     "link": "https://www.coindesk.com/policy/2026/11/10/coinbase-kalshi-kraken-parent-back-cftc-in-legal-fight-over-stock-perpetual-futures",
     "published_date": "2026-11-10T09:28:58.327328"
@@ -213,5 +198,10 @@
     "title": "Democratic senators warn SEC’s tokenized stock exemption has illicit finance gaps",
     "link": "https://www.theblock.co/news/regulation/2026-11-16-democratic-senators-warn-secs-tokenized-stock-exemption-illicit-finance-gaps-441432",
     "published_date": "2026-11-16T20:51:22.247441"
+  },
+  {
+    "title": "CFTC backs blockchain-based derivatives infrastructure as Backpack, tZERO win approvals",
+    "link": "https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591",
+    "published_date": "2026-11-17T03:31:33.587016"
   }
 ]
