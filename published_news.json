@@ -1,20 +1,5 @@
 [
   {
-    "title": "Bitcoin Core discloses three patched security flaws, including high-severity mining bug",
-    "link": "https://www.theblock.co/news/ecosystems/2026-11-11-bitcoin-core-discloses-three-patched-security-flaws-including-high-severity-mining-bug-437862",
-    "published_date": "2026-11-11T17:46:25.290343"
-  },
-  {
-    "title": "StoneX sees 111% upside for Securitize shares as tokenization revenue rebounds",
-    "link": "https://www.theblock.co/news/markets/2026-11-11-stonex-sees-111-upside-for-securitize-shares-as-tokenization-revenue-rebounds-437910",
-    "published_date": "2026-11-11T17:46:25.726443"
-  },
-  {
-    "title": "OKXICE sets Nov. 23 launch for tokenized securities venue under SEC innovation exemption",
-    "link": "https://www.theblock.co/news/regulation/2026-11-11-okxice-sets-nov-23-launch-for-tokenized-securities-venue-under-sec-innovation-exemption-437342",
-    "published_date": "2026-11-11T17:46:26.189192"
-  },
-  {
     "title": "SEC enters fight over who regulates perpetual derivatives on stocks in the US",
     "link": "https://www.theblock.co/news/regulation/2026-11-11-sec-enters-fight-who-regulates-perpetual-derivatives-stocks-in-us-438427",
     "published_date": "2026-11-12T00:16:59.254791"
@@ -213,5 +198,10 @@
     "title": "Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike",
     "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-outpaces-gold-even-as-both-assets-tumble-ahead-of-a-likely-fed-rate-hike",
     "published_date": "2026-11-18T12:07:51.918325"
+  },
+  {
+    "title": "Backpack secures NFA approval, completing licensing stack for US derivatives launch",
+    "link": "https://www.theblock.co/news/business/2026-11-18-backpack-completes-regulatory-framework-us-entry-442980",
+    "published_date": "2026-11-18T20:49:20.120701"
   }
 ]
