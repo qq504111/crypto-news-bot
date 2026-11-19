@@ -1,30 +1,5 @@
 [
   {
-    "title": "SEC enters fight over who regulates perpetual derivatives on stocks in the US",
-    "link": "https://www.theblock.co/news/regulation/2026-11-11-sec-enters-fight-who-regulates-perpetual-derivatives-stocks-in-us-438427",
-    "published_date": "2026-11-12T00:16:59.254791"
-  },
-  {
-    "title": "Bitcoin ETFs Bleed $1.4B in Five Days as Investors Cut Risk",
-    "link": "https://decrypt.co/383122/bitcoin-etfs-bleed-1-4b-in-five-days-as-investors-cut-risk",
-    "published_date": "2026-11-12T16:40:35.552422"
-  },
-  {
-    "title": "Securitize and Ethena’s $100 million BlackRock BUIDL liquidity facility goes live",
-    "link": "https://www.theblock.co/news/ecosystems/2026-11-12-securitize-ethena-buidl-liquidity-facility-live-usdc-438442",
-    "published_date": "2026-11-12T16:40:35.997551"
-  },
-  {
-    "title": "DTCC plans to bring tokenized securities to Solana in second half of 2027",
-    "link": "https://www.theblock.co/news/business/2026-11-12-dtcc-plans-bring-tokenized-securities-solana-second-half-of-2027-438559",
-    "published_date": "2026-11-12T16:40:36.444484"
-  },
-  {
-    "title": "Chainstack says AI-powered security breach exposed customer data; threat now contained",
-    "link": "https://www.theblock.co/news/ecosystems/2026-11-12-chainstack-security-breach-438509",
-    "published_date": "2026-11-12T16:40:36.885113"
-  },
-  {
     "title": "Louisiana sues Kalshi, Robinhood and other prediction markets in escalating regulatory fight",
     "link": "https://www.theblock.co/news/regulation/2026-11-12-louisiana-sues-kalshi-robinhood-other-prediction-markets-escalating-regulatory-fight-439052",
     "published_date": "2026-11-12T22:38:38.238166"
@@ -203,5 +178,25 @@
     "title": "Backpack secures NFA approval, completing licensing stack for US derivatives launch",
     "link": "https://www.theblock.co/news/business/2026-11-18-backpack-completes-regulatory-framework-us-entry-442980",
     "published_date": "2026-11-18T20:49:20.120701"
+  },
+  {
+    "title": "Bitcoin holds above $63,750 but Fed rate-hike threats loom large",
+    "link": "https://www.coindesk.com/markets/2026/11/19/bitcoin-holds-above-usd63-750-but-fed-rate-hike-threats-loom-large",
+    "published_date": "2026-11-19T19:24:50.041422"
+  },
+  {
+    "title": "Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut",
+    "link": "https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut",
+    "published_date": "2026-11-19T19:24:50.870783"
+  },
+  {
+    "title": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
+    "link": "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process",
+    "published_date": "2026-11-19T19:24:51.684420"
+  },
+  {
+    "title": "CFTC Chair Selig outlines how Hyperliquid and other onchain venues could enter the US",
+    "link": "https://www.theblock.co/news/regulation/2026-11-19-cftc-chair-selig-hyperliquid-onchain-venues-the-us-444106",
+    "published_date": "2026-11-19T19:24:52.117665"
   }
 ]
