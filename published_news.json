@@ -1,25 +1,5 @@
 [
   {
-    "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
-    "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
-    "published_date": "2026-11-13T11:25:47.199946"
-  },
-  {
-    "title": "JPMorgan reports 36% rise in Strategy share holdings and $540 million in BlackRock’s bitcoin ETF",
-    "link": "https://www.theblock.co/news/business/2026-11-13-jpmorgan-reports-36-rise-in-strategy-share-holdings-and-540-million-in-blackrocks-bitcoin-etf-439671",
-    "published_date": "2026-11-13T11:25:47.479531"
-  },
-  {
-    "title": "DOJ, CFTC sue Arkansas to block state enforcement action against Kalshi",
-    "link": "https://www.theblock.co/news/regulation/2026-11-13-doj-cftc-sue-arkansas-to-block-state-enforcement-action-against-kalshi-439669",
-    "published_date": "2026-11-13T11:25:47.752163"
-  },
-  {
-    "title": "White House sends crypto-relevant picks to fill SEC and CFTC seats",
-    "link": "https://www.theblock.co/news/regulation/2026-11-12-white-house-crypto-picks-sec-cftc-439175",
-    "published_date": "2026-11-13T11:25:48.016529"
-  },
-  {
     "title": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
     "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
     "published_date": "2026-11-13T18:40:59.605127"
@@ -198,5 +178,25 @@
     "title": "Coinbase backs CFTC proposal to distinguish prediction market contracts from gambling",
     "link": "https://www.theblock.co/news/business/2026-11-19-coinbase-backs-cftc-prediction-markets-444152",
     "published_date": "2026-11-20T08:58:29.448438"
+  },
+  {
+    "title": "US spot bitcoin ETFs see $582 million in daily net outflows as November total nears $3.5 billion",
+    "link": "https://www.theblock.co/news/markets/2026-11-20-us-spot-bitcoin-etfs-see-582-million-in-daily-net-outflows-as-november-total-nears-3-5-billion-444217",
+    "published_date": "2026-11-20T17:42:26.071538"
+  },
+  {
+    "title": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
+    "link": "https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys",
+    "published_date": "2026-11-20T17:42:27.083551"
+  },
+  {
+    "title": "Bitcoin ETFs Shed $582M in a Day as BTC Drops Below $62K",
+    "link": "https://decrypt.co/383685/bitcoin-etfs-shed-582m-in-a-day-as-btc-drops-below-62k",
+    "published_date": "2026-11-20T17:42:27.554819"
+  },
+  {
+    "title": "No special rules for Hyperliquid or other onchain trading platforms, CFTC says",
+    "link": "https://www.coindesk.com/markets/2026/11/20/cftc-tells-hyperliquid-and-crypto-rivals-no-special-rules-for-onchain-trading",
+    "published_date": "2026-11-20T17:42:28.200927"
   }
 ]
