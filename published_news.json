@@ -1,10 +1,5 @@
 [
   {
-    "title": "Backpack secures NFA approval, completing licensing stack for US derivatives launch",
-    "link": "https://www.theblock.co/news/business/2026-11-18-backpack-completes-regulatory-framework-us-entry-442980",
-    "published_date": "2026-11-18T20:49:20.120701"
-  },
-  {
     "title": "Bitcoin holds above $63,750 but Fed rate-hike threats loom large",
     "link": "https://www.coindesk.com/markets/2026/11/19/bitcoin-holds-above-usd63-750-but-fed-rate-hike-threats-loom-large",
     "published_date": "2026-11-19T19:24:50.041422"
@@ -258,5 +253,25 @@
     "title": "Hong Kong Monetary Authority launches digital asset platform for tokenized debt securities",
     "link": "https://www.theblock.co/news/regulation/2026-11-25-hong-kong-debt-securities-tokenization-446132",
     "published_date": "2026-11-25T14:09:58.762993"
+  },
+  {
+    "title": "Bitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections",
+    "link": "https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723",
+    "published_date": "2026-11-25T23:13:26.288926"
+  },
+  {
+    "title": "Fidelity files for spot Chainlink ETF with planned Nasdaq listing",
+    "link": "https://www.theblock.co/news/business/2026-11-25-fidelity-chainlink-etf-nasdaq-listing-446735",
+    "published_date": "2026-11-25T23:13:26.601355"
+  },
+  {
+    "title": "Hyperliquid’s HYPE will join bitcoin, ether and more in Franklin Templeton’s crypto ETF",
+    "link": "https://www.theblock.co/news/markets/2026-11-25-franklin-templeton-ezpz-etf-adds-hyperliquid-hype-446686",
+    "published_date": "2026-11-25T23:13:26.920411"
+  },
+  {
+    "title": "Sens. Warren, Van Hollen lead push to scrap SEC’s Regulation Crypto and innovation exemption",
+    "link": "https://www.theblock.co/news/regulation/2026-11-25-warren-van-hollen-lead-push-scrap-sec-regulation-crypto-innovation-exemption-446756",
+    "published_date": "2026-11-25T23:13:27.225865"
   }
 ]
